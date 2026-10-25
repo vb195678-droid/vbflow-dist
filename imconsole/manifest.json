@@ -1,0 +1,24 @@
+{
+ "product": "imconsole",
+ "channel": "stable",
+ "version": "1.1.3",
+ "build": 134,
+ "minBuild": 133,
+ "minMacOS": "26.0",
+ "size": 44381501,
+ "sha256": "ad2900b4418f07ea43a649df4f2fe79e13c34a3c8bb968dc8512fdf97fa2a96e",
+ "parts": [
+  {
+   "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r134/VBFlowConsole-1.1.3.zip",
+   "size": 44381501,
+   "sha256": "ad2900b4418f07ea43a649df4f2fe79e13c34a3c8bb968dc8512fdf97fa2a96e"
+  }
+ ],
+ "fullURL": null,
+ "serverVersion": "1.1.3",
+ "serverSHA256": "edc218aa4a1462604eac58a4ae63ccc9eb4d9450906e618cdc6b697fd8f40c49",
+ "teamID": "NJ44RP2ZZ8",
+ "notes": "修复和改进",
+ "releasedAt": "2026-10-25T22:08:24Z",
+ "rollout": 100
+}
