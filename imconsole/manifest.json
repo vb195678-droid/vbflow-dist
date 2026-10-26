@@ -1,24 +1,24 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.11",
- "build": 142,
+ "version": "1.1.12",
+ "build": 143,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46136524,
- "sha256": "2341622fc38324caa40a5c590bceb6b9cf8240a6a6ef481b5c9bceb650f973b9",
+ "size": 46224063,
+ "sha256": "1cef350b126a03e4f264b3cda864da6589ae7a5a87c39bb86fe890656c50ff0a",
  "parts": [
   {
-   "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r142/VBFlowConsole-1.1.11.zip",
-   "size": 46136524,
-   "sha256": "2341622fc38324caa40a5c590bceb6b9cf8240a6a6ef481b5c9bceb650f973b9"
+   "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r143/VBFlowConsole-1.1.12.zip",
+   "size": 46224063,
+   "sha256": "1cef350b126a03e4f264b3cda864da6589ae7a5a87c39bb86fe890656c50ff0a"
   }
  ],
  "fullURL": null,
  "serverVersion": "1.1.9",
- "serverSHA256": "2ae4d37269f036318ce31f039049d99fbffe4637f47c5cde1ed8ae421c08c38e",
+ "serverSHA256": "d6762444922d74a4e25e516560c18fba1723237ad82eb1463e8dda5137df235d",
  "teamID": "NJ44RP2ZZ8",
- "notes": "服务器 1.1.9：邀请码 / 登录码带中转地址、开发商口令、组织架构五段、语音经中转、打洞加强",
- "releasedAt": "2026-10-26T21:59:05Z",
+ "notes": "总控 1.1.12：初始导航「员工怎么连」改版（按场景分：公司局域网 / 不在公司；免费方案 + 保底方案：开发商口令、自己的中转、免费试用 3 天）",
+ "releasedAt": "2026-10-26T22:04:31Z",
  "rollout": 100
 }
