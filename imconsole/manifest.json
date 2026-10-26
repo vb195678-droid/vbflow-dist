@@ -1,34 +1,34 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.7",
- "build": 138,
+ "version": "1.1.8",
+ "build": 139,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 44834744,
- "sha256": "d2fd7aeb0f5e5ca19b4e0169037e0f3362ac65290ef5ca03e855e6eb54a55d0c",
+ "size": 44924005,
+ "sha256": "2b8d1b5c02072b852083bc8b86a38ab0562e2189fd349356b5b9fa4853e63d3a",
  "parts": [
   {
-   "url": "r138/part-aa",
+   "url": "r139/part-aa",
    "size": 19922944,
-   "sha256": "8a74f1096fde35aa1d8d7f9940d36f468c0be38c65e12fc43153b1d1bc3371d9"
+   "sha256": "b1b5efbef4a0d9415ab13b11bab373aa0bb0868725dd2eb5e5ced34df74af7b9"
   },
   {
-   "url": "r138/part-ab",
+   "url": "r139/part-ab",
    "size": 19922944,
-   "sha256": "d374de00f60785fcf1efa77a75297281550b2dcc0360a1464859e7e6a73bdae9"
+   "sha256": "bd7a8791528845f3e10625b313c2b1143114c15d79723171f43f10dc68a6ffc2"
   },
   {
-   "url": "r138/part-ac",
-   "size": 4988856,
-   "sha256": "7f52006c45bb78ae8d2a5fdae28008118753b3314a455a736b8a62b31dabbfde"
+   "url": "r139/part-ac",
+   "size": 5078117,
+   "sha256": "b9b708df5124167f7d51c65a564f2f36046907424371ad4bd4a95c76293b74f2"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r138/VBFlowConsole-1.1.7.zip",
- "serverVersion": "1.1.6",
- "serverSHA256": "73a1114a9e2f84b04052db72e507fe4d0ee07b829b40982326288b22bf2dc04d",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r139/VBFlowConsole-1.1.8.zip",
+ "serverVersion": "1.1.7",
+ "serverSHA256": "c24e1661d33b1f2f5ce6475ef59c6ce078d4b5e161d528b554150c45bb063e84",
  "teamID": "NJ44RP2ZZ8",
- "notes": "国内升级、下载提速：多条线路按实际速度选最快、慢了自动换、断点续传；检查更新各家都问取最新；去掉注册专用；服务器 1.1.6（名字过长不再拒绝、可发安装包 zip）",
- "releasedAt": "2026-10-26T03:27:17Z",
+ "notes": "下载线路速度监控（总控「下载›线路速度」）；导航第 7 步不再被没定岗位卡住；服务器 1.1.7：每家公司内置岗位、员工扫码自选岗位（可选暂无岗位）、邀请码按公司、管理员一键确认",
+ "releasedAt": "2026-10-26T07:05:38Z",
  "rollout": 100
 }
