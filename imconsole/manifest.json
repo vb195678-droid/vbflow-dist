@@ -1,34 +1,24 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.8",
- "build": 139,
+ "version": "1.1.11",
+ "build": 142,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 44924005,
- "sha256": "2b8d1b5c02072b852083bc8b86a38ab0562e2189fd349356b5b9fa4853e63d3a",
+ "size": 46136524,
+ "sha256": "2341622fc38324caa40a5c590bceb6b9cf8240a6a6ef481b5c9bceb650f973b9",
  "parts": [
   {
-   "url": "r139/part-aa",
-   "size": 19922944,
-   "sha256": "b1b5efbef4a0d9415ab13b11bab373aa0bb0868725dd2eb5e5ced34df74af7b9"
-  },
-  {
-   "url": "r139/part-ab",
-   "size": 19922944,
-   "sha256": "bd7a8791528845f3e10625b313c2b1143114c15d79723171f43f10dc68a6ffc2"
-  },
-  {
-   "url": "r139/part-ac",
-   "size": 5078117,
-   "sha256": "b9b708df5124167f7d51c65a564f2f36046907424371ad4bd4a95c76293b74f2"
+   "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r142/VBFlowConsole-1.1.11.zip",
+   "size": 46136524,
+   "sha256": "2341622fc38324caa40a5c590bceb6b9cf8240a6a6ef481b5c9bceb650f973b9"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r139/VBFlowConsole-1.1.8.zip",
- "serverVersion": "1.1.7",
- "serverSHA256": "c24e1661d33b1f2f5ce6475ef59c6ce078d4b5e161d528b554150c45bb063e84",
+ "fullURL": null,
+ "serverVersion": "1.1.9",
+ "serverSHA256": "2ae4d37269f036318ce31f039049d99fbffe4637f47c5cde1ed8ae421c08c38e",
  "teamID": "NJ44RP2ZZ8",
- "notes": "下载线路速度监控（总控「下载›线路速度」）；导航第 7 步不再被没定岗位卡住；服务器 1.1.7：每家公司内置岗位、员工扫码自选岗位（可选暂无岗位）、邀请码按公司、管理员一键确认",
- "releasedAt": "2026-10-26T07:05:38Z",
+ "notes": "服务器 1.1.9：邀请码 / 登录码带中转地址、开发商口令、组织架构五段、语音经中转、打洞加强",
+ "releasedAt": "2026-10-26T21:59:05Z",
  "rollout": 100
 }
