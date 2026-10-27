@@ -1,24 +1,24 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.13",
- "build": 144,
+ "version": "1.1.14",
+ "build": 145,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46247122,
- "sha256": "079effd5351ba9be42233ed8d47777b78b9404f5f4a5a4f62066b05055a0cab8",
+ "size": 46519704,
+ "sha256": "41d7b18f93877d2758d579923fa05ade68e846c96cc089c89ccd72e112bab27d",
  "parts": [
   {
-   "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r144/VBFlowConsole-1.1.13.zip",
-   "size": 46247122,
-   "sha256": "079effd5351ba9be42233ed8d47777b78b9404f5f4a5a4f62066b05055a0cab8"
+   "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r145/VBFlowConsole-1.1.14.zip",
+   "size": 46519704,
+   "sha256": "41d7b18f93877d2758d579923fa05ade68e846c96cc089c89ccd72e112bab27d"
   }
  ],
  "fullURL": null,
- "serverVersion": "1.1.9",
- "serverSHA256": "35548b78114f0a64ab8f48d4f8f830d1b67e8d422687e545ff9c5f73db715e96",
+ "serverVersion": "1.1.10",
+ "serverSHA256": "3ccae5982a939b0172a853630e83df971d5a9daef28779edce217459379ee22c",
  "teamID": "NJ44RP2ZZ8",
- "notes": "总控 1.1.13：初始导航「员工怎么连」v2（公司 Wi-Fi / 自动连接 / 保底连接 / 使用地区；开发商口令、自己的中转、免费试用 3 天；窗口居中占屏幕 80%）",
- "releasedAt": "2026-10-26T22:47:10Z",
+ "notes": "总控 1.1.14：导航「员工怎么连」挡客户的毛病修好；启动台右边使用导航 + 开始使用；帮助里加使用说明、常见问题、问题反馈（去敏）；开发者后台改名开发商口令；服务器 1.1.10：跨机构流程完成 / 撤销后外部显示最终状态、外部看到的公司名跟着改、问题转报只认主登记处、新装服务器问题反馈能转出去",
+ "releasedAt": "2026-10-27T01:55:51Z",
  "rollout": 100
 }
