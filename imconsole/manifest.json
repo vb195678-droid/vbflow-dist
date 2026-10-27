@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.18",
- "build": 150,
+ "version": "1.1.19",
+ "build": 151,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46763588,
- "sha256": "5354fd8e720b9922e9f0f55b54bff28df6a0cc2ccb67e38cfbecfe86d1029042",
+ "size": 46829040,
+ "sha256": "c3cd253677925441c6205b895e53f86df1fb82150a21ccd6a408223c198b341a",
  "parts": [
   {
-   "url": "r150/part-aa",
+   "url": "r151/part-aa",
    "size": 19922944,
-   "sha256": "963879482510129909b7ccd2014a80d9c09a3847e791e1b195004950a089a5b0"
+   "sha256": "576fefbd8fe9bdd063a0ebe136e0c7a08fa548ed1cbc0388801e07222863157b"
   },
   {
-   "url": "r150/part-ab",
+   "url": "r151/part-ab",
    "size": 19922944,
-   "sha256": "9c67be338ba8a23075c179fb503e3ccf00bcbaa59fb43f6d8ecaebb8f825e527"
+   "sha256": "b40103dfc67a92b49da74a18e76a4034e61a52f985c3d18438aa93151dc1dfb5"
   },
   {
-   "url": "r150/part-ac",
-   "size": 6917700,
-   "sha256": "1e6d4ada38fff46005b1f4a80ba73367d7b4dab5282d6992e4a7200e371c1ffe"
+   "url": "r151/part-ac",
+   "size": 6983152,
+   "sha256": "c1c5e48f606f4fe6112251edbda0c0f2692f761542bf063aece785abae3ca9e4"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r150/VBFlowConsole-1.1.18.zip",
- "serverVersion": "1.1.14",
- "serverSHA256": "b051efe010e2de46636bdd960d638b3391af9f6c9015b23bab69d0893ac9e8c4",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r151/VBFlowConsole-1.1.19.zip",
+ "serverVersion": "1.1.15",
+ "serverSHA256": "3fdc0d84d14da83e01652d3939dffacc3aaa0e5f0acca41b78d08669fde83ea2",
  "teamID": "NJ44RP2ZZ8",
- "notes": "总控 1.1.18：企业二维码由本公司服务器直接给，不再问香港（定-038）；底栏超过 5 台左右滑、名字最多 6 个字、选中橘黄调暗；异常 / 注意一个口径；小白导航 3 个卡点；升级线路看门狗、下好才提醒、多条代理线路；下载中心核对通过才清理旧版；「开发商口令」改名「UATIAN 口令」，开发者总控选号生成（6 位数字）、官方钥匙绑定；连接：只剩局域网时红色提醒带「打开保底连接」、打洞和 STUN 更稳；服务器 1.1.14",
- "releasedAt": "2026-10-27T06:40:38Z",
+ "notes": "总控 1.1.19：连接先后（定-042）——局域网、免费线路先走，都不通才走我们的中转，用中转时定时试回免费线路；保底连接每种连接一张卡片、上海 / 新加坡各占一行、自动连接项去开关；左栏 / 底栏去掉数字角标，升级源只报真问题；钥匙串不再弹密码框；下载页国内先走上海镜像、本机那份永远能下；「手机上还没有 App」指向下载 › 手机、说明栏加「使用导航」、下载 › 手机加 iPhone 扫码装 App 的二维码；服务器 1.1.15",
+ "releasedAt": "2026-10-27T10:01:53Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r150/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r150/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r150/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r151/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r151/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r151/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r151/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r151/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r151/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r151/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r151/imconsole/"
  ]
 }
