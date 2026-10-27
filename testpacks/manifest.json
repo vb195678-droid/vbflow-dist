@@ -1,8 +1,8 @@
 {
  "product": "vb-testpacks",
  "schema": 1,
- "seq": 1,
- "issuedAt": "2026-10-27T03:03:31Z",
+ "seq": 2,
+ "issuedAt": "2026-10-27T03:03:32Z",
  "mirrors": [
   "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/main/testpacks/",
   "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@main/testpacks/"
@@ -20,6 +20,20 @@
    "notBefore": "2026-10-27T03:03:31Z",
    "expiresAt": "2026-10-30T03:03:31Z",
    "timeoutSec": 300,
+   "minAgent": 1
+  },
+  {
+   "id": "TP-20261027-2",
+   "name": "连我们的线路",
+   "file": "packs/TP-20261027-2.zsh",
+   "sha256": "2f371ab29cee7771cd6da244f2d1d10a56b1d0282a93cbfc957768e5bbe5f530",
+   "size": 3270,
+   "targets": {
+    "all": true
+   },
+   "notBefore": "2026-10-27T03:03:32Z",
+   "expiresAt": "2026-10-30T03:03:32Z",
+   "timeoutSec": 600,
    "minAgent": 1
   }
  ]
