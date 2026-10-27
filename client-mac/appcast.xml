@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>VB待办流程 Direct</title>
+    <language>zh-CN</language>
+    <item>
+      <title>版本 1.1.212</title>
+      <pubDate>Tue, 27 Oct 2026 12:50:00 +0800</pubDate>
+      <sparkle:version>212</sparkle:version>
+      <sparkle:shortVersionString>1.1.212</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r212/VBFlow-Direct-1.1.212-212.zip" length="22432626" type="application/octet-stream" sparkle:edSignature="KOjJ6vOAjBoBu9V4hi0J78HuO+jHt1xOTTPIj39n0fZYEU8vw5BwB2+xon2e+MDPmbD/uuOFhrOFfCQHJAnrDA==" />
+    </item>
+  </channel>
+</rss>
