@@ -1,0 +1,26 @@
+{
+ "product": "vb-testpacks",
+ "schema": 1,
+ "seq": 1,
+ "issuedAt": "2026-10-27T03:03:31Z",
+ "mirrors": [
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/main/testpacks/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@main/testpacks/"
+ ],
+ "packs": [
+  {
+   "id": "TP-20261027-1",
+   "name": "通道体检",
+   "file": "packs/TP-20261027-1.zsh",
+   "sha256": "7932840cf3a110c2b676e1542eb2121795cda7f6e8d2f2a77155705156ca9e7d",
+   "size": 3060,
+   "targets": {
+    "all": true
+   },
+   "notBefore": "2026-10-27T03:03:31Z",
+   "expiresAt": "2026-10-30T03:03:31Z",
+   "timeoutSec": 300,
+   "minAgent": 1
+  }
+ ]
+}
