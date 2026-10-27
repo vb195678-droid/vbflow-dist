@@ -1,43 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.17",
- "build": 149,
+ "version": "1.1.18",
+ "build": 150,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46687070,
- "sha256": "48691eddae07872a2933fcbc18d91a359c104e9880f21beab8a552c99412d86e",
+ "size": 46763588,
+ "sha256": "5354fd8e720b9922e9f0f55b54bff28df6a0cc2ccb67e38cfbecfe86d1029042",
  "parts": [
   {
-   "url": "r149/part-aa",
+   "url": "r150/part-aa",
    "size": 19922944,
-   "sha256": "38fce26b15725b4aaf066cabb68129dd774baa6d9ec0edef087ffb5e85c9e289"
+   "sha256": "963879482510129909b7ccd2014a80d9c09a3847e791e1b195004950a089a5b0"
   },
   {
-   "url": "r149/part-ab",
+   "url": "r150/part-ab",
    "size": 19922944,
-   "sha256": "d953cfba521a99999c40fcce88087abfd1ec2746e6dfb302bdb73b7be621b1b3"
+   "sha256": "9c67be338ba8a23075c179fb503e3ccf00bcbaa59fb43f6d8ecaebb8f825e527"
   },
   {
-   "url": "r149/part-ac",
-   "size": 6841182,
-   "sha256": "b352021f6b52f9305e3db180e944d793ea4c04f632242196c2863595c0c2ec8a"
+   "url": "r150/part-ac",
+   "size": 6917700,
+   "sha256": "1e6d4ada38fff46005b1f4a80ba73367d7b4dab5282d6992e4a7200e371c1ffe"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r149/VBFlowConsole-1.1.17.zip",
- "serverVersion": "1.1.13",
- "serverSHA256": "823e13491104754b56dd07a03d03bae15701e429be3c56bd5ccc5d49d66cd0e3",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r150/VBFlowConsole-1.1.18.zip",
+ "serverVersion": "1.1.14",
+ "serverSHA256": "b051efe010e2de46636bdd960d638b3391af9f6c9015b23bab69d0893ac9e8c4",
  "teamID": "NJ44RP2ZZ8",
- "notes": "总控 1.1.17：一台电脑只留一套总控（升级、重装后只剩一套，数据不动）；服务器列表状态改成彩色胶囊、正常行用黑字；所有列表和按钮选中统一橘黄底白字；总控排版：顶上重复的「服务器列表」去掉、下载挪到底栏且按钮都带字、「总控」单独一段；异常一律红底白字标签；小白三导航卡点 7 处；本地网络放行提醒；国内升级分块 + 多线路；内嵌使用说明更新；服务器 1.1.13（打洞对称型预测、时限统一）",
- "releasedAt": "2026-10-27T04:34:41Z",
+ "notes": "总控 1.1.18：企业二维码由本公司服务器直接给，不再问香港（定-038）；底栏超过 5 台左右滑、名字最多 6 个字、选中橘黄调暗；异常 / 注意一个口径；小白导航 3 个卡点；升级线路看门狗、下好才提醒、多条代理线路；下载中心核对通过才清理旧版；「开发商口令」改名「UATIAN 口令」，开发者总控选号生成（6 位数字）、官方钥匙绑定；连接：只剩局域网时红色提醒带「打开保底连接」、打洞和 STUN 更稳；服务器 1.1.14",
+ "releasedAt": "2026-10-27T06:40:38Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r149/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r149/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r149/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r149/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r149/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r149/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r150/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r150/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r150/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r150/imconsole/"
  ]
 }
