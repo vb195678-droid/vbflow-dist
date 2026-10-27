@@ -4,13 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.212</title>
-      <pubDate>Tue, 27 Oct 2026 12:50:00 +0800</pubDate>
-      <sparkle:version>212</sparkle:version>
-      <sparkle:shortVersionString>1.1.212</sparkle:shortVersionString>
+      <title>版本 1.1.213</title>
+      <pubDate>Tue, 27 Oct 2026 21:10:00 +0800</pubDate>
+      <sparkle:version>213</sparkle:version>
+      <sparkle:shortVersionString>1.1.213</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r212/VBFlow-Direct-1.1.212-212.zip" length="22432626" type="application/octet-stream" sparkle:edSignature="KOjJ6vOAjBoBu9V4hi0J78HuO+jHt1xOTTPIj39n0fZYEU8vw5BwB2+xon2e+MDPmbD/uuOFhrOFfCQHJAnrDA==" />
+      <description>VB待办流程 Direct 1.1.213：电脑首次扫码登录（打开就出二维码，手机扫一下就进）、进入 / 换账号显示公司名片、清除按钮一套。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r213/VBFlow-Direct-1.1.213-213.zip" length="22612973" type="application/octet-stream" sparkle:edSignature="PRJtKfMGEW5xS17GlDdUUGmyFfQR/4OwOb7yQqyJdWWMjxGHVAvf/+Td1N1ykSTWmKHffetzinrzBFV3yZxuDA==" />
     </item>
   </channel>
 </rss>
