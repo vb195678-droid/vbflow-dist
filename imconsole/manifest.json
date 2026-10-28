@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.23",
- "build": 155,
+ "version": "1.1.24",
+ "build": 156,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47335452,
- "sha256": "bb62e5817fff7316c5827dac11ee2afd84f7aecaf089b22174d0f38bb1f899cf",
+ "size": 47360639,
+ "sha256": "da6bebb05331b3eaefd0ddf17979a5f45b1cb370a3e3e5db574da90276d817ff",
  "parts": [
   {
-   "url": "r155/part-aa",
+   "url": "r156/part-aa",
    "size": 19922944,
-   "sha256": "c196f97820ce90ef3d9d38fb1e3b396c99a4a9d4d73ce18ce814c31054cba86e"
+   "sha256": "30d42654d5722a6b3cbb085a83760d98261dc1d1608f1478d0bbfbe00793b866"
   },
   {
-   "url": "r155/part-ab",
+   "url": "r156/part-ab",
    "size": 19922944,
-   "sha256": "7cfee0ef241e9445e978bcb5ca2ac0fc885d81e4d557691452d4bafaccc3e4c8"
+   "sha256": "2b6f689d44c55978492ac4774a3a8e21b8adbab7e22d1036fd273e9c4158098c"
   },
   {
-   "url": "r155/part-ac",
-   "size": 7489564,
-   "sha256": "bb4716f0aeab22462eba968cdf9d97d0d13745a03bd5f6edf94f6de5cbd9d46d"
+   "url": "r156/part-ac",
+   "size": 7514751,
+   "sha256": "e821f005895afc92f5d8319a74e760dc009526627d14de52a831d943291be7c6"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r155/VBFlowConsole-1.1.23.zip",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r156/VBFlowConsole-1.1.24.zip",
  "serverVersion": "1.1.19",
- "serverSHA256": "fe58e9083c1f5e6c9e175b85211957212f619c489f30c60ff75b40afc4ba61aa",
+ "serverSHA256": "0e68f6f75a320e8e08b19a8f6c1f663584f4cfa67afa6d2b8c345e80663ef44f",
  "teamID": "NJ44RP2ZZ8",
- "notes": "注册自动审核（名字加手机后 4 位）、局域网地址识别（30.x 等）、邀请页『用电脑打开』按钮、弱网先保流程附件后补",
- "releasedAt": "2026-10-28T05:35:56Z",
+ "notes": "修复：公司外面连不进来的红字误报（隧道判断）；连接通道不通时写「暂时没有」、不再红字吓人；通道名后面标传输类型；没开成的自动开端口不再每小时自己重试；新手导航、联网设置文字更短、更好懂",
+ "releasedAt": "2026-10-28T06:45:33Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r155/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r155/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r155/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r155/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r155/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r155/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r155/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r155/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r156/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r156/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r156/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r156/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r156/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r156/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r156/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r156/imconsole/"
  ]
 }
