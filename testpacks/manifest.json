@@ -1,8 +1,8 @@
 {
  "product": "vb-testpacks",
  "schema": 1,
- "seq": 3,
- "issuedAt": "2026-10-27T03:03:34Z",
+ "seq": 4,
+ "issuedAt": "2026-10-28T01:29:59Z",
  "mirrors": [
   "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/main/testpacks/",
   "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@main/testpacks/"
@@ -48,6 +48,22 @@
    "notBefore": "2026-10-27T03:03:34Z",
    "expiresAt": "2026-10-30T03:03:34Z",
    "timeoutSec": 600,
+   "minAgent": 1
+  },
+  {
+   "id": "TP-20261028-092946",
+   "name": "局域网体检",
+   "file": "packs/TP-20261028-092946.zsh",
+   "sha256": "666ce9ed917fa4cf0221e57b345210c7ea8dd1a7d00f2c742501abbb196167fb",
+   "size": 4051,
+   "targets": {
+    "servers": [
+     "000094"
+    ]
+   },
+   "notBefore": "2026-10-28T01:29:59Z",
+   "expiresAt": "2026-10-29T01:29:59Z",
+   "timeoutSec": 120,
    "minAgent": 1
   }
  ]
