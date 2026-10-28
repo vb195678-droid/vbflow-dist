@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.213</title>
-      <pubDate>Tue, 27 Oct 2026 21:10:00 +0800</pubDate>
-      <sparkle:version>213</sparkle:version>
-      <sparkle:shortVersionString>1.1.213</sparkle:shortVersionString>
+      <title>版本 1.1.214</title>
+      <pubDate>Wed, 28 Oct 2026 09:41:00 +0800</pubDate>
+      <sparkle:version>214</sparkle:version>
+      <sparkle:shortVersionString>1.1.214</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>VB待办流程 Direct 1.1.213：电脑首次扫码登录（打开就出二维码，手机扫一下就进）、进入 / 换账号显示公司名片、清除按钮一套。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r213/VBFlow-Direct-1.1.213-213.zip" length="22612973" type="application/octet-stream" sparkle:edSignature="PRJtKfMGEW5xS17GlDdUUGmyFfQR/4OwOb7yQqyJdWWMjxGHVAvf/+Td1N1ykSTWmKHffetzinrzBFV3yZxuDA==" />
+      <description>1.1.214：没手机的人点邀请链接能打开电脑版并注册；扫码登录名片按新样式；钥匙串被挡也不卡登录；弱网时附件后补；放大字体下按钮都点得到；聊天图片预览可放大缩小、1:1、适应窗口并可下载；注册页提交按钮固定可见。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r214/VBFlow-Direct-1.1.214-214.zip" length="22908257" type="application/octet-stream" sparkle:edSignature="aLkQ+N3Asb44k0sP+N122KptZ0F0OF5qWi1jtCQcf9yYymhhIMSXMS0PJRXqC819e+wz2DAf3Bax2goFxF+vDw==" />
     </item>
   </channel>
 </rss>
