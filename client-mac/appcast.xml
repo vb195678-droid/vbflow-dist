@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.231</title>
-      <pubDate>Sat, 31 Oct 2026 05:42:00 +0800</pubDate>
-      <sparkle:version>231</sparkle:version>
-      <sparkle:shortVersionString>1.1.231</sparkle:shortVersionString>
+      <title>版本 1.1.232</title>
+      <pubDate>Sat, 31 Oct 2026 06:05:00 +0800</pubDate>
+      <sparkle:version>232</sparkle:version>
+      <sparkle:shortVersionString>1.1.232</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.231：服务器整台连不上时不再误报「证书不受信任」，改提示连不上服务器</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r231/VBFlow-Direct-1.1.231-231.zip" length="23457705" type="application/octet-stream" sparkle:edSignature="QWPXVxvYM+RvtLHd5YvrEprQOnSPyCWse0QEia6iUjeE8pHaLIQDZXJ+auCs5fJWSSEdIb2oUfZLYrUJ/r/JBw==" />
+      <description>1.1.232：检查更新时几条线路一起问、用最新的那条，不再因为某条线路缓存旧清单而说已是最新</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r232/VBFlow-Direct-1.1.232-232.zip" length="23458784" type="application/octet-stream" sparkle:edSignature="HSNDm0jkcnzKeOLHKArRw22ykv202uzjuB3Y1YQyLW4tUhnoOoLxtEvHXsmh9QWzj6YdWE5peceo3AjB1d/VAg==" />
     </item>
   </channel>
 </rss>
