@@ -1,0 +1,11 @@
+{
+  "id": "client-mac-store",
+  "title": "VB待办流程（商店版）",
+  "status": "published",
+  "version": "1.1.229",
+  "build": 229,
+  "date": "2026-10-30T20:29:00+08:00",
+  "minOS": "26.0",
+  "link": "https://testflight.apple.com/join/CTugyVuc",
+  "public": true
+}
