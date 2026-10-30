@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.230</title>
-      <pubDate>Fri, 30 Oct 2026 22:50:00 +0800</pubDate>
-      <sparkle:version>230</sparkle:version>
-      <sparkle:shortVersionString>1.1.230</sparkle:shortVersionString>
+      <title>版本 1.1.231</title>
+      <pubDate>Sat, 31 Oct 2026 05:42:00 +0800</pubDate>
+      <sparkle:version>231</sparkle:version>
+      <sparkle:shortVersionString>1.1.231</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.230：登录登出改好（双击登录、登录面板默认账号密码、右上角在线）、回车换行、选中橘黄、一台电脑只开一份、升级修复、草稿不丢</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r230/VBFlow-Direct-1.1.230-230.zip" length="23457620" type="application/octet-stream" sparkle:edSignature="Ko4Kt2RtY5z3E6tSnNQUQmqCG9tLdHeKrPto3BEXJEW3vk1jNktzWBiXjPMaVKl5aVayP5in2O4SBp018tJFCg==" />
+      <description>1.1.231：服务器整台连不上时不再误报「证书不受信任」，改提示连不上服务器</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r231/VBFlow-Direct-1.1.231-231.zip" length="23457705" type="application/octet-stream" sparkle:edSignature="QWPXVxvYM+RvtLHd5YvrEprQOnSPyCWse0QEia6iUjeE8pHaLIQDZXJ+auCs5fJWSSEdIb2oUfZLYrUJ/r/JBw==" />
     </item>
   </channel>
 </rss>
