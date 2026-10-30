@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.223</title>
-      <pubDate>Fri, 30 Oct 2026 10:05:00 +0800</pubDate>
-      <sparkle:version>223</sparkle:version>
-      <sparkle:shortVersionString>1.1.223</sparkle:shortVersionString>
+      <title>版本 1.1.229</title>
+      <pubDate>Fri, 30 Oct 2026 19:58:00 +0800</pubDate>
+      <sparkle:version>229</sparkle:version>
+      <sparkle:shortVersionString>1.1.229</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.223：多账号管理页：账号行里的按钮挪到右栏最上面一排；其余同 1.1.222。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r223/VBFlow-Direct-1.1.223-223.zip" length="23121353" type="application/octet-stream" sparkle:edSignature="NBu7LSU6+xyV7Az8d5wzUdu+nvBMaA3UNIGq5CtLG6xm3N4ZhkZfdBbsl/OOGQ6vRifwqsfU+GM/yO+XF0ktBA==" />
+      <description>1.1.229：登出后回多账号、右上角只显示登录着的当前账号；又田总控入口不弹窗；公司名片重排；聊天照手机补分组、筛选（含待办）、分类页、底部按钮；使用说明和开始使用导航照「提示」重排；阅毕即焚统一叫法；删后重装当全新安装；管理员首次登录进开始使用；窄栏表单输入框能输入。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r229/VBFlow-Direct-1.1.229-229.zip" length="23402188" type="application/octet-stream" sparkle:edSignature="vMa1tt10CXyuK7PVDUEuRLaJlTwA+WtPfelPMlOkWX3uoWYKNas9hwDqaPB/pufcOZ9Dm9aqVdoWTSE98xhVBw==" />
     </item>
   </channel>
 </rss>
