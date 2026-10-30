@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.222</title>
-      <pubDate>Fri, 30 Oct 2026 08:57:00 +0800</pubDate>
-      <sparkle:version>222</sparkle:version>
-      <sparkle:shortVersionString>1.1.222</sparkle:shortVersionString>
+      <title>版本 1.1.223</title>
+      <pubDate>Fri, 30 Oct 2026 10:05:00 +0800</pubDate>
+      <sparkle:version>223</sparkle:version>
+      <sparkle:shortVersionString>1.1.223</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.222：又田个人号只显示个人段，别家公司的人显示「公司名 · 个人段」，复制号码和二维码用完整号；搜人框手敲长号不再跳走；多账号列表双击直接打开；欢迎提示几秒后自动消失；使用说明页加目录和搜索；窗口缩小时设置页和使用说明页不再被挤。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r222/VBFlow-Direct-1.1.222-222.zip" length="23125215" type="application/octet-stream" sparkle:edSignature="ZTwm7OqqWLFiD83jLlhzOjEK6Edt8kJz//3yYiKfLQlY831XbcOMmEB2yi0/RjqVexhf2iGauNvYpqfjQOcdDg==" />
+      <description>1.1.223：多账号管理页：账号行里的按钮挪到右栏最上面一排；其余同 1.1.222。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r223/VBFlow-Direct-1.1.223-223.zip" length="23121353" type="application/octet-stream" sparkle:edSignature="NBu7LSU6+xyV7Az8d5wzUdu+nvBMaA3UNIGq5CtLG6xm3N4ZhkZfdBbsl/OOGQ6vRifwqsfU+GM/yO+XF0ktBA==" />
     </item>
   </channel>
 </rss>
