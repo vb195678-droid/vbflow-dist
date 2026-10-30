@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.232</title>
-      <pubDate>Sat, 31 Oct 2026 06:05:00 +0800</pubDate>
-      <sparkle:version>232</sparkle:version>
-      <sparkle:shortVersionString>1.1.232</sparkle:shortVersionString>
+      <title>版本 1.1.233</title>
+      <pubDate>Sat, 31 Oct 2026 06:15:00 +0800</pubDate>
+      <sparkle:version>233</sparkle:version>
+      <sparkle:shortVersionString>1.1.233</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.232：检查更新时几条线路一起问、用最新的那条，不再因为某条线路缓存旧清单而说已是最新</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r232/VBFlow-Direct-1.1.232-232.zip" length="23458784" type="application/octet-stream" sparkle:edSignature="HSNDm0jkcnzKeOLHKArRw22ykv202uzjuB3Y1YQyLW4tUhnoOoLxtEvHXsmh9QWzj6YdWE5peceo3AjB1d/VAg==" />
+      <description>1.1.233：检查更新时几条线路一起问、用安装包清单最新的那条，不再因为某条线路缓存旧清单而说已是最新</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r233/VBFlow-Direct-1.1.233-233.zip" length="23460667" type="application/octet-stream" sparkle:edSignature="mBnDQAI1O1LbVy+skYwqNgyg5XLS7OaQQPqbE7WguyLbv7tFlUkx5wOKRdmMFxsRqcgbDkiqN/tXVATAVVYqDQ==" />
     </item>
   </channel>
 </rss>
