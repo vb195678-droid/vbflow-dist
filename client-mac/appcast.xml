@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.238</title>
-      <pubDate>Sat, 31 Oct 2026 13:16:00 +0800</pubDate>
-      <sparkle:version>238</sparkle:version>
-      <sparkle:shortVersionString>1.1.238</sparkle:shortVersionString>
+      <title>版本 1.1.245</title>
+      <pubDate>Sat, 31 Oct 2026 16:58:00 +0800</pubDate>
+      <sparkle:version>245</sparkle:version>
+      <sparkle:shortVersionString>1.1.245</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.238：升级点了一律现查最新版本（手里下好的不是最新就丢掉改装最新）；第一次登录默认扫码、登出后重新登录不扫码；扫码页照 WhatsApp 单卡、步骤排整齐；公司名片约 1.5 秒自己消失；同机构同事直接聊；设置去好友列表</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r238/VBFlow-Direct-1.1.238-238.zip" length="23489749" type="application/octet-stream" sparkle:edSignature="uUYIorKpYXese0rQQ76HUvVwAA5DmXEQ/FjueQAhxguvx3SlkirIdw9NcJyxTB7IAzdJsGSjFEXRFw0yCEpXCA==" />
+      <description>1.1.245：收件箱等侧栏「全部」打开就选中、点得回；登出、移除账号一律弹系统确认框；登出别的账号后右上角标识不消失；注册页一屏放得下；第一次登录方式按扫码、刷脸指纹、账号密码排；本人认证统一（指纹、手表、电脑登录密码由系统自己挑）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r245/VBFlow-Direct-1.1.245-245.zip" length="23534879" type="application/octet-stream" sparkle:edSignature="3vMH1yoUmc+00ZyWAcOtpvklxOJQno9EqqvnMoQJ8fMnblveNZFqSZ3n2il25lPGMYgIYkTokhx+Tv2h8/JVDQ==" />
     </item>
   </channel>
 </rss>
