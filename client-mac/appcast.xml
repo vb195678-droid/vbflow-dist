@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.233</title>
-      <pubDate>Sat, 31 Oct 2026 06:15:00 +0800</pubDate>
-      <sparkle:version>233</sparkle:version>
-      <sparkle:shortVersionString>1.1.233</sparkle:shortVersionString>
+      <title>版本 1.1.235</title>
+      <pubDate>Sat, 31 Oct 2026 10:36:00 +0800</pubDate>
+      <sparkle:version>235</sparkle:version>
+      <sparkle:shortVersionString>1.1.235</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.233：检查更新时几条线路一起问、用安装包清单最新的那条，不再因为某条线路缓存旧清单而说已是最新</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r233/VBFlow-Direct-1.1.233-233.zip" length="23460667" type="application/octet-stream" sparkle:edSignature="mBnDQAI1O1LbVy+skYwqNgyg5XLS7OaQQPqbE7WguyLbv7tFlUkx5wOKRdmMFxsRqcgbDkiqN/tXVATAVVYqDQ==" />
+      <description>1.1.235：有图第007批：多账号页选中白字、没选中的字恢复、标签去掉「+」、全局数字 0 不显示、在线数字深绿、选中标签圆点变白、标签「×」鼠标移上去才出、1栏2栏加宽改图标放最右、右上角加登出、去掉「我的账号与设备」那行、左栏和聊天栏从顶到底、全部登出弹框确认、右上角灰色大块去掉</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r235/VBFlow-Direct-1.1.235-235.zip" length="23467195" type="application/octet-stream" sparkle:edSignature="ErQMnGDR5r9qW3tbEWeUzrtWxbc0ZM2mbGg1q89C06n0t0wVF8Xm5FGFLxv4XEHrynerdIv5rGZMhQdDgI5wCw==" />
     </item>
   </channel>
 </rss>
