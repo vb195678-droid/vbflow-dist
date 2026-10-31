@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.236</title>
-      <pubDate>Sat, 31 Oct 2026 12:05:00 +0800</pubDate>
-      <sparkle:version>236</sparkle:version>
-      <sparkle:shortVersionString>1.1.236</sparkle:shortVersionString>
+      <title>版本 1.1.238</title>
+      <pubDate>Sat, 31 Oct 2026 13:16:00 +0800</pubDate>
+      <sparkle:version>238</sparkle:version>
+      <sparkle:shortVersionString>1.1.238</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.236：第008批：所有选中改橘黄色（收件箱分段、日期筛选、底栏）、开着我的账号与设备时底栏不再同时亮、登出改弹出确认框、多账号选中行失去焦点也看得清、添加账号弹出整窗登录；设置去好友列表、画流程提交后显示已提交等待授权、同机构同事直接聊、公司名片约 1.5 秒自己消失</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r236/VBFlow-Direct-1.1.236-236.zip" length="23479985" type="application/octet-stream" sparkle:edSignature="zOqgCMScJe9rdJLxeJl6hrbprp2Im/lAWXZHemZIs678sFWxrW0V2xUCsjaYEsFiA1tI8sODnySAhbhHh0E5DA==" />
+      <description>1.1.238：升级点了一律现查最新版本（手里下好的不是最新就丢掉改装最新）；第一次登录默认扫码、登出后重新登录不扫码；扫码页照 WhatsApp 单卡、步骤排整齐；公司名片约 1.5 秒自己消失；同机构同事直接聊；设置去好友列表</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r238/VBFlow-Direct-1.1.238-238.zip" length="23489749" type="application/octet-stream" sparkle:edSignature="uUYIorKpYXese0rQQ76HUvVwAA5DmXEQ/FjueQAhxguvx3SlkirIdw9NcJyxTB7IAzdJsGSjFEXRFw0yCEpXCA==" />
     </item>
   </channel>
 </rss>
