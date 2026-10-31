@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.248</title>
-      <pubDate>Sat, 31 Oct 2026 18:42:00 +0800</pubDate>
-      <sparkle:version>248</sparkle:version>
-      <sparkle:shortVersionString>1.1.248</sparkle:shortVersionString>
+      <title>版本 1.1.250</title>
+      <pubDate>Sat, 31 Oct 2026 23:03:00 +0800</pubDate>
+      <sparkle:version>250</sparkle:version>
+      <sparkle:shortVersionString>1.1.250</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.248：聊天插入附件改成 WhatsApp 样式（聊天框里预览、加说明、多张可再加）；网站下载版也能用指纹 / 电脑登录密码快捷登录；扫码登录显示是谁扫的；没开过指纹时先登录一次再帮你开启；移除账号弹系统确认框</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r248/VBFlow-Direct-1.1.248-248.zip" length="23598508" type="application/octet-stream" sparkle:edSignature="XlKYgCOo5UsyTd02I4zQNrkaNAUhYTPVp6DtMPci6sqRsSY3+sZnZJWl3gKIXXCXYm4YsFdZt/uoR5h1+B8PAg==" />
+      <description>1.1.250：登出当前账号后停在多账号管理页；新版本横条在工作区顶上不再用绿色；用账号密码重新登录后提醒一次开指纹；聊天附件说明排在图片下面</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r250/VBFlow-Direct-1.1.250-250.zip" length="23610091" type="application/octet-stream" sparkle:edSignature="rVX3hyj6ULNC+w+T35iCZSa2oFXp26rHNcvExl+DNqqsIHLuGAz2BTqFlawtXjwEr7U1y9+bS8veSbWBUNDxAA==" />
     </item>
   </channel>
 </rss>
