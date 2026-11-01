@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.250</title>
-      <pubDate>Sat, 31 Oct 2026 23:03:00 +0800</pubDate>
-      <sparkle:version>250</sparkle:version>
-      <sparkle:shortVersionString>1.1.250</sparkle:shortVersionString>
+      <title>版本 1.1.256</title>
+      <pubDate>Sun, 01 Nov 2026 09:24:00 +0800</pubDate>
+      <sparkle:version>256</sparkle:version>
+      <sparkle:shortVersionString>1.1.256</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.250：登出当前账号后停在多账号管理页；新版本横条在工作区顶上不再用绿色；用账号密码重新登录后提醒一次开指纹；聊天附件说明排在图片下面</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r250/VBFlow-Direct-1.1.250-250.zip" length="23610091" type="application/octet-stream" sparkle:edSignature="rVX3hyj6ULNC+w+T35iCZSa2oFXp26rHNcvExl+DNqqsIHLuGAz2BTqFlawtXjwEr7U1y9+bS8veSbWBUNDxAA==" />
+      <description>1.1.256：聊天输入框清除补漏（已有字又在拼字时也能清空）；含 1.1.251～1.1.255：登出停在多账号页、指纹登录、说明书字号、附件页照 WhatsApp、待办 0 不显示、选中橘黄等</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r256/VBFlow-Direct-1.1.256-256.zip" length="23642873" type="application/octet-stream" sparkle:edSignature="lphcfjY9WiBbRWPvaO+6+MC2B/B8rqJLoUmJzVXQlVN5JG5oIyFQ0V5yUpYfVpNPXjnVcpIERaGYU7s4F3+QDg==" />
     </item>
   </channel>
 </rss>
