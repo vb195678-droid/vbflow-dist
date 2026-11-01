@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.256</title>
-      <pubDate>Sun, 01 Nov 2026 09:24:00 +0800</pubDate>
-      <sparkle:version>256</sparkle:version>
-      <sparkle:shortVersionString>1.1.256</sparkle:shortVersionString>
+      <title>版本 1.1.257</title>
+      <pubDate>Sun, 01 Nov 2026 16:39:00 +0800</pubDate>
+      <sparkle:version>257</sparkle:version>
+      <sparkle:shortVersionString>1.1.257</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.256：聊天输入框清除补漏（已有字又在拼字时也能清空）；含 1.1.251～1.1.255：登出停在多账号页、指纹登录、说明书字号、附件页照 WhatsApp、待办 0 不显示、选中橘黄等</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r256/VBFlow-Direct-1.1.256-256.zip" length="23642873" type="application/octet-stream" sparkle:edSignature="lphcfjY9WiBbRWPvaO+6+MC2B/B8rqJLoUmJzVXQlVN5JG5oIyFQ0V5yUpYfVpNPXjnVcpIERaGYU7s4F3+QDg==" />
+      <description>1.1.257：新员工发起流程页按实际原因说话、给出路；登录只输密码页和设置快捷登录表照谷歌 / Gemini 参照</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r257/VBFlow-Direct-1.1.257-257.zip" length="23667181" type="application/octet-stream" sparkle:edSignature="EdH9Q7e5Q84uVq8ttVmwHI+j683s9APaDukvOxZwtum6XWY9dar7aPXDXf3btn+/49BwS76WC5vGIi29btPKDw==" />
     </item>
   </channel>
 </rss>
