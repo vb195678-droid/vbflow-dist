@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.50",
- "build": 182,
+ "version": "1.1.51",
+ "build": 183,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 48612394,
- "sha256": "9899a7e72fc37ec6adcb38a5f647e61d2edb7932f1ecd0e79cc2dd1102551377",
+ "size": 48618925,
+ "sha256": "c5b865d9dbb81071b3a6052a3df93a9268a03c0c86080c667968a5d67414979c",
  "parts": [
   {
-   "url": "r182/part-aa",
+   "url": "r183/part-aa",
    "size": 19922944,
-   "sha256": "38c5e8d6e1e9d92aa1815fa63632676fa7f8d8d0dfe31f9c2e67028b5954d9a0"
+   "sha256": "c2ac2d924eb405856f9e17cb5fd441e17aeeb8a4f6cf2130958563a7cf0d6005"
   },
   {
-   "url": "r182/part-ab",
+   "url": "r183/part-ab",
    "size": 19922944,
-   "sha256": "31e996655dcf06fd8ba349569ae143c2cff5b0581d1f206aef242dd476f14a46"
+   "sha256": "09a289e7f19fc17a36773e4e91bb6f827e9c72e349a3fc8028163e6a624638f8"
   },
   {
-   "url": "r182/part-ac",
-   "size": 8766506,
-   "sha256": "1ca9ca57eb303e797a9b73f92988bc5906b29068fb8f9694e6cf86d12db28a28"
+   "url": "r183/part-ac",
+   "size": 8773037,
+   "sha256": "cc048a6ddd6d4c38f7382dc3ef9665e4c881efbcd74edfef52a233bb7ed318b8"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r182/VBFlowConsole-1.1.50.zip",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r183/VBFlowConsole-1.1.51.zip",
  "serverVersion": "1.1.24",
- "serverSHA256": "115e1dc841fe5cb93815c3d8debf0dbd1b61f7a8c68c115781efbed585a33800",
+ "serverSHA256": "44bb378dee3bcee67234b5dee975456b4a95019a6be07a30a597209b4057fc73",
  "teamID": "NJ44RP2ZZ8",
- "notes": "扫码登录开发者后台；没在备份时任何时间都能升级；查新版本 10 秒出结果；有图合并批和第008批界面修改（做完的步骤绿底白字、超管登录方式设好后打勾）；又田口令有效时间按登记处给的显示（8 小时）",
- "releasedAt": "2026-11-01T04:10:08Z",
+ "notes": "扫码登录开发者后台；没在备份时任何时间都能升级；查新版本 10 秒出结果；有图合并批和第008批界面修改（做完的步骤绿底白字、超管登录方式设好后打勾）；又田口令有效时间按登记处给的显示（8 小时）；屏蔽外部企业前先弹确认框，写清后果",
+ "releasedAt": "2026-11-01T05:28:55Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r182/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r182/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r182/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r182/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r182/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r182/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r182/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r182/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r183/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r183/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r183/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r183/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r183/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r183/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r183/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r183/imconsole/"
  ]
 }
