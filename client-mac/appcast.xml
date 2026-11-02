@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.261</title>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 +0800</pubDate>
-      <sparkle:version>261</sparkle:version>
-      <sparkle:shortVersionString>1.1.261</sparkle:shortVersionString>
+      <title>版本 1.1.264</title>
+      <pubDate>Mon, 02 Nov 2026 16:21:00 +0800</pubDate>
+      <sparkle:version>264</sparkle:version>
+      <sparkle:shortVersionString>1.1.264</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.261：聊天栏回到占总宽 2/7；多账号找管理员只用这一页的账号；英文界面补全；已发送顶部不再被切；刷新按真实成败显示；待办恢复回到原状态；组织页更快、新增部门先填名字；说明书加新员工一节；聊天文件已下载标记、删除先确认</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r261/VBFlow-Direct-1.1.261-261.zip" length="23730676" type="application/octet-stream" sparkle:edSignature="fkGcJQKiCvo0O4FvvH8kix95//8NjIpvAFx4UDTxuv4vPGZKiT3nwHFFOxMsshV35TFw6IpwHRsBvmO0+iIvCg==" />
+      <description>1.1.264：升级备份只留最近一份；升级后打不开换回旧聊天记录前先问；注册只认公司邀请链接；群名话题名上限照服务器；选中橘黄改暗和控制面板同色；登录注册有「正在…」提示、登录后到收件箱、快捷登录表只弹一次、整段邀请文字也能用。提醒：装上后以前的旧升级备份会挪进废纸篓</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r264/VBFlow-Direct-1.1.264-264.zip" length="23746300" type="application/octet-stream" sparkle:edSignature="dA82oc3ITM1ubQYwgXqnxkBlzWoWGEyOZz6nbWjOjp63ob8NYhrMRIWutgyrs4eGneRk7FeZLEE8w+8YOGGfBw==" />
     </item>
   </channel>
 </rss>
