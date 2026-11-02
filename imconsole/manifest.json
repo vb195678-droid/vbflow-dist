@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.58",
- "build": 190,
+ "version": "1.1.64",
+ "build": 196,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 48802354,
- "sha256": "100a07bb0cd9e6c93bbb752968dc04c9e680eab4c3dc7bcd605cb5c1659e7483",
+ "size": 48870889,
+ "sha256": "5fb55b03a46dff7bda3d99d3836b49c4863de772c02f8fc316a7400e6fa5a6f8",
  "parts": [
   {
-   "url": "r190/part-aa",
+   "url": "r196/part-aa",
    "size": 19922944,
-   "sha256": "b6bad46de6d5f674258d55f79ed708c3d86c2ea5ef99ea5f9169258383fc042a"
+   "sha256": "da1ad8ab2a310d419f40fdd5efd686a66d3a0c30c8ad27a566025cee7ff1e851"
   },
   {
-   "url": "r190/part-ab",
+   "url": "r196/part-ab",
    "size": 19922944,
-   "sha256": "1914afbf1cf8c9c09e34dad1fc3ac1742f9e1fc5243998c706db3f1e8aae5e60"
+   "sha256": "d9e3ef559e9c69c0a440cacb2865e8484951a709e3e6e64f4af88f2a66f5ff36"
   },
   {
-   "url": "r190/part-ac",
-   "size": 8956466,
-   "sha256": "dbb63745a3846fe72d0ee9a35656de6899fb69a6ef20830eb3cbecfcaec9d2a9"
+   "url": "r196/part-ac",
+   "size": 9025001,
+   "sha256": "f1f8f29c0c67976de681bfb26ecf193794c094f865927e9a52c3a624c1da5808"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r190/VBFlowConsole-1.1.58.zip",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r196/VBFlowConsole-1.1.64.zip",
  "serverVersion": "1.1.24",
- "serverSHA256": "51c4d7dc0ec7782183886b26720bfb6266a596c447dcbc065c648290bf9a1b69",
+ "serverSHA256": "2924b9cabed7c4cbbb5f5d1fcec135084045ac2bb2125418bab6cf30cf3a964b",
  "teamID": "NJ44RP2ZZ8",
- "notes": "一台电脑只留一个控制面板；服务器列表新增「备份」：报警、备份位置、运行情况、备份日志、恢复；备份去处可加可删；不设默认备份时间，没设就提醒去设；恢复入口统一、按服务器号选，恢复失败自动放回原来的数据；总控又田口令列表显示口令剩余时间；客户列表改成可排序的表格，右栏显示这台上报的问题",
- "releasedAt": "2026-11-01T20:11:29Z",
+ "notes": "一台电脑只留一个控制面板；服务器列表新增「备份」：报警、备份位置、运行情况、备份日志、恢复；备份去处可加可删；不设默认备份时间，没设就提醒去设；恢复入口统一、按服务器号选，恢复失败自动放回原来的数据；「下载」「帮助」「安装和升级」挪到顶上；安装和升级：进页面自动查新版本，点「现在更新」直接升级，升级记录按日期分组成表格；导航第 7 步员工信息改成表格；我们的服务器码旁边写服务器名称、可改名；总控又田口令列表显示剩余时间，客户列表可排序、右栏显示上报的问题",
+ "releasedAt": "2026-11-02T06:44:30Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r190/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r190/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r190/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r190/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r190/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r190/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r190/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r190/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r196/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r196/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r196/imconsole/"
  ]
 }
