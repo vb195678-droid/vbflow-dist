@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.258</title>
-      <pubDate>Sun, 01 Nov 2026 18:47:00 +0800</pubDate>
-      <sparkle:version>258</sparkle:version>
-      <sparkle:shortVersionString>1.1.258</sparkle:shortVersionString>
+      <title>版本 1.1.261</title>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 +0800</pubDate>
+      <sparkle:version>261</sparkle:version>
+      <sparkle:shortVersionString>1.1.261</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.258：快捷登录：点开启只过一次系统本人认证、不再要密码、开完表自动关；没开快捷登录的账号移除时备用钥匙在服务器上作废</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r258/VBFlow-Direct-1.1.258-258.zip" length="23667822" type="application/octet-stream" sparkle:edSignature="AdN/IfElAyImIEpBCfelctOO/K84x1kpJVHlJ30Iu4nwxCc0DCpq5s6si6zl6M0L/SAaVxKBFSBeoKmhfR9cBA==" />
+      <description>1.1.261：聊天栏回到占总宽 2/7；多账号找管理员只用这一页的账号；英文界面补全；已发送顶部不再被切；刷新按真实成败显示；待办恢复回到原状态；组织页更快、新增部门先填名字；说明书加新员工一节；聊天文件已下载标记、删除先确认</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r261/VBFlow-Direct-1.1.261-261.zip" length="23730676" type="application/octet-stream" sparkle:edSignature="fkGcJQKiCvo0O4FvvH8kix95//8NjIpvAFx4UDTxuv4vPGZKiT3nwHFFOxMsshV35TFw6IpwHRsBvmO0+iIvCg==" />
     </item>
   </channel>
 </rss>
