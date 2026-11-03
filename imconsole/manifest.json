@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.64",
- "build": 196,
+ "version": "1.1.66",
+ "build": 198,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 48870889,
- "sha256": "5fb55b03a46dff7bda3d99d3836b49c4863de772c02f8fc316a7400e6fa5a6f8",
+ "size": 48946734,
+ "sha256": "52837355a1861ce8994db3a1e616fa757440c9b471a6a8672a02f3d9d80d7127",
  "parts": [
   {
-   "url": "r196/part-aa",
+   "url": "r198/part-aa",
    "size": 19922944,
-   "sha256": "da1ad8ab2a310d419f40fdd5efd686a66d3a0c30c8ad27a566025cee7ff1e851"
+   "sha256": "688fbf1d2b9769363d3fa1d55f886896c82d17dc84a7adf982ae0027937e31e4"
   },
   {
-   "url": "r196/part-ab",
+   "url": "r198/part-ab",
    "size": 19922944,
-   "sha256": "d9e3ef559e9c69c0a440cacb2865e8484951a709e3e6e64f4af88f2a66f5ff36"
+   "sha256": "887a1692b635f2fe89a59f352f0d4315142546c7bf073bb859466c353cfc4ba5"
   },
   {
-   "url": "r196/part-ac",
-   "size": 9025001,
-   "sha256": "f1f8f29c0c67976de681bfb26ecf193794c094f865927e9a52c3a624c1da5808"
+   "url": "r198/part-ac",
+   "size": 9100846,
+   "sha256": "77b67fef032e91cdf439c51fc93760323e0fdcee7ccb826f217c858506af0ea2"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r196/VBFlowConsole-1.1.64.zip",
- "serverVersion": "1.1.24",
- "serverSHA256": "2924b9cabed7c4cbbb5f5d1fcec135084045ac2bb2125418bab6cf30cf3a964b",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r198/VBFlowConsole-1.1.66.zip",
+ "serverVersion": "1.1.27",
+ "serverSHA256": "204bb2c0fe2409a1125c05d54c2480dbb856f442d8ffbf02faa64a41a6813633",
  "teamID": "NJ44RP2ZZ8",
- "notes": "一台电脑只留一个控制面板；服务器列表新增「备份」：报警、备份位置、运行情况、备份日志、恢复；备份去处可加可删；不设默认备份时间，没设就提醒去设；恢复入口统一、按服务器号选，恢复失败自动放回原来的数据；「下载」「帮助」「安装和升级」挪到顶上；安装和升级：进页面自动查新版本，点「现在更新」直接升级，升级记录按日期分组成表格；导航第 7 步员工信息改成表格；我们的服务器码旁边写服务器名称、可改名；总控又田口令列表显示剩余时间，客户列表可排序、右栏显示上报的问题",
- "releasedAt": "2026-11-02T06:44:30Z",
+ "notes": "自带服务器程序升到 1.1.27：超级管理员挪回超管岗后，外部好友跟着转过去；停用员工、办离职后马上断开连接；诊断上报限量；登录防猜密码按账号和来源分开限。总控又田口令按口令状态筛选；监视器选中行文字反白。",
+ "releasedAt": "2026-11-03T06:41:31Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r196/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r196/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r196/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r196/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r198/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r198/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r198/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r198/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r198/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r198/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r198/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r198/imconsole/"
  ]
 }
