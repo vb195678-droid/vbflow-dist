@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.266</title>
-      <pubDate>Mon, 02 Nov 2026 18:39:00 +0800</pubDate>
-      <sparkle:version>266</sparkle:version>
-      <sparkle:shortVersionString>1.1.266</sparkle:shortVersionString>
+      <title>版本 1.1.267</title>
+      <pubDate>Tue, 03 Nov 2026 18:33:00 +0800</pubDate>
+      <sparkle:version>267</sparkle:version>
+      <sparkle:shortVersionString>1.1.267</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.266：超级管理员不再偶尔显示成管理员、聊天「+」菜单不再少项</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r266/VBFlow-Direct-1.1.266-266.zip" length="23749632" type="application/octet-stream" sparkle:edSignature="yg+KZATP7h7R4Q+bwUNdZrYAqPx099D4MrlclG6pEc5LJA7D2l8syYkcxOvBIrmt8hl/ZegSW6m4GXd0JaftDg==" />
+      <description>1.1.267：阅毕即焚统一红色垃圾桶；阅毕即焚群存在时间可到 12 个月（服务器支持时）；聊天分类加废纸篓</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r267/VBFlow-Direct-1.1.267-267.zip" length="23846487" type="application/octet-stream" sparkle:edSignature="+rlMfaCpjf88c7LBkdQP14VW05f8apB9Yrfwtoo4C2r/+8a1dpFc/5G1fYCMyMY3/yE/NeL2VfbOoSEe+XeqDA==" />
     </item>
   </channel>
 </rss>
