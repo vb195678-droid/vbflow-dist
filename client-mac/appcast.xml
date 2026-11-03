@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.267</title>
-      <pubDate>Tue, 03 Nov 2026 18:33:00 +0800</pubDate>
-      <sparkle:version>267</sparkle:version>
-      <sparkle:shortVersionString>1.1.267</sparkle:shortVersionString>
+      <title>版本 1.1.269</title>
+      <pubDate>Tue, 03 Nov 2026 22:08:00 +0800</pubDate>
+      <sparkle:version>269</sparkle:version>
+      <sparkle:shortVersionString>1.1.269</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.267：阅毕即焚统一红色垃圾桶；阅毕即焚群存在时间可到 12 个月（服务器支持时）；聊天分类加废纸篓</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r267/VBFlow-Direct-1.1.267-267.zip" length="23846487" type="application/octet-stream" sparkle:edSignature="+rlMfaCpjf88c7LBkdQP14VW05f8apB9Yrfwtoo4C2r/+8a1dpFc/5G1fYCMyMY3/yE/NeL2VfbOoSEe+XeqDA==" />
+      <description>1.1.269：有图第015批 24 处：版本与更新页改系统样式、多账号页按钮与配色、又田总控口令框修好、聊天气泡间距、顶栏在线绿点与登出红色、搜索挪进收件箱可收回、个人资料改弹出小窗；废纸篓对接服务器细节；防截屏恢复加固</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r269/VBFlow-Direct-1.1.269-269.zip" length="23917328" type="application/octet-stream" sparkle:edSignature="cQBopFbozVsLXlMwzTKZOjoweHrDdtpo5vQ7TyBaHzvNfkpR/pto2aphZ9dJ3S1emLTA6ZQTgZf0G1D9e/vsAg==" />
     </item>
   </channel>
 </rss>
