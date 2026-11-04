@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.68",
- "build": 200,
+ "version": "1.1.70",
+ "build": 202,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46415393,
- "sha256": "e1c88b95dd4f235012075dd404d83eb10c3712ab61154c5a4087f4a461992e18",
+ "size": 46582041,
+ "sha256": "24b81ab95121c437f178752a5a54c20e2f854e36bb7f12e642caeca2d64c4058",
  "parts": [
   {
-   "url": "r200/part-aa",
+   "url": "r202/part-aa",
    "size": 19922944,
-   "sha256": "4d8be6fe305385ba53bdcbc92ab585476783b752653236ef55520b0393bba88e"
+   "sha256": "91b61b7c588fa82abc7e793dc734cc7686db30ff06cc63caed0fa824c8160fb2"
   },
   {
-   "url": "r200/part-ab",
+   "url": "r202/part-ab",
    "size": 19922944,
-   "sha256": "532527c1ec2e7fe8f8e11c0f4c19a0052c1d6ea3f9c623769c8fd96125fb336e"
+   "sha256": "ede59c270aa2de4aee40db456acdca9a348479a0de321afb1f97278993976f9a"
   },
   {
-   "url": "r200/part-ac",
-   "size": 6569505,
-   "sha256": "21c73dafb32a3b43a73d4b0a6a5259c2e7cd242b1ae308f030b63a511001ed36"
+   "url": "r202/part-ac",
+   "size": 6736153,
+   "sha256": "1297e3df9220066afc63f2e8c0e7e018885b7c2eda1eae2a3a52a8a35b7a0f8b"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r200/VBFlowConsole-1.1.68.zip",
- "serverVersion": "1.1.29",
- "serverSHA256": "a35031a92a8ac08ebb7f45acb0f6d41724923104ee3b996e028d1bc9c2e1d887",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r202/VBFlowConsole-1.1.70.zip",
+ "serverVersion": "1.1.31",
+ "serverSHA256": "c3e57fc56610b0d54cfd94d0608c727e21cfe8844bcaa76710eb849718b9c995",
  "teamID": "NJ44RP2ZZ8",
- "notes": "自带服务器程序升到 1.1.29（报到多带 macOS 版本、试用到期），服务器程序去掉调试信息、安装包小了约 2.6MB。一台电脑只留一套：旧版和升级快照收进不进系统索引的目录。又田企业号列表改名、加到期筛选和新列；下载按钮系统蓝；安装和升级时间轴可按日筛选；初始导航居中、侧栏可收起。",
- "releasedAt": "2026-11-04T02:24:03Z",
+ "notes": "软件改名又田服务器，里面每一家叫又田企业号（一台电脑最多 8 个）。自带服务程序升到 1.1.31：提醒加账号和服务器到期，新提醒主动推给管理员；停用、恢复、设管理员几条路结果一致；公司名同步失败单独提醒并能接着重试。不再弹「另外 N 份」，软件不再把任何一份移到废纸篓。「安装和升级」的左栏从哪进都一样。修好换壳后单份保护、旧版收纳、备份恢复入口不一致等自查问题。",
+ "releasedAt": "2026-11-04T20:23:51Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r200/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r200/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r200/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r202/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r202/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r202/imconsole/"
  ]
 }
