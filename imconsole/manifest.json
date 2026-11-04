@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.67",
- "build": 199,
+ "version": "1.1.68",
+ "build": 200,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 49033383,
- "sha256": "c6a600ac73b83ed85854812a067fd33928872e00ec7235e5620e84557336a236",
+ "size": 46415393,
+ "sha256": "e1c88b95dd4f235012075dd404d83eb10c3712ab61154c5a4087f4a461992e18",
  "parts": [
   {
-   "url": "r199/part-aa",
+   "url": "r200/part-aa",
    "size": 19922944,
-   "sha256": "ba0a703a42e893c6868848403da93b222a6b197d1c75b86cf9237dd71c5a0d86"
+   "sha256": "4d8be6fe305385ba53bdcbc92ab585476783b752653236ef55520b0393bba88e"
   },
   {
-   "url": "r199/part-ab",
+   "url": "r200/part-ab",
    "size": 19922944,
-   "sha256": "5aba414e5c76425ff6f64a06725062ff518781634973c652d3ef201c8f297c9b"
+   "sha256": "532527c1ec2e7fe8f8e11c0f4c19a0052c1d6ea3f9c623769c8fd96125fb336e"
   },
   {
-   "url": "r199/part-ac",
-   "size": 9187495,
-   "sha256": "57d59038d5643adec6217f7fabe6d6ef166b5e24247975a3bce84466b5fcc04b"
+   "url": "r200/part-ac",
+   "size": 6569505,
+   "sha256": "21c73dafb32a3b43a73d4b0a6a5259c2e7cd242b1ae308f030b63a511001ed36"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r199/VBFlowConsole-1.1.67.zip",
- "serverVersion": "1.1.28",
- "serverSHA256": "af8bec3f06243cd413bca3fea4c687269ee52b13e59f9a6367ca28abd70bb8e7",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r200/VBFlowConsole-1.1.68.zip",
+ "serverVersion": "1.1.29",
+ "serverSHA256": "a35031a92a8ac08ebb7f45acb0f6d41724923104ee3b996e028d1bc9c2e1d887",
  "teamID": "NJ44RP2ZZ8",
- "notes": "自带服务器程序升到 1.1.28：聊天废纸篓、阅后即焚群最长 12 个月。初始导航改成左右两栏；顶上按钮次序改为 安装和升级、帮助、下载，升级页开着只亮它；又田口令状态筛选窄窗口自动换行。",
- "releasedAt": "2026-11-03T11:10:53Z",
+ "notes": "自带服务器程序升到 1.1.29（报到多带 macOS 版本、试用到期），服务器程序去掉调试信息、安装包小了约 2.6MB。一台电脑只留一套：旧版和升级快照收进不进系统索引的目录。又田企业号列表改名、加到期筛选和新列；下载按钮系统蓝；安装和升级时间轴可按日筛选；初始导航居中、侧栏可收起。",
+ "releasedAt": "2026-11-04T02:24:03Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r199/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r199/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r199/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r199/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r199/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r199/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r199/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r199/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r200/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r200/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r200/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r200/imconsole/"
  ]
 }
