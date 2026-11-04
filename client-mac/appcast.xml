@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.270</title>
-      <pubDate>Wed, 04 Nov 2026 10:56:00 +0800</pubDate>
-      <sparkle:version>270</sparkle:version>
-      <sparkle:shortVersionString>1.1.270</sparkle:shortVersionString>
+      <title>版本 1.1.271</title>
+      <pubDate>Wed, 04 Nov 2026 13:22:00 +0800</pubDate>
+      <sparkle:version>271</sparkle:version>
+      <sparkle:shortVersionString>1.1.271</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.270：登出后右栏直接是该账号登录框，已退出账号选中一律出登录框、选中在线账号出详情；标签右键登出后台账号不跳多账号页；一台一份拦截页去掉按钮；本地网络重认临时副本不进启动台</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r270/VBFlow-Direct-1.1.270-270.zip" length="23917500" type="application/octet-stream" sparkle:edSignature="EKj3+nfkjz4JhBrA0UXJnYNh13JzWFNXpUgckUzCqus4DSNdjY6bb6YKFIkRrA3R/NyATtWyXFUOv6L6BrAUAg==" />
+      <description>1.1.271：有图第017批：群里系统提示、撤回/销毁占位 5 分钟后消失，列表预览退到上一条真消息；新装或恢复默认布局默认 2 栏；又田总控页加收藏；新建公司群选人改全公司同事、名单按拼音；已删的升级后不再冒出来</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r271/VBFlow-Direct-1.1.271-271.zip" length="23993213" type="application/octet-stream" sparkle:edSignature="TRfSSIkxmT4Ha7unbHbcdEDX2G54xCgK0J0ysC0mnQAPBY9vcOi7CQhjRmHSDjY5evleVLrFR4XIXnhEt+CeBA==" />
     </item>
   </channel>
 </rss>
