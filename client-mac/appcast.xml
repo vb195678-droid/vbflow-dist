@@ -4,14 +4,14 @@
     <title>VB待办流程 Direct</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.269</title>
-      <pubDate>Tue, 03 Nov 2026 22:08:00 +0800</pubDate>
-      <sparkle:version>269</sparkle:version>
-      <sparkle:shortVersionString>1.1.269</sparkle:shortVersionString>
+      <title>版本 1.1.270</title>
+      <pubDate>Wed, 04 Nov 2026 10:56:00 +0800</pubDate>
+      <sparkle:version>270</sparkle:version>
+      <sparkle:shortVersionString>1.1.270</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.269：有图第015批 24 处：版本与更新页改系统样式、多账号页按钮与配色、又田总控口令框修好、聊天气泡间距、顶栏在线绿点与登出红色、搜索挪进收件箱可收回、个人资料改弹出小窗；废纸篓对接服务器细节；防截屏恢复加固</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r269/VBFlow-Direct-1.1.269-269.zip" length="23917328" type="application/octet-stream" sparkle:edSignature="cQBopFbozVsLXlMwzTKZOjoweHrDdtpo5vQ7TyBaHzvNfkpR/pto2aphZ9dJ3S1emLTA6ZQTgZf0G1D9e/vsAg==" />
+      <description>1.1.270：登出后右栏直接是该账号登录框，已退出账号选中一律出登录框、选中在线账号出详情；标签右键登出后台账号不跳多账号页；一台一份拦截页去掉按钮；本地网络重认临时副本不进启动台</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r270/VBFlow-Direct-1.1.270-270.zip" length="23917500" type="application/octet-stream" sparkle:edSignature="EKj3+nfkjz4JhBrA0UXJnYNh13JzWFNXpUgckUzCqus4DSNdjY6bb6YKFIkRrA3R/NyATtWyXFUOv6L6BrAUAg==" />
     </item>
   </channel>
 </rss>
