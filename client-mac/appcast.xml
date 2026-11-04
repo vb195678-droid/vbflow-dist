@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>VB待办流程 Direct</title>
+    <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.271</title>
-      <pubDate>Wed, 04 Nov 2026 13:22:00 +0800</pubDate>
-      <sparkle:version>271</sparkle:version>
-      <sparkle:shortVersionString>1.1.271</sparkle:shortVersionString>
+      <title>版本 1.1.275</title>
+      <pubDate>Wed, 04 Nov 2026 18:48:00 +0800</pubDate>
+      <sparkle:version>275</sparkle:version>
+      <sparkle:shortVersionString>1.1.275</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.271：有图第017批：群里系统提示、撤回/销毁占位 5 分钟后消失，列表预览退到上一条真消息；新装或恢复默认布局默认 2 栏；又田总控页加收藏；新建公司群选人改全公司同事、名单按拼音；已删的升级后不再冒出来</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r271/VBFlow-Direct-1.1.271-271.zip" length="23993213" type="application/octet-stream" sparkle:edSignature="TRfSSIkxmT4Ha7unbHbcdEDX2G54xCgK0J0ysC0mnQAPBY9vcOi7CQhjRmHSDjY5evleVLrFR4XIXnhEt+CeBA==" />
+      <description>1.1.275：清空输入框时候选条当场消失；片语页拖动调位置；聊天输入框清除根治；软件改名又田办公、换新图标</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r275/VBFlow-Direct-1.1.275-275.zip" length="23917530" type="application/octet-stream" sparkle:edSignature="2EpOLY5THbQle7U+bkQGHVV1E07/Ln3ZvssIg2I13wwWAx6Cn+BhMs4RYqDMeyXnOyIpIOK2ZNSfmZ0z8OhIAg==" />
     </item>
   </channel>
 </rss>
