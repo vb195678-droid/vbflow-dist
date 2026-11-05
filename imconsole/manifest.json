@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.70",
- "build": 202,
+ "version": "1.1.73",
+ "build": 205,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46582041,
- "sha256": "24b81ab95121c437f178752a5a54c20e2f854e36bb7f12e642caeca2d64c4058",
+ "size": 46817428,
+ "sha256": "edc2f26b7b74622a1ac11fd25c435a92bed4a2dba5f4a95ca95b02a3e535d953",
  "parts": [
   {
-   "url": "r202/part-aa",
+   "url": "r205/part-aa",
    "size": 19922944,
-   "sha256": "91b61b7c588fa82abc7e793dc734cc7686db30ff06cc63caed0fa824c8160fb2"
+   "sha256": "01987fc4f8f664e8206dd6a1924e7b8cd3b0b8d9466a0af76b7e6cd20c070d20"
   },
   {
-   "url": "r202/part-ab",
+   "url": "r205/part-ab",
    "size": 19922944,
-   "sha256": "ede59c270aa2de4aee40db456acdca9a348479a0de321afb1f97278993976f9a"
+   "sha256": "3e5e725a413daea5d6c8c13baa44e1d49f9e91e2250ec069612a3e9455dbf225"
   },
   {
-   "url": "r202/part-ac",
-   "size": 6736153,
-   "sha256": "1297e3df9220066afc63f2e8c0e7e018885b7c2eda1eae2a3a52a8a35b7a0f8b"
+   "url": "r205/part-ac",
+   "size": 6971540,
+   "sha256": "a4c099ddc0c5a3c023e69dc8ad330165fd94d41efc0a60ac3c5e119694b74d7b"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r202/VBFlowConsole-1.1.70.zip",
- "serverVersion": "1.1.31",
- "serverSHA256": "c3e57fc56610b0d54cfd94d0608c727e21cfe8844bcaa76710eb849718b9c995",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r205/VBFlowConsole-1.1.73.zip",
+ "serverVersion": "1.1.34",
+ "serverSHA256": "50619de6fdc003e17f55d976520d63bc8764f264ad39d39c7fb66376d0653b20",
  "teamID": "NJ44RP2ZZ8",
- "notes": "软件改名又田服务器，里面每一家叫又田企业号（一台电脑最多 8 个）。自带服务程序升到 1.1.31：提醒加账号和服务器到期，新提醒主动推给管理员；停用、恢复、设管理员几条路结果一致；公司名同步失败单独提醒并能接着重试。不再弹「另外 N 份」，软件不再把任何一份移到废纸篓。「安装和升级」的左栏从哪进都一样。修好换壳后单份保护、旧版收纳、备份恢复入口不一致等自查问题。",
- "releasedAt": "2026-11-04T20:23:51Z",
+ "notes": "安全修补：上传加每人配额；上传所在的盘剩余不足（一般低于 5 GB，100 GB 以下的盘按总容量 5%、最少 1 GB）时不再收文件；满 7 天没用上的新文件自动清理（老文件不动）；新发的聊天图片 7 天后删除（老图片仍 3 个月）；每个账号最多在 6 台 Mac 登录（已登录超过的不挤掉）；登录、邀请链接限流重启后仍有效；阅后即焚群的文件不能转到群外；外部消息撤回限 15 分钟；临时通道只准注册；下载中心只认带签名的清单；发给又田的问题报告先遮掉手机号、邮箱、密钥和网址参数，消息正文不发。自带服务程序 1.1.34。",
+ "releasedAt": "2026-11-05T14:26:01Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r202/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r202/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r202/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r202/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r205/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r205/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r205/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r205/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r205/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r205/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r205/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r205/imconsole/"
  ]
 }
