@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.281</title>
-      <pubDate>Thu, 05 Nov 2026 14:14:00 +0800</pubDate>
-      <sparkle:version>281</sparkle:version>
-      <sparkle:shortVersionString>1.1.281</sparkle:shortVersionString>
+      <title>版本 1.1.285</title>
+      <pubDate>Fri, 06 Nov 2026 11:01:00 +0800</pubDate>
+      <sparkle:version>285</sparkle:version>
+      <sparkle:shortVersionString>1.1.285</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.281：所有界面第一栏统一米黄、第二栏起系统白（聊天不动）；一台电脑只运行一份；升级横幅文字改短；新版已装好时点击重新打开；账号标签「更多」菜单显示账号名</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r281/VBFlow-Direct-1.1.281-281.zip" length="24793747" type="application/octet-stream" sparkle:edSignature="XZGDJok0FyZsX5NTRmnEXf00RdlTreDgafnHzK36M1/bzZW2Lee1YnnWNbZgzwhRThewszPRX7SWkEO6QVn5Dg==" />
+      <description>1.1.285：防假服务器骗取账号；聊天对方不能改写别人的消息；超长消息自动变文件并保留回复引用，卡住的老消息自动转文件；第一栏米黄连成一条；安全修补；窄窗标题、任务附件页、升级横幅的修复</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r285/VBFlow-Direct-1.1.285-285.zip" length="24902852" type="application/octet-stream" sparkle:edSignature="ChGbJgW8lfJODBPT5OJoJZnuslVKsyxHHQj2sQaj9LOf5clmOvp6w0hSdhVQ/5nt8wN/d5pIV7gM4OndhANxCA==" />
     </item>
   </channel>
 </rss>
