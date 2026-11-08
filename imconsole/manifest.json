@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.75",
- "build": 207,
+ "version": "1.1.78",
+ "build": 210,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 46533272,
- "sha256": "c04bedaee0aaea503c7dd05c88db37a30f00f8affe46329071413dabbe395a60",
+ "size": 49381978,
+ "sha256": "fd8c5a930dcf851a80c39c78106cd2972a952ee279ae22c7e1167fee1e3392c3",
  "parts": [
   {
-   "url": "r207/part-aa",
+   "url": "r210/part-aa",
    "size": 19922944,
-   "sha256": "67ecd8db27928a7dba74d9db140cb24ea343d71d6eef0b3b56c32a720680d9b4"
+   "sha256": "4cc606fd057596ea42efad8274ca07fcbcd5ae124050576568ac93186232434f"
   },
   {
-   "url": "r207/part-ab",
+   "url": "r210/part-ab",
    "size": 19922944,
-   "sha256": "73e846eb5e6c2782e9fba2eaaa131b304d147a112b8a3643b6fd68894dde14df"
+   "sha256": "1b03a28c5609002e66e4b7a1d6c21a0554534a47c20e77732f25ea80401a89a8"
   },
   {
-   "url": "r207/part-ac",
-   "size": 6687384,
-   "sha256": "62af13165800c334d5131e36d9269a87d5b32890337ed03500a9922b11a931ba"
+   "url": "r210/part-ac",
+   "size": 9536090,
+   "sha256": "7594c917f80c2f6d3542eeb9fa50e0ac69e35f58b4be363d255ad8b6a0073fdf"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r207/VBFlowConsole-1.1.75.zip",
- "serverVersion": "1.1.36",
- "serverSHA256": "b0128a29bebd4a6aa3e2b139995a75edf6b455ffd97061216d33fe6b9a829a38",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r210/VBFlowConsole-1.1.78.zip",
+ "serverVersion": "1.1.38",
+ "serverSHA256": "5dea9ec66224bb5f38eb032d2fa82863ab39bd3d4f9634d9dd0a9262b2617747",
  "teamID": "NJ44RP2ZZ8",
- "notes": "软件改名「又田服务器」，换绿底新图标，程序坞原位换新；一台电脑只留一套（旧版留一份压缩包），不再主动翻下载和桌面；备份恢复要先确认是这台服务器；员工手机可「递交测试报告」给又田，带报告编号，中转显示 IP、端口和编号，没开的通道写明原因；外部联系人授权一变马上告诉对方公司，外部好友规则补齐；更新提醒改成两句话；界面第 017 批修改；审计修复多条。自带服务程序 1.1.36。",
- "releasedAt": "2026-11-07T20:07:10Z",
+ "notes": "「安装和升级」合成一个「升级」，点一下全部升好，升级记录整句看得全；接电源时让这台电脑保持醒着，员工随时连得上，「服务器健康」多一行说明；睡醒后不再误报「只剩局域网」；顶上加「Uatian」打开又田官网（窗口太窄时先不显示）；流程角色可停用，删除先进废纸篓（30 天自动清），「默认分类」改名「默认角色」；新增权限角色和权限资源表；重置密码时先作废旧密码。自带服务程序 1.1.38。",
+ "releasedAt": "2026-11-08T21:38:44Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r207/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r207/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r207/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r207/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r207/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r207/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r207/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r207/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r210/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r210/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r210/imconsole/"
  ]
 }
