@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.288</title>
-      <pubDate>Sat, 07 Nov 2026 10:30:00 +0800</pubDate>
-      <sparkle:version>288</sparkle:version>
-      <sparkle:shortVersionString>1.1.288</sparkle:shortVersionString>
+      <title>版本 1.1.290</title>
+      <pubDate>Sun, 08 Nov 2026 15:20:00 +0800</pubDate>
+      <sparkle:version>290</sparkle:version>
+      <sparkle:shortVersionString>1.1.290</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.288：外部好友名单旧名单提示和重新拉取、我的二维码带服务器盖章；外部好友规则补缺口七处；人员角色按角色查看、能给普通岗位和空岗开外部联系人、能授流程选人范围并勾公司；设置顶上那一排居中且只有点了才换页；通讯录点人更快；一台电脑只留一套；对方在线；聊天回原处；测试连接一定真打洞；图标换成和手机一样的上黄下绿</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r288/VBFlow-Direct-1.1.288-288.zip" length="27403637" type="application/octet-stream" sparkle:edSignature="iYHgWd2HT0g1n1pPD4qBQfx8l0W4fKmWcVELDJOztBIW1EqPi8VIjuxjbZtqeaj3x5LCxI13i68Hf2hK7W7WCg==" />
+      <description>1.1.290：测试连接页只列真通道、阅毕即焚群不许带出、全部页分组、审计修复、登出闪退根治</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r290/VBFlow-Direct-1.1.290-290.zip" length="27521331" type="application/octet-stream" sparkle:edSignature="+UaGZBbnHFFTp2ZbnmJdY9pENbakwgw+ME0cXMQ3XrfefTlsewgxsnJ2AOeaBvPRyHADP+5jpw7tYzjSW87LAg==" />
     </item>
   </channel>
 </rss>
