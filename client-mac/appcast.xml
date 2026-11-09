@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.296</title>
-      <pubDate>Mon, 09 Nov 2026 17:01:00 +0800</pubDate>
-      <sparkle:version>296</sparkle:version>
-      <sparkle:shortVersionString>1.1.296</sparkle:shortVersionString>
+      <title>版本 1.1.297</title>
+      <pubDate>Mon, 09 Nov 2026 17:42:00 +0800</pubDate>
+      <sparkle:version>297</sparkle:version>
+      <sparkle:shortVersionString>1.1.297</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.296：合并原生审计 审-01～14 部分（焦点环等和 Boss 图冲突的未改；表格行高照 Boss 图保留）、组织各页换系统分栏和右栏系统表单（有图第027批）、组织页提示改系统弹框、计数 0 不显示、权限角色授权对象恢复勾公司</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r296/VBFlow-Direct-1.1.296-296.zip" length="27642965" type="application/octet-stream" sparkle:edSignature="7tafUKh6LPl2s8Lu5rCNjM2GyvDgV8H29MTHQpHRK98sOm9/9+ATLSwKuqmlvNnURMO8nliJPvXlgwcS07DsCg==" />
+      <description>1.1.297：合审计 M-01～13、296 回退修复与流程出错系统提示框、小白六处、版本与更新卡片、员工名单页、登录页一次性码；「不要这张」系统红；设置页「检查更新」按钮改名</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r297/VBFlow-Direct-1.1.297-297.zip" length="27618804" type="application/octet-stream" sparkle:edSignature="Ywle6ioxuxyc6ZC6k4Czo0uhooZpgzOCM9okUqvZfrHY5cbAUowtDfmk5F7yok0+8/j4n4SSbHUEjhLOwl3RBQ==" />
     </item>
   </channel>
 </rss>
