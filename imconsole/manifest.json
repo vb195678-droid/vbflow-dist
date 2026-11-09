@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.80",
- "build": 212,
+ "version": "1.1.81",
+ "build": 213,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 49384475,
- "sha256": "0dd10b2d77d39ce45405ee6bea9e29be9a41a5f76a65545abd48d4e79be021fa",
+ "size": 49702240,
+ "sha256": "98acad69485969115ef40a93b7da955a0e39e3f44229a4e4bb1be48d0e4b390d",
  "parts": [
   {
-   "url": "r212/part-aa",
+   "url": "r213/part-aa",
    "size": 19922944,
-   "sha256": "48ae2773539fb62b090eefa91f1f3f35a501a031fe07e861fc247f0795264d39"
+   "sha256": "6cbfe01c06bd8ddc72327a4f990a2cf6016ca6445639583e0c0e055a3446e451"
   },
   {
-   "url": "r212/part-ab",
+   "url": "r213/part-ab",
    "size": 19922944,
-   "sha256": "01ba3a87c7f18d8d29a364f8e22b68228ad0662e411098cc065d18abfeeea558"
+   "sha256": "b53ddb4c5b7cc3366fc70e51574e33d5fd0d0f0e98861fe65ded0e25504fe2ad"
   },
   {
-   "url": "r212/part-ac",
-   "size": 9538587,
-   "sha256": "8ebf234f750741209adc0d1bdb8e026a1f4000038527a13b32ab8a1a48a84e35"
+   "url": "r213/part-ac",
+   "size": 9856352,
+   "sha256": "e87c9e3439e46036c5990664b270ff1910373b870cf3e79c3f1a1c71c0774c19"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r212/VBFlowConsole-1.1.80.zip",
- "serverVersion": "1.1.40",
- "serverSHA256": "f2abcc6b8bf4bec12f8bcda073b43da4af8b24ed7bbe5dde0dc684431ddc7729",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r213/VBFlowConsole-1.1.81.zip",
+ "serverVersion": "1.1.41",
+ "serverSHA256": "cc75027fb701630ceae5287d69909193ca5e1913841b80f7ec96569b7872701f",
  "teamID": "NJ44RP2ZZ8",
- "notes": "安全修补：员工用一次性码设密码时，服务器核对这个码是不是他本人的，别人的码设不了。自带服务程序 1.1.40。",
- "releasedAt": "2026-11-09T09:55:50Z",
+ "notes": "今天的服务器改动一起发：一次性码只给码的主人设密码（1.1.80 急修照带）、审计修补 12 处、同一推送令牌只留最后登记的设备、服务器码只读接口、带翻译消息字段、话题关闭只限创建人、列出没升级的手机、服务器夜里自动升级（先问用户）、备份位置状态标签和修改备份路径、超管改总公司名、超管办。自带服务程序 1.1.41。",
+ "releasedAt": "2026-11-09T13:13:17Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r212/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r212/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r212/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r213/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r213/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r213/imconsole/"
  ]
 }
