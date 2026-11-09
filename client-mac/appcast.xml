@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.300</title>
-      <pubDate>Tue, 10 Nov 2026 01:22:00 +0800</pubDate>
-      <sparkle:version>300</sparkle:version>
-      <sparkle:shortVersionString>1.1.300</sparkle:shortVersionString>
+      <title>版本 1.1.301</title>
+      <pubDate>Tue, 10 Nov 2026 02:19:00 +0800</pubDate>
+      <sparkle:version>301</sparkle:version>
+      <sparkle:shortVersionString>1.1.301</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.300：组织角色各页照第029批图改（页签居中、右栏不来回跳、选中色、右栏行高 40、筛选无蓝边）；页面提示改系统弹框；数量 0 不显示；聊天三项删除放外面系统红；权限资源表上半屏不空白；看流程画流程几排居中</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r300/VBFlow-Direct-1.1.300-300.zip" length="27716377" type="application/octet-stream" sparkle:edSignature="ZtENfXzLVDYuBXU8qCEbhbviCr4k6mv03JKiurO1UPz0sHkovK5NFKvPtl7MQKIY5R6lvVXcnQAc7Do7jQSoAg==" />
+      <description>1.1.301：机构、部门表格点中的行改为橘黄（1.1.300 仍是系统蓝）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r301/VBFlow-Direct-1.1.301-301.zip" length="27717306" type="application/octet-stream" sparkle:edSignature="yzkP+dO7F+jFn9Va82OHOum6glLHzi3yjuHxLcvPG07upOoYnCQp8eeXKEH4PriuegDO63g3FU4ITxke712GBQ==" />
     </item>
   </channel>
 </rss>
