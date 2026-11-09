@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.303</title>
-      <pubDate>Tue, 10 Nov 2026 05:20:00 +0800</pubDate>
-      <sparkle:version>303</sparkle:version>
-      <sparkle:shortVersionString>1.1.303</sparkle:shortVersionString>
+      <title>版本 1.1.304</title>
+      <pubDate>Tue, 10 Nov 2026 06:10:00 +0800</pubDate>
+      <sparkle:version>304</sparkle:version>
+      <sparkle:shortVersionString>1.1.304</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.303：设置等各页照结构图 v3：第一栏米黄从窗口最上通到最下（系统侧栏），窗口窄了侧栏自动收起；分页和筛选同一行；底栏、工作区从第一栏右边起；权限资源表三栏</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r303/VBFlow-Direct-1.1.303-303.zip" length="27816886" type="application/octet-stream" sparkle:edSignature="rH+FshtrscnLZW28Fi0WvxuhtAkhNk1MRn40LF8LUtfZdhW6m/MBZhzLAMpzKDmAALkLqnA2BUxpgp7OWLU/BA==" />
+      <description>1.1.304：看流程、画流程点页签不再闪跳；画流程节点表上方只读提示条去掉；节点说明下细线去掉；顶行只留子公司简称；人员框和「选择岗位…」排在同一行，去掉空岗提示句；节点表字大一档；位置号改成圆圈（岗位选好深绿、没选好红）；看流程统计、附件中心改用系统分栏</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r304/VBFlow-Direct-1.1.304-304.zip" length="27825261" type="application/octet-stream" sparkle:edSignature="nOUYel8Xigf79QLFqGj3lLCqfQuCx5wMv/CDWOn9fFr/OvFN7w5M8OBu9sIoUuP6kXZD+pHRqn7ud+bzKvq/DQ==" />
     </item>
   </channel>
 </rss>
