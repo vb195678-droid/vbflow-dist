@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.291</title>
-      <pubDate>Mon, 09 Nov 2026 00:08:00 +0800</pubDate>
-      <sparkle:version>291</sparkle:version>
-      <sparkle:shortVersionString>1.1.291</sparkle:shortVersionString>
+      <title>版本 1.1.294</title>
+      <pubDate>Mon, 09 Nov 2026 15:23:00 +0800</pubDate>
+      <sparkle:version>294</sparkle:version>
+      <sparkle:shortVersionString>1.1.294</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.291：电脑客户端 1.1.291：有图第022批界面、聊天性能、版本区分重置、安装包瘦身、岗位角色卡顿、权限角色改为通用角色模板（有图第023批）；质量员退回三处（流程角色、权限角色页）已修</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r291/VBFlow-Direct-1.1.291-291.zip" length="28156125" type="application/octet-stream" sparkle:edSignature="7jNuzYzHhyJ1kbNSKuNN46izsfkMAyWAgVgBwyUciblAwdejarRUEADhTPiTeel3/Na9L1UXUXQR9cAkMDZEDA==" />
+      <description>1.1.294：安装器不再挪商店版、已装较新版先问可降级；一台一份：另一份归 root 时不再弹框挡住主窗口</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r294/VBFlow-Direct-1.1.294-294.zip" length="27632863" type="application/octet-stream" sparkle:edSignature="6ndVBaW12Mg9KUBqfNSSZriOrU4Lggf0z9TqhdoWSH7UwdtuJHhRL0cWzgCsHMIPr7YGkf0Sg+VPMwOrdxIYCg==" />
     </item>
   </channel>
 </rss>
