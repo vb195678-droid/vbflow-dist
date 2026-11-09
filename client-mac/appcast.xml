@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.294</title>
-      <pubDate>Mon, 09 Nov 2026 15:23:00 +0800</pubDate>
-      <sparkle:version>294</sparkle:version>
-      <sparkle:shortVersionString>1.1.294</sparkle:shortVersionString>
+      <title>版本 1.1.295</title>
+      <pubDate>Mon, 09 Nov 2026 16:25:00 +0800</pubDate>
+      <sparkle:version>295</sparkle:version>
+      <sparkle:shortVersionString>1.1.295</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.294：安装器不再挪商店版、已装较新版先问可降级；一台一份：另一份归 root 时不再弹框挡住主窗口</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r294/VBFlow-Direct-1.1.294-294.zip" length="27632863" type="application/octet-stream" sparkle:edSignature="6ndVBaW12Mg9KUBqfNSSZriOrU4Lggf0z9TqhdoWSH7UwdtuJHhRL0cWzgCsHMIPr7YGkf0Sg+VPMwOrdxIYCg==" />
+      <description>1.1.295：合并有图第026批（新增按钮蓝、全选框进表头、设置顶行对齐、内置销售部、顶栏账号标签合并、箭头菜单退出）和第025批服务器三条（改总公司名、超管办、身份下拉）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r295/VBFlow-Direct-1.1.295-295.zip" length="27637718" type="application/octet-stream" sparkle:edSignature="4dISxfC1JcWJ8nSuDkXMJpgaCwtrRWYZ5jGjDzVkfjEhvkzf74HpMmymZzz3F3+UKnXu3c50z2r+9dwoc2DkCA==" />
     </item>
   </channel>
 </rss>
