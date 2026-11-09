@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.78",
- "build": 210,
+ "version": "1.1.80",
+ "build": 212,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 49381978,
- "sha256": "fd8c5a930dcf851a80c39c78106cd2972a952ee279ae22c7e1167fee1e3392c3",
+ "size": 49384475,
+ "sha256": "0dd10b2d77d39ce45405ee6bea9e29be9a41a5f76a65545abd48d4e79be021fa",
  "parts": [
   {
-   "url": "r210/part-aa",
+   "url": "r212/part-aa",
    "size": 19922944,
-   "sha256": "4cc606fd057596ea42efad8274ca07fcbcd5ae124050576568ac93186232434f"
+   "sha256": "48ae2773539fb62b090eefa91f1f3f35a501a031fe07e861fc247f0795264d39"
   },
   {
-   "url": "r210/part-ab",
+   "url": "r212/part-ab",
    "size": 19922944,
-   "sha256": "1b03a28c5609002e66e4b7a1d6c21a0554534a47c20e77732f25ea80401a89a8"
+   "sha256": "01ba3a87c7f18d8d29a364f8e22b68228ad0662e411098cc065d18abfeeea558"
   },
   {
-   "url": "r210/part-ac",
-   "size": 9536090,
-   "sha256": "7594c917f80c2f6d3542eeb9fa50e0ac69e35f58b4be363d255ad8b6a0073fdf"
+   "url": "r212/part-ac",
+   "size": 9538587,
+   "sha256": "8ebf234f750741209adc0d1bdb8e026a1f4000038527a13b32ab8a1a48a84e35"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r210/VBFlowConsole-1.1.78.zip",
- "serverVersion": "1.1.38",
- "serverSHA256": "5dea9ec66224bb5f38eb032d2fa82863ab39bd3d4f9634d9dd0a9262b2617747",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r212/VBFlowConsole-1.1.80.zip",
+ "serverVersion": "1.1.40",
+ "serverSHA256": "f2abcc6b8bf4bec12f8bcda073b43da4af8b24ed7bbe5dde0dc684431ddc7729",
  "teamID": "NJ44RP2ZZ8",
- "notes": "「安装和升级」合成一个「升级」，点一下全部升好，升级记录整句看得全；接电源时让这台电脑保持醒着，员工随时连得上，「服务器健康」多一行说明；睡醒后不再误报「只剩局域网」；顶上加「Uatian」打开又田官网（窗口太窄时先不显示）；流程角色可停用，删除先进废纸篓（30 天自动清），「默认分类」改名「默认角色」；新增权限角色和权限资源表；重置密码时先作废旧密码。自带服务程序 1.1.38。",
- "releasedAt": "2026-11-08T21:38:44Z",
+ "notes": "安全修补：员工用一次性码设密码时，服务器核对这个码是不是他本人的，别人的码设不了。自带服务程序 1.1.40。",
+ "releasedAt": "2026-11-09T09:55:50Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r210/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r210/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r210/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r210/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r212/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r212/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r212/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r212/imconsole/"
  ]
 }
