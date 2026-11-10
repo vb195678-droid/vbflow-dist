@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.304</title>
-      <pubDate>Tue, 10 Nov 2026 06:10:00 +0800</pubDate>
-      <sparkle:version>304</sparkle:version>
-      <sparkle:shortVersionString>1.1.304</sparkle:shortVersionString>
+      <title>版本 1.1.318</title>
+      <pubDate>Wed, 11 Nov 2026 06:02:00 +0800</pubDate>
+      <sparkle:version>318</sparkle:version>
+      <sparkle:shortVersionString>1.1.318</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.304：看流程、画流程点页签不再闪跳；画流程节点表上方只读提示条去掉；节点说明下细线去掉；顶行只留子公司简称；人员框和「选择岗位…」排在同一行，去掉空岗提示句；节点表字大一档；位置号改成圆圈（岗位选好深绿、没选好红）；看流程统计、附件中心改用系统分栏</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r304/VBFlow-Direct-1.1.304-304.zip" length="27825261" type="application/octet-stream" sparkle:edSignature="nOUYel8Xigf79QLFqGj3lLCqfQuCx5wMv/CDWOn9fFr/OvFN7w5M8OBu9sIoUuP6kXZD+pHRqn7ud+bzKvq/DQ==" />
+      <description>1.1.318：待审核的人右边一直显示「确认上岗」「驳回」；岗位没定时写「还差：岗位」；批量确认上岗时跳过没定岗位的人，并写明原因。窗口窄到约 1000 时聊天栏先收起，点「2栏」可以固定显示。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r318/VBFlow-Direct-1.1.318-318.zip" length="28004959" type="application/octet-stream" sparkle:edSignature="MYOUARBzBgR+e4CfV6ovbGbUt+nQD68TJ09l01QrtTQj0lPcICBPkm5z4w05KtDBKuh25koLyL0xB6bDD25UCw==" />
     </item>
   </channel>
 </rss>
