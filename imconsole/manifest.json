@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.81",
- "build": 213,
+ "version": "1.1.82",
+ "build": 214,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 49702240,
- "sha256": "98acad69485969115ef40a93b7da955a0e39e3f44229a4e4bb1be48d0e4b390d",
+ "size": 49762117,
+ "sha256": "1148949bab0e35bdbc4b19b7eaea10a3dd94163ee4095d794eb11ddf7cc81f2f",
  "parts": [
   {
-   "url": "r213/part-aa",
+   "url": "r214/part-aa",
    "size": 19922944,
-   "sha256": "6cbfe01c06bd8ddc72327a4f990a2cf6016ca6445639583e0c0e055a3446e451"
+   "sha256": "e72c5aba5ea06e30c5ae46558ef9ea7766110bf45af1881d9a2fca8ac52fa31c"
   },
   {
-   "url": "r213/part-ab",
+   "url": "r214/part-ab",
    "size": 19922944,
-   "sha256": "b53ddb4c5b7cc3366fc70e51574e33d5fd0d0f0e98861fe65ded0e25504fe2ad"
+   "sha256": "e3343eb6494ce89bdf96d1374ccc84778c890dec3339dffb58a9e101da6eac33"
   },
   {
-   "url": "r213/part-ac",
-   "size": 9856352,
-   "sha256": "e87c9e3439e46036c5990664b270ff1910373b870cf3e79c3f1a1c71c0774c19"
+   "url": "r214/part-ac",
+   "size": 9916229,
+   "sha256": "1cb71bca4c7f87919257801b44b7d64cc987bb828223aa6d464b8601e1a0e937"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r213/VBFlowConsole-1.1.81.zip",
- "serverVersion": "1.1.41",
- "serverSHA256": "cc75027fb701630ceae5287d69909193ca5e1913841b80f7ec96569b7872701f",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r214/VBFlowConsole-1.1.82.zip",
+ "serverVersion": "1.1.42",
+ "serverSHA256": "885d4244b8f76347db2023405fc001c298727cabe806f65f29fda3e9d53af0b5",
  "teamID": "NJ44RP2ZZ8",
- "notes": "今天的服务器改动一起发：一次性码只给码的主人设密码（1.1.80 急修照带）、审计修补 12 处、同一推送令牌只留最后登记的设备、服务器码只读接口、带翻译消息字段、话题关闭只限创建人、列出没升级的手机、服务器夜里自动升级（先问用户）、备份位置状态标签和修改备份路径、超管改总公司名、超管办。自带服务程序 1.1.41。",
- "releasedAt": "2026-11-09T13:13:17Z",
+ "notes": "电脑、手机新做的权限角色、画流程可以用上：权限角色带编号、权限项可以按公司授（含第 15 项管理员）、24 项权限表由服务器给、超级管理员不能经权限角色授出、重置密码按授权范围、隐身的人按用户名搜不到；画流程可以按公司授权、流程备注、高频岗位；超级管理员只能在服务器这台电脑上设、取消、放上或请下岗位；诊断报告多一种「升级前没备份」；审计修补四条（备份临时明文用完就删、中转机身份变了不发密码先确认、账号连错锁定翻倍不被清掉）；用中转时 60 秒试回免费线路。自带服务程序 1.1.42。",
+ "releasedAt": "2026-11-10T06:11:40Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r213/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r213/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r213/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r213/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r214/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r214/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r214/imconsole/"
  ]
 }
