@@ -4,14 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.318</title>
-      <pubDate>Wed, 11 Nov 2026 06:02:00 +0800</pubDate>
-      <sparkle:version>318</sparkle:version>
-      <sparkle:shortVersionString>1.1.318</sparkle:shortVersionString>
+      <title>版本 1.1.320</title>
+      <pubDate>Thu, 12 Nov 2026 08:50:00 +0800</pubDate>
+      <sparkle:version>320</sparkle:version>
+      <sparkle:shortVersionString>1.1.320</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>1.1.318：待审核的人右边一直显示「确认上岗」「驳回」；岗位没定时写「还差：岗位」；批量确认上岗时跳过没定岗位的人，并写明原因。窗口窄到约 1000 时聊天栏先收起，点「2栏」可以固定显示。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r318/VBFlow-Direct-1.1.318-318.zip" length="28004959" type="application/octet-stream" sparkle:edSignature="MYOUARBzBgR+e4CfV6ovbGbUt+nQD68TJ09l01QrtTQj0lPcICBPkm5z4w05KtDBKuh25koLyL0xB6bDD25UCw==" />
+      <description>1.1.320：第035批看流程、画流程、选择岗位窗；右栏闪退根治（组织页、发起流程页）；外壳分栏和窗口拉伸、窄窗不横滚；聊天顶栏名字一行、清除聊天记录挪进更多；外部好友被拒行；组织完成判断；升级前认本人；双芯片</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r320/VBFlow-Direct-1.1.320-320.zip" length="54307411" type="application/octet-stream" sparkle:edSignature="UiE2vOJO6tsj3YmPExfmVLsduLI7VAVJDG2RdogLScvcsmILwKOu1P3oQNM7Cfmtftcni7BeW7fpZikfOKCoBQ==" />
     </item>
   </channel>
 </rss>
