@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.323</title>
-      <pubDate>Thu, 12 Nov 2026 20:11:00 +0800</pubDate>
-      <sparkle:version>323</sparkle:version>
-      <sparkle:shortVersionString>1.1.323</sparkle:shortVersionString>
+      <title>版本 1.1.324</title>
+      <pubDate>Thu, 12 Nov 2026 23:10:00 +0800</pubDate>
+      <sparkle:version>324</sparkle:version>
+      <sparkle:shortVersionString>1.1.324</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.323：有图第036批；流程 085、108、139①、140②、143②；组织权限收回 105；聊天外部好友 116、138①、好友管理 136、外部群信息 146；启动台开始使用 134；配色 142；报错反馈 147；质量员第二关补审 144（B-01）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r323/VBFlow-Direct-1.1.323-323.zip" length="54557689" type="application/octet-stream" sparkle:edSignature="7nSgXJnn9GI2t5saH2bgt7ucLhG+ngCdK/qNVtDR3LRHUNQ87kczcHwBdaakFuwzRL001tzvSxaeswee4swrDw==" />
+      <description>1.1.324：窄窗进看流程子页（数字表单、异常）再回启动台，侧栏不再被自动收起（C065-154）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r324/VBFlow-Direct-1.1.324-324.zip" length="54557502" type="application/octet-stream" sparkle:edSignature="41nZDbKnclSVjiC2BV8hQhJtea0sXPUWjIhLV5ifuI7PQQV4Ek0C9PSHbUCDKCBYMtigq/bC6clyEle1l19+Bg==" />
     </item>
   </channel>
 </rss>
