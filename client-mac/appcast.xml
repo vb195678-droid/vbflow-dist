@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.320</title>
-      <pubDate>Thu, 12 Nov 2026 08:50:00 +0800</pubDate>
-      <sparkle:version>320</sparkle:version>
-      <sparkle:shortVersionString>1.1.320</sparkle:shortVersionString>
+      <title>版本 1.1.322</title>
+      <pubDate>Thu, 12 Nov 2026 16:05:00 +0800</pubDate>
+      <sparkle:version>322</sparkle:version>
+      <sparkle:shortVersionString>1.1.322</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.320：第035批看流程、画流程、选择岗位窗；右栏闪退根治（组织页、发起流程页）；外壳分栏和窗口拉伸、窄窗不横滚；聊天顶栏名字一行、清除聊天记录挪进更多；外部好友被拒行；组织完成判断；升级前认本人；双芯片</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r320/VBFlow-Direct-1.1.320-320.zip" length="54307411" type="application/octet-stream" sparkle:edSignature="UiE2vOJO6tsj3YmPExfmVLsduLI7VAVJDG2RdogLScvcsmILwKOu1P3oQNM7Cfmtftcni7BeW7fpZikfOKCoBQ==" />
+      <description>1.1.322：撤出 C065-136；合入流程 108、第035批后一半、走查（024、079、122、124）、外壳留页（080、089、076）、使用说明（076、124）、聊天走查（073、076、082、117、119、120、125、126、127、129②、131、135、137）、外部好友 116、组织走查（105、112、113、114、119、123、133）、IMKit 取译文提速（109）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r322/VBFlow-Direct-1.1.322-322.zip" length="54529668" type="application/octet-stream" sparkle:edSignature="98MsO0y7YO9GbO9KDNuS8fEncRjCUaYkzvZdKm+eA+p6UfAHXO0oDURZVEtflQZXNrfTU0n1yDQYYle3y1iyBQ==" />
     </item>
   </channel>
 </rss>
