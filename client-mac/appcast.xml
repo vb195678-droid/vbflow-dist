@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.322</title>
-      <pubDate>Thu, 12 Nov 2026 16:05:00 +0800</pubDate>
-      <sparkle:version>322</sparkle:version>
-      <sparkle:shortVersionString>1.1.322</sparkle:shortVersionString>
+      <title>版本 1.1.323</title>
+      <pubDate>Thu, 12 Nov 2026 20:11:00 +0800</pubDate>
+      <sparkle:version>323</sparkle:version>
+      <sparkle:shortVersionString>1.1.323</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.322：撤出 C065-136；合入流程 108、第035批后一半、走查（024、079、122、124）、外壳留页（080、089、076）、使用说明（076、124）、聊天走查（073、076、082、117、119、120、125、126、127、129②、131、135、137）、外部好友 116、组织走查（105、112、113、114、119、123、133）、IMKit 取译文提速（109）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r322/VBFlow-Direct-1.1.322-322.zip" length="54529668" type="application/octet-stream" sparkle:edSignature="98MsO0y7YO9GbO9KDNuS8fEncRjCUaYkzvZdKm+eA+p6UfAHXO0oDURZVEtflQZXNrfTU0n1yDQYYle3y1iyBQ==" />
+      <description>1.1.323：有图第036批；流程 085、108、139①、140②、143②；组织权限收回 105；聊天外部好友 116、138①、好友管理 136、外部群信息 146；启动台开始使用 134；配色 142；报错反馈 147；质量员第二关补审 144（B-01）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r323/VBFlow-Direct-1.1.323-323.zip" length="54557689" type="application/octet-stream" sparkle:edSignature="7nSgXJnn9GI2t5saH2bgt7ucLhG+ngCdK/qNVtDR3LRHUNQ87kczcHwBdaakFuwzRL001tzvSxaeswee4swrDw==" />
     </item>
   </channel>
 </rss>
