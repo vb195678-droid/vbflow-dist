@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.324</title>
-      <pubDate>Thu, 12 Nov 2026 23:10:00 +0800</pubDate>
-      <sparkle:version>324</sparkle:version>
-      <sparkle:shortVersionString>1.1.324</sparkle:shortVersionString>
+      <title>版本 1.1.329</title>
+      <pubDate>Fri, 13 Nov 2026 19:29:00 +0800</pubDate>
+      <sparkle:version>329</sparkle:version>
+      <sparkle:shortVersionString>1.1.329</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.324：窄窗进看流程子页（数字表单、异常）再回启动台，侧栏不再被自动收起（C065-154）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r324/VBFlow-Direct-1.1.324-324.zip" length="54557502" type="application/octet-stream" sparkle:edSignature="41nZDbKnclSVjiC2BV8hQhJtea0sXPUWjIhLV5ifuI7PQQV4Ek0C9PSHbUCDKCBYMtigq/bC6clyEle1l19+Bg==" />
+      <description>1.1.329：撤回 1.1.328 里两处：流程角色页 1440 宽表头出「…」、看流程第二排连故障清单入口一起删掉，两页恢复成 1.1.326 的样子</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r329/VBFlow-Direct-1.1.329-329.zip" length="55048692" type="application/octet-stream" sparkle:edSignature="KXXoLPN8gCTiN3VREzm4R24AVtCEZh5kkADmBbNIYT9ZQsOipsgAtFOfwNgmyqdZiahUBKNXwrab0UXkvMgLAw==" />
     </item>
   </channel>
 </rss>
