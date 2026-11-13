@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.82",
- "build": 214,
+ "version": "1.1.84",
+ "build": 216,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 49762117,
- "sha256": "1148949bab0e35bdbc4b19b7eaea10a3dd94163ee4095d794eb11ddf7cc81f2f",
+ "size": 47135998,
+ "sha256": "6ee1fa258e2805c000e8140664fd1aac1ba9b7f522dc67a781780be87eb15845",
  "parts": [
   {
-   "url": "r214/part-aa",
+   "url": "r216/part-aa",
    "size": 19922944,
-   "sha256": "e72c5aba5ea06e30c5ae46558ef9ea7766110bf45af1881d9a2fca8ac52fa31c"
+   "sha256": "f6c1204fbaad85630df7d1607b8ce57d9f4a649729b4ba807979b216b3d3319b"
   },
   {
-   "url": "r214/part-ab",
+   "url": "r216/part-ab",
    "size": 19922944,
-   "sha256": "e3343eb6494ce89bdf96d1374ccc84778c890dec3339dffb58a9e101da6eac33"
+   "sha256": "b9ec84488f1a791a6079ce8966502d467c9fa746cf981cda59e10423e41056ce"
   },
   {
-   "url": "r214/part-ac",
-   "size": 9916229,
-   "sha256": "1cb71bca4c7f87919257801b44b7d64cc987bb828223aa6d464b8601e1a0e937"
+   "url": "r216/part-ac",
+   "size": 7290110,
+   "sha256": "40a16d43c5e4d41af27aee901cf5b88033b583c9d2104a56ec0e20211058c83c"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r214/VBFlowConsole-1.1.82.zip",
- "serverVersion": "1.1.42",
- "serverSHA256": "885d4244b8f76347db2023405fc001c298727cabe806f65f29fda3e9d53af0b5",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r216/VBFlowConsole-1.1.84.zip",
+ "serverVersion": "1.1.43",
+ "serverSHA256": "880eeca43c7659e7341ee3c2eeba56d03b55add62886d7b8d843af7174b31c18",
  "teamID": "NJ44RP2ZZ8",
- "notes": "电脑、手机新做的权限角色、画流程可以用上：权限角色带编号、权限项可以按公司授（含第 15 项管理员）、24 项权限表由服务器给、超级管理员不能经权限角色授出、重置密码按授权范围、隐身的人按用户名搜不到；画流程可以按公司授权、流程备注、高频岗位；超级管理员只能在服务器这台电脑上设、取消、放上或请下岗位；诊断报告多一种「升级前没备份」；审计修补四条（备份临时明文用完就删、中转机身份变了不发密码先确认、账号连错锁定翻倍不被清掉）；用中转时 60 秒试回免费线路。自带服务程序 1.1.42。",
- "releasedAt": "2026-11-10T06:11:40Z",
+ "notes": "这一版加了：外部好友角色、内部好友角色（按岗位、公司、国家、地区、城市挑人，每条条件可以写一行说明文字），电脑客户端上这两个页签要这一版服务器才出得来；所有角色可以设开始日和失效日，到期自动停用、改到将来自动恢复；改合同期限、账号期限时原因可以不填；注册自动审核、岗位码、员工自选岗位、外部好友选岗位都不再列没改过名字的岗位；复制流程起的新名字不补零（新建流程1、新建流程2）；外部好友选人列表的岗位栏带上在岗人的名字；子公司、部门、岗位、名单四页各有自己的废纸篓，删掉的看得见、能恢复；外部好友可以定时发消息；流程进度带上每个节点的说明，跨机构也送；手机诊断报告不再把老版本正常退出当成崩溃。自带服务程序 1.1.43。",
+ "releasedAt": "2026-11-13T20:29:56Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r214/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r214/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r214/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r214/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r216/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r216/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r216/imconsole/"
  ]
 }
