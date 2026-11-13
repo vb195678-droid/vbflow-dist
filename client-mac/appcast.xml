@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.329</title>
-      <pubDate>Fri, 13 Nov 2026 19:29:00 +0800</pubDate>
-      <sparkle:version>329</sparkle:version>
-      <sparkle:shortVersionString>1.1.329</sparkle:shortVersionString>
+      <title>版本 1.1.332</title>
+      <pubDate>Sat, 14 Nov 2026 05:14:00 +0800</pubDate>
+      <sparkle:version>332</sparkle:version>
+      <sparkle:shortVersionString>1.1.332</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.329：撤回 1.1.328 里两处：流程角色页 1440 宽表头出「…」、看流程第二排连故障清单入口一起删掉，两页恢复成 1.1.326 的样子</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r329/VBFlow-Direct-1.1.329-329.zip" length="55048692" type="application/octet-stream" sparkle:edSignature="KXXoLPN8gCTiN3VREzm4R24AVtCEZh5kkADmBbNIYT9ZQsOipsgAtFOfwNgmyqdZiahUBKNXwrab0UXkvMgLAw==" />
+      <description>1.1.332：画流程节点表九栏不再藏、放不下整表横滚；画流程去掉提交（没授权的流程齐了自动进待授权）；节点表改名、默认单独一栏、模拟结果一栏；选择岗位窗分隔线各自拖；组织四页切换不跳；复制岗位选中副本；看流程去掉第二排、保住故障清单入口；流程分类管理器重排</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r332/VBFlow-Direct-1.1.332-332.zip" length="55094912" type="application/octet-stream" sparkle:edSignature="mRR09yTZc73GUvIq2bHHHxgo9vH4ehbdhQCE78UoUwY6CfLjD0+A+MO1nor/cXWZp+ga2bUPbQ2S7mPLVMApCQ==" />
     </item>
   </channel>
 </rss>
