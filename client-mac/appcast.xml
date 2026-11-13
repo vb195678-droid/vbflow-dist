@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.332</title>
-      <pubDate>Sat, 14 Nov 2026 05:14:00 +0800</pubDate>
-      <sparkle:version>332</sparkle:version>
-      <sparkle:shortVersionString>1.1.332</sparkle:shortVersionString>
+      <title>版本 1.1.334</title>
+      <pubDate>Sat, 14 Nov 2026 06:40:00 +0800</pubDate>
+      <sparkle:version>334</sparkle:version>
+      <sparkle:shortVersionString>1.1.334</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.332：画流程节点表九栏不再藏、放不下整表横滚；画流程去掉提交（没授权的流程齐了自动进待授权）；节点表改名、默认单独一栏、模拟结果一栏；选择岗位窗分隔线各自拖；组织四页切换不跳；复制岗位选中副本；看流程去掉第二排、保住故障清单入口；流程分类管理器重排</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r332/VBFlow-Direct-1.1.332-332.zip" length="55094912" type="application/octet-stream" sparkle:edSignature="mRR09yTZc73GUvIq2bHHHxgo9vH4ehbdhQCE78UoUwY6CfLjD0+A+MO1nor/cXWZp+ga2bUPbQ2S7mPLVMApCQ==" />
+      <description>1.1.334：组织机构：筛选记忆按账号分开、「新增」筛选下复制岗位选中副本、搜索框提示字按宽取句；画流程：打开早就齐了的流程自己进待授权、已授权流程提交确认框不会自己关；发包脚本上海清单先签名</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r334/VBFlow-Direct-1.1.334-334.zip" length="55079777" type="application/octet-stream" sparkle:edSignature="ajnZ4o3Hy/dZ/vgIsBenbHv39kUzCqcZLRmZ+eRI3uR46r3zC0bdQQ4oDrzsXEUODjV1UsmG4Z94ZH2ZX6mXAg==" />
     </item>
   </channel>
 </rss>
