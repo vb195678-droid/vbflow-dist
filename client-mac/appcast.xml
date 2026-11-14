@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.334</title>
-      <pubDate>Sat, 14 Nov 2026 06:40:00 +0800</pubDate>
-      <sparkle:version>334</sparkle:version>
-      <sparkle:shortVersionString>1.1.334</sparkle:shortVersionString>
+      <title>版本 1.1.336</title>
+      <pubDate>Sun, 15 Nov 2026 03:15:00 +0800</pubDate>
+      <sparkle:version>336</sparkle:version>
+      <sparkle:shortVersionString>1.1.336</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.334：组织机构：筛选记忆按账号分开、「新增」筛选下复制岗位选中副本、搜索框提示字按宽取句；画流程：打开早就齐了的流程自己进待授权、已授权流程提交确认框不会自己关；发包脚本上海清单先签名</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r334/VBFlow-Direct-1.1.334-334.zip" length="55079777" type="application/octet-stream" sparkle:edSignature="ajnZ4o3Hy/dZ/vgIsBenbHv39kUzCqcZLRmZ+eRI3uR46r3zC0bdQQ4oDrzsXEUODjV1UsmG4Z94ZH2ZX6mXAg==" />
+      <description>1.1.336：好友角色选人选单空修好、外部节点进度表机构栏写对方公司、新建流程角色没改名有提示、故障清单原因换行、收件箱 1440 宽列表不再被切</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r336/VBFlow-Direct-1.1.336-336.zip" length="55103996" type="application/octet-stream" sparkle:edSignature="GzbP/LkVPuDFRO+M2ualwOrfLU1pV3jGhUNYoicv3Dnh12qV4t/r2DxG/e/COHpO+kvJfp4bqPV4nAXnv9HUCw==" />
     </item>
   </channel>
 </rss>
