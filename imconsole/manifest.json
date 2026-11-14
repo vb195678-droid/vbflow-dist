@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.85",
- "build": 217,
+ "version": "1.1.86",
+ "build": 218,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47136093,
- "sha256": "2e31bcb29359de063feebfec7410248ca77c88865dcd1970236813486e393aef",
+ "size": 47169199,
+ "sha256": "6859534b878435371750d7df404878a31fcc861fcb066726f2eae37062155826",
  "parts": [
   {
-   "url": "r217/part-aa",
+   "url": "r218/part-aa",
    "size": 19922944,
-   "sha256": "197ef42c74a25ebea454f167dd6486d91f45a7452b678df9086d78c19d550ca1"
+   "sha256": "9b6016e6f178e3cdf816a74243f57e694c64474c8785c5176c55e6ec04a4ea22"
   },
   {
-   "url": "r217/part-ab",
+   "url": "r218/part-ab",
    "size": 19922944,
-   "sha256": "cc2796d0e98f2f1c16fdeda42f5838373e772857c6bf4d9fa95fe876a5468fb7"
+   "sha256": "8f921d505550083ae857833860958e89064acc929537f6edbcbcf3937c075a79"
   },
   {
-   "url": "r217/part-ac",
-   "size": 7290205,
-   "sha256": "b0ff44aac01637ee3d072bdc560590bf859c5261f32457c26a68396b604454b4"
+   "url": "r218/part-ac",
+   "size": 7323311,
+   "sha256": "ad01801c592e9480c5e7f65f7bfb5dc246ebfe1818efd81f68321ef623722053"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r217/VBFlowConsole-1.1.85.zip",
- "serverVersion": "1.1.43",
- "serverSHA256": "b37de628cad0ce88c517831762e1c5d215c3407cc158b64fe831a926681178d5",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r218/VBFlowConsole-1.1.86.zip",
+ "serverVersion": "1.1.44",
+ "serverSHA256": "27d0f663d9e85a734a4cfd1d2c6b94658444f0669c923be363e0579a94730e97",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版改了管理界面四处：设置 › 员工 › 人员，左栏的公司树里，建好以后一直没改过名字的子公司不再列出来（组织机构那一页照旧全列）；公司和「全部部门」后面的数字是 0 的时候整个不显示；权限这一页改成和「设置 › 员工 › 组织机构」同一套排法，左栏、中间的分段和搜索、右边的详情框都是同一套；连接与域名里「连接测试」那一栏，「已连接」改成绿底白字的标签，「暂时没有」不再加底色。自带服务程序 1.1.43，和上一版同一个，没有改动。",
- "releasedAt": "2026-11-13T23:53:24Z",
+ "notes": "这一版堵住了几处安全漏洞：一台服务器上有几家子公司时，一家子公司的管理员不能再查到别家子公司岗位的权限、删岗位前的检查结果、部门资料、发布前检查里别家的问题，也不能再改别家的工单状态；全公司流程统计和权限角色清单只列本子公司的。另外：外部好友的限流表和封禁名单不再只涨不降；备份停了看门狗会报出来；每天换备份版本半路失败不再弄丢当天那份好备份；换总控失败后的退回会检查成没成功。自带服务程序 1.1.44。",
+ "releasedAt": "2026-11-14T21:07:37Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r217/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r217/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r217/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r218/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r218/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r218/imconsole/"
  ]
 }
