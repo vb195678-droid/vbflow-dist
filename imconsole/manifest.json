@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.84",
- "build": 216,
+ "version": "1.1.85",
+ "build": 217,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47135998,
- "sha256": "6ee1fa258e2805c000e8140664fd1aac1ba9b7f522dc67a781780be87eb15845",
+ "size": 47136093,
+ "sha256": "2e31bcb29359de063feebfec7410248ca77c88865dcd1970236813486e393aef",
  "parts": [
   {
-   "url": "r216/part-aa",
+   "url": "r217/part-aa",
    "size": 19922944,
-   "sha256": "f6c1204fbaad85630df7d1607b8ce57d9f4a649729b4ba807979b216b3d3319b"
+   "sha256": "197ef42c74a25ebea454f167dd6486d91f45a7452b678df9086d78c19d550ca1"
   },
   {
-   "url": "r216/part-ab",
+   "url": "r217/part-ab",
    "size": 19922944,
-   "sha256": "b9ec84488f1a791a6079ce8966502d467c9fa746cf981cda59e10423e41056ce"
+   "sha256": "cc2796d0e98f2f1c16fdeda42f5838373e772857c6bf4d9fa95fe876a5468fb7"
   },
   {
-   "url": "r216/part-ac",
-   "size": 7290110,
-   "sha256": "40a16d43c5e4d41af27aee901cf5b88033b583c9d2104a56ec0e20211058c83c"
+   "url": "r217/part-ac",
+   "size": 7290205,
+   "sha256": "b0ff44aac01637ee3d072bdc560590bf859c5261f32457c26a68396b604454b4"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r216/VBFlowConsole-1.1.84.zip",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r217/VBFlowConsole-1.1.85.zip",
  "serverVersion": "1.1.43",
- "serverSHA256": "880eeca43c7659e7341ee3c2eeba56d03b55add62886d7b8d843af7174b31c18",
+ "serverSHA256": "b37de628cad0ce88c517831762e1c5d215c3407cc158b64fe831a926681178d5",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版加了：外部好友角色、内部好友角色（按岗位、公司、国家、地区、城市挑人，每条条件可以写一行说明文字），电脑客户端上这两个页签要这一版服务器才出得来；所有角色可以设开始日和失效日，到期自动停用、改到将来自动恢复；改合同期限、账号期限时原因可以不填；注册自动审核、岗位码、员工自选岗位、外部好友选岗位都不再列没改过名字的岗位；复制流程起的新名字不补零（新建流程1、新建流程2）；外部好友选人列表的岗位栏带上在岗人的名字；子公司、部门、岗位、名单四页各有自己的废纸篓，删掉的看得见、能恢复；外部好友可以定时发消息；流程进度带上每个节点的说明，跨机构也送；手机诊断报告不再把老版本正常退出当成崩溃。自带服务程序 1.1.43。",
- "releasedAt": "2026-11-13T20:29:56Z",
+ "notes": "这一版改了管理界面四处：设置 › 员工 › 人员，左栏的公司树里，建好以后一直没改过名字的子公司不再列出来（组织机构那一页照旧全列）；公司和「全部部门」后面的数字是 0 的时候整个不显示；权限这一页改成和「设置 › 员工 › 组织机构」同一套排法，左栏、中间的分段和搜索、右边的详情框都是同一套；连接与域名里「连接测试」那一栏，「已连接」改成绿底白字的标签，「暂时没有」不再加底色。自带服务程序 1.1.43，和上一版同一个，没有改动。",
+ "releasedAt": "2026-11-13T23:53:24Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r216/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r216/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r216/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r216/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r217/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r217/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r217/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r217/imconsole/"
  ]
 }
