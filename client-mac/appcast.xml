@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.336</title>
-      <pubDate>Sun, 15 Nov 2026 03:15:00 +0800</pubDate>
-      <sparkle:version>336</sparkle:version>
-      <sparkle:shortVersionString>1.1.336</sparkle:shortVersionString>
+      <title>版本 1.1.337</title>
+      <pubDate>Sun, 15 Nov 2026 07:53:00 +0800</pubDate>
+      <sparkle:version>337</sparkle:version>
+      <sparkle:shortVersionString>1.1.337</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.336：好友角色选人选单空修好、外部节点进度表机构栏写对方公司、新建流程角色没改名有提示、故障清单原因换行、收件箱 1440 宽列表不再被切</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r336/VBFlow-Direct-1.1.336-336.zip" length="55103996" type="application/octet-stream" sparkle:edSignature="GzbP/LkVPuDFRO+M2ualwOrfLU1pV3jGhUNYoicv3Dnh12qV4t/r2DxG/e/COHpO+kvJfp4bqPV4nAXnv9HUCw==" />
+      <description>1.1.337：合入四条审计修复：流程发件箱、组织角色好友、通知角标、升级恢复和删后重装钥匙串</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r337/VBFlow-Direct-1.1.337-337.zip" length="55158392" type="application/octet-stream" sparkle:edSignature="522M7Ekaxde+QEhKdoftlYkn5iWMAzLAEZkZvvchEbX67Gf7APo8Jw/4MfS6YLDWssM2qstUm/HAC6HmJhTBDg==" />
     </item>
   </channel>
 </rss>
