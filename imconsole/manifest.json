@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.87",
- "build": 219,
+ "version": "1.1.88",
+ "build": 220,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47188378,
- "sha256": "bb887a543bba135f39bbdf9d1e801194e5ed4a084a3439b1e5c0c4c928669004",
+ "size": 47190422,
+ "sha256": "9a1b017cab1c179c421e93dec918386a68dc552ded99d05810198707381d6dfc",
  "parts": [
   {
-   "url": "r219/part-aa",
+   "url": "r220/part-aa",
    "size": 19922944,
-   "sha256": "4006b0473b2766e09c063976f545baed9cccc6838f7c5e638dff87336879f12d"
+   "sha256": "74f1e4686ba1975d08cae0e353f37dc04982964625cb74b8ee94038757fbd11b"
   },
   {
-   "url": "r219/part-ab",
+   "url": "r220/part-ab",
    "size": 19922944,
-   "sha256": "1ba7c26ceb91a9af286434968fd77303ed13371cae117e1407c4f40561ed1249"
+   "sha256": "3f9be9a9fb1ad79012ce4582a0fba1f003cf94b22ffdc9d469a27ea2164fa222"
   },
   {
-   "url": "r219/part-ac",
-   "size": 7342490,
-   "sha256": "491841ecc793831f6608789b82ebd34b23d9c8f8cffcb9b9638179a957c5e9a6"
+   "url": "r220/part-ac",
+   "size": 7344534,
+   "sha256": "a1bc533eba610272a14b3e2ea6069908386dbeb4f80a87aa2a4461ddfbb05a6e"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r219/VBFlowConsole-1.1.87.zip",
- "serverVersion": "1.1.45",
- "serverSHA256": "afcf969e61fd0a460c569834dc95c955b0fa8f3f7ef555e179ba6a95439e1a2a",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r220/VBFlowConsole-1.1.88.zip",
+ "serverVersion": "1.1.46",
+ "serverSHA256": "99f24b7b1cc244b2b5ce54d48bc4cb90b4fb3cf096105754e45c0b5fe74aa788",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版改好了和别的公司之间的外部流程：外部节点跟着发起方的最新进度走，一张单子只显示一条，待办和已办合在一起；取消时对方收到提醒并带上原因；被退回后再交回写成「再交回」；自己传的附件不再列两遍，同内容不同名字的附件不再被藏掉；同一个最终结果不再重复通知。另外修好了个别服务器每分钟崩一次的问题（问题转报的深层诊断）。已知局限：升级前已经结束或取消的老单子不会自动补齐；升级前已经记错的「再交回」不回头改；外部流程单的「关联消息」暂时是空的；数据库缺外部流程收件表时升级不报错（正常安装的不受影响）。自带服务程序 1.1.45。",
- "releasedAt": "2026-11-15T12:47:48Z",
+ "notes": "这一版改好了四种权限角色里的几处问题：外部好友角色的岗位条件没写公司时，不再把邀请发到别家同名岗位，老条件一个人都不匹配并在详情里提示补公司（老客户端照常能保存）；好友角色授权可以选总公司，自动展开到全部在用子公司的岗位；流程角色、权限角色、岗位范围角色没到开始日之前不生效。另含 1.1.87 的外部流程整改。自带服务程序 1.1.46。",
+ "releasedAt": "2026-11-15T14:30:24Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r219/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r219/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r219/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r220/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r220/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r220/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r220/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r220/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r220/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r220/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r220/imconsole/"
  ]
 }
