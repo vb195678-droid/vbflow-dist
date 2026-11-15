@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.86",
- "build": 218,
+ "version": "1.1.87",
+ "build": 219,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47169199,
- "sha256": "6859534b878435371750d7df404878a31fcc861fcb066726f2eae37062155826",
+ "size": 47188378,
+ "sha256": "bb887a543bba135f39bbdf9d1e801194e5ed4a084a3439b1e5c0c4c928669004",
  "parts": [
   {
-   "url": "r218/part-aa",
+   "url": "r219/part-aa",
    "size": 19922944,
-   "sha256": "9b6016e6f178e3cdf816a74243f57e694c64474c8785c5176c55e6ec04a4ea22"
+   "sha256": "4006b0473b2766e09c063976f545baed9cccc6838f7c5e638dff87336879f12d"
   },
   {
-   "url": "r218/part-ab",
+   "url": "r219/part-ab",
    "size": 19922944,
-   "sha256": "8f921d505550083ae857833860958e89064acc929537f6edbcbcf3937c075a79"
+   "sha256": "1ba7c26ceb91a9af286434968fd77303ed13371cae117e1407c4f40561ed1249"
   },
   {
-   "url": "r218/part-ac",
-   "size": 7323311,
-   "sha256": "ad01801c592e9480c5e7f65f7bfb5dc246ebfe1818efd81f68321ef623722053"
+   "url": "r219/part-ac",
+   "size": 7342490,
+   "sha256": "491841ecc793831f6608789b82ebd34b23d9c8f8cffcb9b9638179a957c5e9a6"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r218/VBFlowConsole-1.1.86.zip",
- "serverVersion": "1.1.44",
- "serverSHA256": "27d0f663d9e85a734a4cfd1d2c6b94658444f0669c923be363e0579a94730e97",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r219/VBFlowConsole-1.1.87.zip",
+ "serverVersion": "1.1.45",
+ "serverSHA256": "afcf969e61fd0a460c569834dc95c955b0fa8f3f7ef555e179ba6a95439e1a2a",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版堵住了几处安全漏洞：一台服务器上有几家子公司时，一家子公司的管理员不能再查到别家子公司岗位的权限、删岗位前的检查结果、部门资料、发布前检查里别家的问题，也不能再改别家的工单状态；全公司流程统计和权限角色清单只列本子公司的。另外：外部好友的限流表和封禁名单不再只涨不降；备份停了看门狗会报出来；每天换备份版本半路失败不再弄丢当天那份好备份；换总控失败后的退回会检查成没成功。自带服务程序 1.1.44。",
- "releasedAt": "2026-11-14T21:07:37Z",
+ "notes": "这一版改好了和别的公司之间的外部流程：外部节点跟着发起方的最新进度走，一张单子只显示一条，待办和已办合在一起；取消时对方收到提醒并带上原因；被退回后再交回写成「再交回」；自己传的附件不再列两遍，同内容不同名字的附件不再被藏掉；同一个最终结果不再重复通知。另外修好了个别服务器每分钟崩一次的问题（问题转报的深层诊断）。已知局限：升级前已经结束或取消的老单子不会自动补齐；升级前已经记错的「再交回」不回头改；外部流程单的「关联消息」暂时是空的；数据库缺外部流程收件表时升级不报错（正常安装的不受影响）。自带服务程序 1.1.45。",
+ "releasedAt": "2026-11-15T12:47:48Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r218/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r218/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r218/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r218/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r219/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r219/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r219/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r219/imconsole/"
  ]
 }
