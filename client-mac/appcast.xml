@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.340</title>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 +0800</pubDate>
-      <sparkle:version>340</sparkle:version>
-      <sparkle:shortVersionString>1.1.340</sparkle:shortVersionString>
+      <title>版本 1.1.342</title>
+      <pubDate>Mon, 16 Nov 2026 19:52:00 +0800</pubDate>
+      <sparkle:version>342</sparkle:version>
+      <sparkle:shortVersionString>1.1.342</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.340：四种角色审计修复（外部好友角色岗位条件带公司、授权列总公司）；发起中心异常表名称栏定宽；外部单子关联提示；有图第022批、第040批字样</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r340/VBFlow-Direct-1.1.340-340.zip" length="55280848" type="application/octet-stream" sparkle:edSignature="BXOCZlfsyJ3dMGBKvBs/v6jgn4ZuGIarVXAdVipSolmdOHgwS32+vUPDoX+EfkfU+FoQcesbOm1R3LzELifjAQ==" />
+      <description>1.1.342：审计 M01～M23 修复：附件下载、流程发件箱与草稿、付款表单；服务器新错误键三语</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r342/VBFlow-Direct-1.1.342-342.zip" length="55365277" type="application/octet-stream" sparkle:edSignature="xas76842r5Hs4YTAKc5fNt6ALpDEuu3RTbZGDAdTFOrReEQgH9Qn6YR3K3WNoLNkHxL+WiRF6bwGnEa78GIoCw==" />
     </item>
   </channel>
 </rss>
