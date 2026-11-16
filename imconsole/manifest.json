@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.90",
- "build": 222,
+ "version": "1.1.91",
+ "build": 223,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47209764,
- "sha256": "cafea3b522ae1766c11489fda16e1a0bbf79bffb6f9c4bc80b6df1ed140d271b",
+ "size": 47224698,
+ "sha256": "7a460e1f530d56f8d36dc72155b884f6534910123de03b22adb3ad1433a20bab",
  "parts": [
   {
-   "url": "r222/part-aa",
+   "url": "r223/part-aa",
    "size": 19922944,
-   "sha256": "10d1fbc25d9cd4ef071d6cc234a30e643cb0c47d558a6f5ac6d700474a7fc907"
+   "sha256": "ea5106b04001d15710f1215ba19797d1f9deb652a06bbfd30ab312d9713c7f9e"
   },
   {
-   "url": "r222/part-ab",
+   "url": "r223/part-ab",
    "size": 19922944,
-   "sha256": "13fdf2c38d8c8fef6e424d7f6aa24dc974d11af365100b7c1d3f20d06b3a3861"
+   "sha256": "adf3610e52535f9f8b23f19451f72021d7c1cd847ed6d07725fe75b665772b54"
   },
   {
-   "url": "r222/part-ac",
-   "size": 7363876,
-   "sha256": "1a3eb80766971bd1b1e5a568316db106e763d57dd2eb5de6aacc7fa3d660b8ab"
+   "url": "r223/part-ac",
+   "size": 7378810,
+   "sha256": "2aa00aa5ac92db26b22517063df73e2f8362b6202274a4a4707cf78ac8b4c521"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r222/VBFlowConsole-1.1.90.zip",
- "serverVersion": "1.1.48",
- "serverSHA256": "c118304f8030fbeb5d946464874b0d9aa449a9a422e20a1ad96ef60688d180bf",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r223/VBFlowConsole-1.1.91.zip",
+ "serverVersion": "1.1.49",
+ "serverSHA256": "431f7c1a08cea5b82edca1d63a4a6614e3fd7b520637ead725f2edb24f851ecd",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版是审计意见的服务器整改：归档做到一半断电，重开后能恢复，不再丢或重复；外接存储换盘、拔盘时更稳，不会把附件写错地方；审批里的金额和日期校验更严，「1,25」「120元另加30」这类写法和 2023-02-29 这种不存在的日子会被拒；付款历史在同一时刻有多笔时，翻页不再漏掉或重复；导入名单时引号没闭合、或者表头有重复的列，整份拒收并提示原因，不再只导入一半；流程表单只改栏名重新发布时，办理路线不丢。名单里同时有手机和电话两列也能导入；备份偶尔跳过一次不再弹全屏的服务器出问题报警。另含 1.1.88 的权限角色整改。自带服务程序 1.1.48。",
- "releasedAt": "2026-11-16T09:27:08Z",
+ "notes": "这一版接着审计意见整改服务器：付款历史凑满一页就停、附件迁移遇到同名同大小但内容不同时保留暂存原件，这两处补了自动测试；表单填得不对被退回时，回包带上能翻译的提示，手机和电脑能显示成对应语言；日期栏分开提示「写法不对」和「没有这一天」，比如 2023-02-29 会提示没有这一天；权限概览多给出值班公司和好友角色，手机端配套显示；点升级时先确认身份的那一页改简洁了。自带服务程序 1.1.49。",
+ "releasedAt": "2026-11-16T13:58:24Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r222/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r222/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r222/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r222/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r222/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r222/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r222/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r222/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r223/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r223/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r223/imconsole/"
  ]
 }
