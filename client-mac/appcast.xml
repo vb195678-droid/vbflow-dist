@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.342</title>
-      <pubDate>Mon, 16 Nov 2026 19:52:00 +0800</pubDate>
-      <sparkle:version>342</sparkle:version>
-      <sparkle:shortVersionString>1.1.342</sparkle:shortVersionString>
+      <title>版本 1.1.344</title>
+      <pubDate>Tue, 17 Nov 2026 06:56:00 +0800</pubDate>
+      <sparkle:version>344</sparkle:version>
+      <sparkle:shortVersionString>1.1.344</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.342：审计 M01～M23 修复：附件下载、流程发件箱与草稿、付款表单；服务器新错误键三语</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r342/VBFlow-Direct-1.1.342-342.zip" length="55365277" type="application/octet-stream" sparkle:edSignature="xas76842r5Hs4YTAKc5fNt6ALpDEuu3RTbZGDAdTFOrReEQgH9Qn6YR3K3WNoLNkHxL+WiRF6bwGnEa78GIoCw==" />
+      <description>1.1.344：1.1.343 三处修复（多账号暂存、同名文件提示、发件箱旧草稿）+ 接服务器 1.1.91 三处接口</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r344/VBFlow-Direct-1.1.344-344.zip" length="55387204" type="application/octet-stream" sparkle:edSignature="KsTIvBEHQTL3wArX63lmAMvBkCPvGBVyH75bQNwv7nqtto2K5dvqAEceRZ/duxwRNkqpbufEwxin7TIKhSWwBg==" />
     </item>
   </channel>
 </rss>
