@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.346</title>
-      <pubDate>Wed, 18 Nov 2026 04:48:00 +0800</pubDate>
-      <sparkle:version>346</sparkle:version>
-      <sparkle:shortVersionString>1.1.346</sparkle:shortVersionString>
+      <title>版本 1.1.347</title>
+      <pubDate>Wed, 18 Nov 2026 06:29:00 +0800</pubDate>
+      <sparkle:version>347</sparkle:version>
+      <sparkle:shortVersionString>1.1.347</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.346：好友与群邀请「我发出的申请」列出岗位名义发出的外部好友申请；内部好友角色「选子公司」不再列总公司；好友条件被拒时显示服务器原话</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r346/VBFlow-Direct-1.1.346-346.zip" length="55394767" type="application/octet-stream" sparkle:edSignature="dAsC9Xdu6obJMD1m0X37M+OIlla+Pu/uXsV8avUNPaThXq/cQnjmUGneNJKsCML8g93RCfuQU55sRpdIPfRPAg==" />
+      <description>1.1.347：流程进度：决定人取消写「取消前在」，取消、停下、跳过三种图标同色靠形状区分，路线放不下换行，总数跟筛选走；发起页流程没改名时照实说明；外部单流程会话在关联消息页直接打开；角色授权行用服务器显示名、整类授权一行；外部好友恢复前先确认；好友管理页看添加好友权限；内部好友申请显示验证消息；无外部联系人权限有提示；「我发出的申请」只数待回复</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r347/VBFlow-Direct-1.1.347-347.zip" length="55445941" type="application/octet-stream" sparkle:edSignature="lKGoDVdW479q2XL8yqQalir2FzNad89dax97E8beBQsL4uwegqpV5WpHaaU6l+AzBVVMwoF4DfI6W7uj2OQbBg==" />
     </item>
   </channel>
 </rss>
