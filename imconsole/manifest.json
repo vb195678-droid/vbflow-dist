@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.92",
- "build": 224,
+ "version": "1.1.93",
+ "build": 225,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47253724,
- "sha256": "69d6f6f7ebf9d3631762b7d863ac194c81fc538b1d73dcc466ecf4261fb4f311",
+ "size": 47310125,
+ "sha256": "74edaa26f8f6012798e0a05e0a6cc013af2f1d410caa9661ae52e5548a25aec3",
  "parts": [
   {
-   "url": "r224/part-aa",
+   "url": "r225/part-aa",
    "size": 19922944,
-   "sha256": "97804aee97876b73fc002048ce4a6d849fc940ec82e21da2b68a8834a8eabb21"
+   "sha256": "099a0efb877b509fa16132dc86dea2e373f1ba3f36f7c88e4a5c776ad1c8ce78"
   },
   {
-   "url": "r224/part-ab",
+   "url": "r225/part-ab",
    "size": 19922944,
-   "sha256": "3b8843066c661f62b72695685e4322f5240666fd719c137d27d6f3d106f903fe"
+   "sha256": "6cd6c279545e4c2b26dd7d0a6ae1a52c172eb06994d5335d34142c42b9c899e6"
   },
   {
-   "url": "r224/part-ac",
-   "size": 7407836,
-   "sha256": "597f6779e02e8a184114c656053a533c2077d04868d9961460d04fc1f9266bed"
+   "url": "r225/part-ac",
+   "size": 7464237,
+   "sha256": "16cef447e425d23a0e7cca25cd3f3cae0692adaca902e847aedb5a8157221630"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r224/VBFlowConsole-1.1.92.zip",
- "serverVersion": "1.1.50",
- "serverSHA256": "1c0ae5adc279e8cc664aabdfa54eeb38c4a9f448a966287929c69402c109b335",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r225/VBFlowConsole-1.1.93.zip",
+ "serverVersion": "1.1.51",
+ "serverSHA256": "df29bd05d7b5671e6cb75dbaf04222957a700f90aa7284f5c76d5a970a2f8f03",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版两处改动：升级时如果正好在备份，升级页和升级框会显示备份进度条、已备份多少和总大小、预计还要多久、从哪里备份到哪里，备份完自动恢复可以升级；好友角色授给总公司时，角色详情里的覆盖人数按全部在用的子公司算，不再显示 0。自带服务程序 1.1.50。",
- "releasedAt": "2026-11-17T00:05:04Z",
+ "notes": "这一版改了流程和角色几处：跨机构流程里，外部单位那一方的节点也能打开流程消息群、看关联消息、发消息；决定人取消那一步，进度里会写明办理结果，外部那一份写「未执行」；外部节点的部门路径不再把公司名重复写两遍；好友角色授给总公司时，角色详情的覆盖人数按全部在用的子公司算，名字写「（全部子公司）」，和单个子公司分开。自带服务程序 1.1.51。",
+ "releasedAt": "2026-11-17T16:16:45Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r224/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r224/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r224/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r225/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r225/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r225/imconsole/"
  ]
 }
