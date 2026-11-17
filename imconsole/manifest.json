@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.93",
- "build": 225,
+ "version": "1.1.94",
+ "build": 226,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47310125,
- "sha256": "74edaa26f8f6012798e0a05e0a6cc013af2f1d410caa9661ae52e5548a25aec3",
+ "size": 47338909,
+ "sha256": "6c40608be0cff29cd2a7c00142dac99f47f547a9c758e02d2ec1739ae5f9b17c",
  "parts": [
   {
-   "url": "r225/part-aa",
+   "url": "r226/part-aa",
    "size": 19922944,
-   "sha256": "099a0efb877b509fa16132dc86dea2e373f1ba3f36f7c88e4a5c776ad1c8ce78"
+   "sha256": "485664be85d8ebeb16ef06aec749222c94eb58434b56d2d4b9ace4c0115b0b0f"
   },
   {
-   "url": "r225/part-ab",
+   "url": "r226/part-ab",
    "size": 19922944,
-   "sha256": "6cd6c279545e4c2b26dd7d0a6ae1a52c172eb06994d5335d34142c42b9c899e6"
+   "sha256": "0cdeaa4ccd2c571e108a99e99214929bf980669df698612a551981164b4fbaeb"
   },
   {
-   "url": "r225/part-ac",
-   "size": 7464237,
-   "sha256": "16cef447e425d23a0e7cca25cd3f3cae0692adaca902e847aedb5a8157221630"
+   "url": "r226/part-ac",
+   "size": 7493021,
+   "sha256": "63a25224ccad126566849459749195db743f395d6beb4c328e3b0e9bb4fff398"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r225/VBFlowConsole-1.1.93.zip",
- "serverVersion": "1.1.51",
- "serverSHA256": "df29bd05d7b5671e6cb75dbaf04222957a700f90aa7284f5c76d5a970a2f8f03",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r226/VBFlowConsole-1.1.94.zip",
+ "serverVersion": "1.1.52",
+ "serverSHA256": "9eb14291f6240a677874b8ee0d11060a710e3cf01e3ae47f1a079734f4f0a3f0",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版改了流程和角色几处：跨机构流程里，外部单位那一方的节点也能打开流程消息群、看关联消息、发消息；决定人取消那一步，进度里会写明办理结果，外部那一份写「未执行」；外部节点的部门路径不再把公司名重复写两遍；好友角色授给总公司时，角色详情的覆盖人数按全部在用的子公司算，名字写「（全部子公司）」，和单个子公司分开。自带服务程序 1.1.51。",
- "releasedAt": "2026-11-17T16:16:45Z",
+ "notes": "这一版改了流程、角色和备份提醒几处：跨机构流程里，外部单位那一方看流程消息群，每条都带发言人名字，「收到」写明流转给了谁，图片和附件能打开，新消息马上推过来，有未读已读；外部节点能看整条流程的完整进度；外部好友角色岗位空着时先不发邀请，有人到岗再补发；批量好友申请不再挡住流程消息；内部好友角色的加好友条件可以选总公司；带公司范围的权限角色在人员名单、待审核、离职等处也按公司生效。控制面板：备份出状况时报警标题写「备份出问题了」，提醒写明哪一处、为什么、怎么办；移动硬盘休眠时等它醒来，不再当成没反应跳过。名字还是「新建流程N」这类默认名的流程，从这一版起不能发布，已发布的也不再出现在员工发起列表里，请先改名。自带服务程序 1.1.52。",
+ "releasedAt": "2026-11-17T21:28:50Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r225/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r225/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r225/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r225/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r226/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r226/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r226/imconsole/"
  ]
 }
