@@ -1,21 +1,21 @@
 {
   "id": "client-mac",
-  "version": "1.1.344",
-  "build": 344,
-  "date": "2026-11-17T06:56:00+08:00",
-  "size": 60691898,
-  "sha256": "46e03c28a5c08a15812fa58f0d7f6487f5579250d1d6e385cc8beb0d213ce30f",
-  "fileName": "VBFlow-Direct-1.1.344-344.dmg",
+  "version": "1.1.345",
+  "build": 345,
+  "date": "2026-11-18T01:13:00+08:00",
+  "size": 60697595,
+  "sha256": "57b830da0a5053e5d7f52590fe8fe68d34ca51b9b82cd7e83981dec76e1a70a7",
+  "fileName": "VBFlow-Direct-1.1.345-345.dmg",
   "urls": {
-    "github": "https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r344/VBFlow-Direct-1.1.344-344.dmg"
+    "github": "https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r345/VBFlow-Direct-1.1.345-345.dmg"
   },
-  "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r344/VBFlow-Direct-1.1.344-344.dmg",
+  "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r345/VBFlow-Direct-1.1.345-345.dmg",
   "minOS": "26.0",
   "appcast": "client-mac/appcast.xml",
   "zip": {
-    "fileName": "VBFlow-Direct-1.1.344-344.zip",
-    "size": 55387204,
-    "sha256": "a9da2bf8e95d821f4e8680fdb1adf73f74edea9a9d8c7bc251b2d86280955aff",
-    "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r344/VBFlow-Direct-1.1.344-344.zip"
+    "fileName": "VBFlow-Direct-1.1.345-345.zip",
+    "size": 55391342,
+    "sha256": "c1143c3b58b7950a3499280474151c0b948cd7c629a2186050d9cdbb799a2bb8",
+    "url": "https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r345/VBFlow-Direct-1.1.345-345.zip"
   }
 }
