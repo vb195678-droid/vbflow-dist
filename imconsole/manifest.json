@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.91",
- "build": 223,
+ "version": "1.1.92",
+ "build": 224,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47224698,
- "sha256": "7a460e1f530d56f8d36dc72155b884f6534910123de03b22adb3ad1433a20bab",
+ "size": 47253724,
+ "sha256": "69d6f6f7ebf9d3631762b7d863ac194c81fc538b1d73dcc466ecf4261fb4f311",
  "parts": [
   {
-   "url": "r223/part-aa",
+   "url": "r224/part-aa",
    "size": 19922944,
-   "sha256": "ea5106b04001d15710f1215ba19797d1f9deb652a06bbfd30ab312d9713c7f9e"
+   "sha256": "97804aee97876b73fc002048ce4a6d849fc940ec82e21da2b68a8834a8eabb21"
   },
   {
-   "url": "r223/part-ab",
+   "url": "r224/part-ab",
    "size": 19922944,
-   "sha256": "adf3610e52535f9f8b23f19451f72021d7c1cd847ed6d07725fe75b665772b54"
+   "sha256": "3b8843066c661f62b72695685e4322f5240666fd719c137d27d6f3d106f903fe"
   },
   {
-   "url": "r223/part-ac",
-   "size": 7378810,
-   "sha256": "2aa00aa5ac92db26b22517063df73e2f8362b6202274a4a4707cf78ac8b4c521"
+   "url": "r224/part-ac",
+   "size": 7407836,
+   "sha256": "597f6779e02e8a184114c656053a533c2077d04868d9961460d04fc1f9266bed"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r223/VBFlowConsole-1.1.91.zip",
- "serverVersion": "1.1.49",
- "serverSHA256": "431f7c1a08cea5b82edca1d63a4a6614e3fd7b520637ead725f2edb24f851ecd",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r224/VBFlowConsole-1.1.92.zip",
+ "serverVersion": "1.1.50",
+ "serverSHA256": "1c0ae5adc279e8cc664aabdfa54eeb38c4a9f448a966287929c69402c109b335",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版接着审计意见整改服务器：付款历史凑满一页就停、附件迁移遇到同名同大小但内容不同时保留暂存原件，这两处补了自动测试；表单填得不对被退回时，回包带上能翻译的提示，手机和电脑能显示成对应语言；日期栏分开提示「写法不对」和「没有这一天」，比如 2023-02-29 会提示没有这一天；权限概览多给出值班公司和好友角色，手机端配套显示；点升级时先确认身份的那一页改简洁了。自带服务程序 1.1.49。",
- "releasedAt": "2026-11-16T13:58:24Z",
+ "notes": "这一版两处改动：升级时如果正好在备份，升级页和升级框会显示备份进度条、已备份多少和总大小、预计还要多久、从哪里备份到哪里，备份完自动恢复可以升级；好友角色授给总公司时，角色详情里的覆盖人数按全部在用的子公司算，不再显示 0。自带服务程序 1.1.50。",
+ "releasedAt": "2026-11-17T00:05:04Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r223/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r223/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r223/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r223/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r224/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r224/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r224/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r224/imconsole/"
  ]
 }
