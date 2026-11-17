@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.345</title>
-      <pubDate>Wed, 18 Nov 2026 01:13:00 +0800</pubDate>
-      <sparkle:version>345</sparkle:version>
-      <sparkle:shortVersionString>1.1.345</sparkle:shortVersionString>
+      <title>版本 1.1.346</title>
+      <pubDate>Wed, 18 Nov 2026 04:48:00 +0800</pubDate>
+      <sparkle:version>346</sparkle:version>
+      <sparkle:shortVersionString>1.1.346</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.345：决定人取消的那一步在流程进度路线上显示「已取消」；外部好友名片「屏蔽」按钮改看添加好友角色权限</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r345/VBFlow-Direct-1.1.345-345.zip" length="55391342" type="application/octet-stream" sparkle:edSignature="ptDkfP6vmFG5++hn/VlstE+ki/suDxMIgCtOhYEctaEBo7Cf1PH38QrJYc8uU9obJYpRSjQb62j1bhXH6vdgAw==" />
+      <description>1.1.346：好友与群邀请「我发出的申请」列出岗位名义发出的外部好友申请；内部好友角色「选子公司」不再列总公司；好友条件被拒时显示服务器原话</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r346/VBFlow-Direct-1.1.346-346.zip" length="55394767" type="application/octet-stream" sparkle:edSignature="dAsC9Xdu6obJMD1m0X37M+OIlla+Pu/uXsV8avUNPaThXq/cQnjmUGneNJKsCML8g93RCfuQU55sRpdIPfRPAg==" />
     </item>
   </channel>
 </rss>
