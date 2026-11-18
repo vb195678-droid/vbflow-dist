@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.94",
- "build": 226,
+ "version": "1.1.95",
+ "build": 227,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47338909,
- "sha256": "6c40608be0cff29cd2a7c00142dac99f47f547a9c758e02d2ec1739ae5f9b17c",
+ "size": 47384202,
+ "sha256": "25c4111d4141bb3c0a13d2d7329b825bfb1acaadd63248701aa2f5625f077df9",
  "parts": [
   {
-   "url": "r226/part-aa",
+   "url": "r227/part-aa",
    "size": 19922944,
-   "sha256": "485664be85d8ebeb16ef06aec749222c94eb58434b56d2d4b9ace4c0115b0b0f"
+   "sha256": "4bd1d5ec1c764368eea72d82b80315406f317658ccaa5ed9edc5e61ca771dd7e"
   },
   {
-   "url": "r226/part-ab",
+   "url": "r227/part-ab",
    "size": 19922944,
-   "sha256": "0cdeaa4ccd2c571e108a99e99214929bf980669df698612a551981164b4fbaeb"
+   "sha256": "b1228aa72125703041b7dfca81bf476894e205d275421a0dc52ba679a5d318e0"
   },
   {
-   "url": "r226/part-ac",
-   "size": 7493021,
-   "sha256": "63a25224ccad126566849459749195db743f395d6beb4c328e3b0e9bb4fff398"
+   "url": "r227/part-ac",
+   "size": 7538314,
+   "sha256": "3badb02d0270c223a34a897383e1bae5ee7c366d3f41c3f1ac24397e4ff691f6"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r226/VBFlowConsole-1.1.94.zip",
- "serverVersion": "1.1.52",
- "serverSHA256": "9eb14291f6240a677874b8ee0d11060a710e3cf01e3ae47f1a079734f4f0a3f0",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r227/VBFlowConsole-1.1.95.zip",
+ "serverVersion": "1.1.53",
+ "serverSHA256": "5d4d6ced62257cf61ecba96b95b45991430c7782713fdadddcde35d5693abda6",
  "teamID": "NJ44RP2ZZ8",
- "notes": "这一版改了流程、角色和备份提醒几处：跨机构流程里，外部单位那一方看流程消息群，每条都带发言人名字，「收到」写明流转给了谁，图片和附件能打开，新消息马上推过来，有未读已读；外部节点能看整条流程的完整进度；外部好友角色岗位空着时先不发邀请，有人到岗再补发；批量好友申请不再挡住流程消息；内部好友角色的加好友条件可以选总公司；带公司范围的权限角色在人员名单、待审核、离职等处也按公司生效。控制面板：备份出状况时报警标题写「备份出问题了」，提醒写明哪一处、为什么、怎么办；移动硬盘休眠时等它醒来，不再当成没反应跳过。名字还是「新建流程N」这类默认名的流程，从这一版起不能发布，已发布的也不再出现在员工发起列表里，请先改名。自带服务程序 1.1.52。",
- "releasedAt": "2026-11-17T21:28:50Z",
+ "notes": "这一版改了权限、外部好友和跨机构流程几处：权限角色里选了具体公司的那一行，在员工名单（新增、导入、修改、删除）、人员、组织树、岗位字典、条码、分配冲突、废纸篓、外部好友管理、外部企业管理里都按那家公司生效（能力标记 org.dutyCompany）；外部好友解除、屏蔽、恢复：解除和屏蔽后，会话和好友资料上直接写明为什么不能发消息、打电话；解除前先查还有几件在办的事；能不能恢复按看的人算，好友列表里也列出恢复中的人；流程里外部那一步出故障时写明哪一步、哪家公司、哪个岗位、什么原因（能力标记 ext.sendBlockedText、ext.disconnectCheck、ext.canRestore、ext.restorePendingListed、ext.flowFaultDetail）；外部好友角色撤权后，还排着没送出去的好友申请一并作废，已送出的发撤回；服务器之间投递按道各送各的，批量好友申请不再挡住流程和消息；升级后会把在办的外部单完整进度重推一次给对方；外部节点看完整进度时，第三家公司还没走到的步骤不再显示对接人和公司名；外部单流程消息群补推漏掉的几句，对方连不上时标已读也不报错。不建议退回 1.1.94；退回后外部单进度要多流转一两步才更新。自带服务程序 1.1.53。",
+ "releasedAt": "2026-11-18T01:33:30Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r226/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r226/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r226/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r226/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r227/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r227/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r227/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r227/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r227/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r227/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r227/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r227/imconsole/"
  ]
 }
