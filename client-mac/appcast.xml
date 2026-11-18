@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.348</title>
-      <pubDate>Wed, 18 Nov 2026 15:23:00 +0800</pubDate>
-      <sparkle:version>348</sparkle:version>
-      <sparkle:shortVersionString>1.1.348</sparkle:shortVersionString>
+      <title>版本 1.1.349</title>
+      <pubDate>Wed, 18 Nov 2026 19:42:00 +0800</pubDate>
+      <sparkle:version>349</sparkle:version>
+      <sparkle:shortVersionString>1.1.349</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.348：急修：外部流程送到电脑后收件箱可能不刷新的缺口；画流程选外部联系人时空名单和没权限写明原因</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r348/VBFlow-Direct-1.1.348-348.zip" length="55451635" type="application/octet-stream" sparkle:edSignature="QMcXmrZy/7mi0Qfhmup+9v4qFnmeYpAi2d2/SP4opiO4iD/0oTGlZGZzqa5MjIcuwHW3m2bceROM1T+xOBYxDg==" />
+      <description>1.1.349：补救包：软件更新页一个版本一个按钮一条路；聊天两栏锁宽；收件箱待办被筛选隐藏时给提示和清除筛选；商店提醒等 M5 装上才换</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r349/VBFlow-Direct-1.1.349-349.zip" length="55461063" type="application/octet-stream" sparkle:edSignature="uL5PuUm2LOj6lGRTUyhlDX96af3s9eJ2vKQ/Xc8W4LyDzQHH5+PjDpIJXwDvY4e/m0Gn1tMQw476A75RcSp6CQ==" />
     </item>
   </channel>
 </rss>
