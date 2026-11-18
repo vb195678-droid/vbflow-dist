@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.350</title>
-      <pubDate>Wed, 18 Nov 2026 23:27:00 +0800</pubDate>
-      <sparkle:version>350</sparkle:version>
-      <sparkle:shortVersionString>1.1.350</sparkle:shortVersionString>
+      <title>版本 1.1.351</title>
+      <pubDate>Thu, 19 Nov 2026 05:35:00 +0800</pubDate>
+      <sparkle:version>351</sparkle:version>
+      <sparkle:shortVersionString>1.1.351</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.350：急修：画流程选外部的人——外部三类、客户供应商带国家城市、断开停用灰着、读取中和空名单提示</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r350/VBFlow-Direct-1.1.350-350.zip" length="55490772" type="application/octet-stream" sparkle:edSignature="MSFdAMuMvAadqyrtL2xFzRX7gom0Rse4pbk+o3TKEyeU+g6hXF+pOwYIMdRmiudY3FZNTLAqVo/f1a4rxU2CCQ==" />
+      <description>1.1.351：急修：新版本只出一处提醒、升级只有一条路；聊天一栏下点联系人变两栏；多账号切回一栏</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r351/VBFlow-Direct-1.1.351-351.zip" length="55419273" type="application/octet-stream" sparkle:edSignature="Yh/22z3RS/WAVgiRckg7HPXsKm81dFzRpkymnccFEwsIcZGe5Ga1ANn1jzmelNTXa3L/DhLwmKb7bYjBbJhkAw==" />
     </item>
   </channel>
 </rss>
