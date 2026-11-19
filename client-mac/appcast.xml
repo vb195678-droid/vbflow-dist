@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.360</title>
-      <pubDate>Fri, 20 Nov 2026 03:20:00 +0800</pubDate>
-      <sparkle:version>360</sparkle:version>
-      <sparkle:shortVersionString>1.1.360</sparkle:shortVersionString>
+      <title>版本 1.1.361</title>
+      <pubDate>Fri, 20 Nov 2026 05:26:00 +0800</pubDate>
+      <sparkle:version>361</sparkle:version>
+      <sparkle:shortVersionString>1.1.361</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.360：修复 1.1.359：「异常」页签的流程列表补齐服务器故障清单里没解决的流程，和收件箱「流程异常 N 条」、红色数字同一份（1.1.359 发后狂测：提示说有异常、点进去却是空的）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r360/VBFlow-Direct-1.1.360-360.zip" length="55757274" type="application/octet-stream" sparkle:edSignature="hncS1GAqAJN7VF2XOiK1PI+14jMOD1Hrzjvaogw+uEalkKmjy5KfP+XayHhpEfHPUbNgc5s5jjOJSddwDNnXAg==" />
+      <description>1.1.361：修复包：「异常」页签里从故障清单补出的行改为只读，只给「去处理」，不再被当成编辑中而绕开「正在用的要先停用才能删」</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r361/VBFlow-Direct-1.1.361-361.zip" length="55764460" type="application/octet-stream" sparkle:edSignature="63NniXNlovzoqmrMJR7GVcrgqZlmeeX1+emQWuR5kIUv6snDAdDQVTe0MxMoVThIvHuZIN+urqX2Ouzn88HADQ==" />
     </item>
   </channel>
 </rss>
