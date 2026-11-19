@@ -4,13 +4,15 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.357</title>
-      <pubDate>Thu, 19 Nov 2026 21:03:00 +0800</pubDate>
-      <sparkle:version>357</sparkle:version>
-      <sparkle:shortVersionString>1.1.357</sparkle:shortVersionString>
+      <title>版本 1.1.358</title>
+      <pubDate>Thu, 19 Nov 2026 23:35:00 +0800</pubDate>
+      <sparkle:version>358</sparkle:version>
+      <sparkle:shortVersionString>1.1.358</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.357：设置顶上那一排分成两组：启动台、组织架构、流程、角色，选中后再选具体那一页；角色类归进角色</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r357/VBFlow-Direct-1.1.357-357.zip" length="55709338" type="application/octet-stream" sparkle:edSignature="GScBpiLp41mvZEGYORC3hIuMw0vAAxpfG8UcW8c1llH9osIWIMlQPKcmh2ddn3jLG3STDR4b7k88xZ2oj5N4Aw==" />
+      <description>1.1.358：设置顶上那一排在窄窗口下第二组不再被压住，第一组四格位置固定；一栏下点已选中的会话不再误清未读；画流程选外部岗位连点两家不再串；定时发送菜单改为 9 档（5分钟到7天）；普通员工的启动台多一张「权限检查」；设备页说明改短。
+設定頂上那一排在窄視窗下第二組不再被壓住，第一組四格位置固定；一欄下點已選中的會話不再誤清未讀；畫流程選外部崗位連點兩家不再串；定時發送選單改為 9 檔（5 分鐘到 7 天）；普通員工的啟動台多一張「權限檢查」；設備頁說明改短。
+Settings top row: in a narrow window the second group is no longer covered and the first group stays put. Clicking an already-selected chat in one-column mode no longer clears its unread. Flow editor: clicking two external roles in a row no longer mixes them up. Scheduled-send menu now has 9 options (5 min to 7 days). Regular staff get a “Permission Check” card on Launchpad. Shorter note on the Devices page.</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r358/VBFlow-Direct-1.1.358-358.zip" length="55755642" type="application/octet-stream" sparkle:edSignature="VIxH7yen5sYyPrhbepioF/rfmtR4uV3ZSGDqPdN34w/UuUqmjrz96MLWsfzqcOrwi3RTYt64PP31MeoaFkNfBw==" />
     </item>
   </channel>
 </rss>
