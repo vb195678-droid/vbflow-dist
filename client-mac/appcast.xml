@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.353</title>
-      <pubDate>Thu, 19 Nov 2026 16:31:00 +0800</pubDate>
-      <sparkle:version>353</sparkle:version>
-      <sparkle:shortVersionString>1.1.353</sparkle:shortVersionString>
+      <title>版本 1.1.355</title>
+      <pubDate>Thu, 19 Nov 2026 17:43:00 +0800</pubDate>
+      <sparkle:version>355</sparkle:version>
+      <sparkle:shortVersionString>1.1.355</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.353：修复：切换账号时偶尔闪退（页面里的分栏收放不再走系统动画）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r353/VBFlow-Direct-1.1.353-353.zip" length="55541954" type="application/octet-stream" sparkle:edSignature="FhC2s3iE0vVXA1ggtti3na0m3/LFw+GcZXxdRHcMtu42rGMp3Lf12gPuOIAvDcScB9X4Ux4t7eDfymFQgEkNDA==" />
+      <description>1.1.355：画流程选外部的人：名单拿不到时说清原因和下一步；收件箱每次停在我处理的；画流程只打开不动不再自动提交</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r355/VBFlow-Direct-1.1.355-355.zip" length="55557343" type="application/octet-stream" sparkle:edSignature="PaFnY8daQUoleGiN2k+4vSY1IY/kPKDF0x7ONbgxAFylcbThRWWPD8opILcEkrQbTuj+rrqGZf7QJQl28XiDBQ==" />
     </item>
   </channel>
 </rss>
