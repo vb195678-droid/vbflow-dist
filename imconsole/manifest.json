@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.100",
- "build": 232,
+ "version": "1.1.102",
+ "build": 234,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47490425,
- "sha256": "b638f9187653f9b659f5dc88911261edce4002ca51c8ff50c529bd7361a90970",
+ "size": 47521501,
+ "sha256": "617f2ac7bc1dd4978fa8f20b87205dc4a8262744d4fd2417e3a67d7d6741b030",
  "parts": [
   {
-   "url": "r232/part-aa",
+   "url": "r234/part-aa",
    "size": 19922944,
-   "sha256": "2902ea6396427796108974dca7aed757561abfa470ba2395eab5db0bf29c58c3"
+   "sha256": "0f232637e11be0ae10c27b952c203ee876a3c2781d8774145b9905c0a536fc80"
   },
   {
-   "url": "r232/part-ab",
+   "url": "r234/part-ab",
    "size": 19922944,
-   "sha256": "8ec9f9bf42579ae19c9aa9ab8072fa590d9a204c68e475dbf339cc8b7f54ea72"
+   "sha256": "55d1222c932d5cf3a94e6e4973a9eaac64fd795e8fc273200e6177ab0a3cddd7"
   },
   {
-   "url": "r232/part-ac",
-   "size": 7644537,
-   "sha256": "d5e200ab0f3451aa27d435fbdc5289f1dcdb6b5a23de5a1b042bc2b69ea835c3"
+   "url": "r234/part-ac",
+   "size": 7675613,
+   "sha256": "439ed4d0413c7f32fc8f22639136b088bf3a1228d9755e992a7259a9899ec838"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r232/VBFlowConsole-1.1.100.zip",
- "serverVersion": "1.1.57",
- "serverSHA256": "09e6158107264b5b08a1989392973a36fc8f22ab8b78bb2bb55a01cf1aa78c0b",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r234/VBFlowConsole-1.1.102.zip",
+ "serverVersion": "1.1.58",
+ "serverSHA256": "7c72eef52785ec40f96c4dd0fa456939e952aa76e2be421cba5d3b9e30217bb0",
  "teamID": "NJ44RP2ZZ8",
- "notes": "修好了点「升级」以后一直转圈、卡住不动的问题。现在点了「升级」马上有反应；还没开始换程序的时候可以点「取消」；哪一步 5 分钟没有进展，或者整轮超过 30 分钟，会自动停下来，写明卡在哪一步、数据没有动，可以点「返回」或「再试一次」。正在换程序的那一步不会被打断，做完才停。逐个升级、没升成自动换回旧版本的做法不变。自带服务程序 1.1.57。",
- "releasedAt": "2026-11-19T08:47:01Z",
+ "notes": "控制面板 1.1.102：身份变更记录（换岗、撤销等）并到一处，1 秒一对一配对回填，失败看得见、启动后自动重跑；最后一个管理员（含超级管理员）不能撤，按人设、按岗位设两条路用同一处判断；控制面板设管理员和电脑端走同一条规则；控制面板里一级叫「组织架构」、五段第一段叫「机构」；画流程选外部审批人时，外部公司改成同时取、每家最多等 3 秒，对方关机不再拖成十几秒超时。自带服务程序 1.1.58。",
+ "releasedAt": "2026-11-19T15:35:59Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r232/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r232/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r232/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r234/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r234/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r234/imconsole/"
  ]
 }
