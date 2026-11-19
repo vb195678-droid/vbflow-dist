@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.356</title>
-      <pubDate>Thu, 19 Nov 2026 19:59:00 +0800</pubDate>
-      <sparkle:version>356</sparkle:version>
-      <sparkle:shortVersionString>1.1.356</sparkle:shortVersionString>
+      <title>版本 1.1.357</title>
+      <pubDate>Thu, 19 Nov 2026 21:03:00 +0800</pubDate>
+      <sparkle:version>357</sparkle:version>
+      <sparkle:shortVersionString>1.1.357</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.356：新增「这台电脑的权限」：设置 › 启动台 › 开始使用 里看本地网络、通知等权限开关，关着的一点直接去系统设置</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r356/VBFlow-Direct-1.1.356-356.zip" length="55683959" type="application/octet-stream" sparkle:edSignature="F4pcEHWzLm30inDm8uKBGUDT4+gZEu6FTzKnRBLML8LDY/jIDwP+Fc5bq7XslYbYCUeBEyqy9QNWEOsLK++9Dw==" />
+      <description>1.1.357：设置顶上那一排分成两组：启动台、组织架构、流程、角色，选中后再选具体那一页；角色类归进角色</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r357/VBFlow-Direct-1.1.357-357.zip" length="55709338" type="application/octet-stream" sparkle:edSignature="GScBpiLp41mvZEGYORC3hIuMw0vAAxpfG8UcW8c1llH9osIWIMlQPKcmh2ddn3jLG3STDR4b7k88xZ2oj5N4Aw==" />
     </item>
   </channel>
 </rss>
