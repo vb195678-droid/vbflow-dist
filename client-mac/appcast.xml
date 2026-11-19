@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.351</title>
-      <pubDate>Thu, 19 Nov 2026 05:35:00 +0800</pubDate>
-      <sparkle:version>351</sparkle:version>
-      <sparkle:shortVersionString>1.1.351</sparkle:shortVersionString>
+      <title>版本 1.1.352</title>
+      <pubDate>Thu, 19 Nov 2026 15:05:00 +0800</pubDate>
+      <sparkle:version>352</sparkle:version>
+      <sparkle:shortVersionString>1.1.352</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.351：急修：新版本只出一处提醒、升级只有一条路；聊天一栏下点联系人变两栏；多账号切回一栏</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r351/VBFlow-Direct-1.1.351-351.zip" length="55419273" type="application/octet-stream" sparkle:edSignature="Yh/22z3RS/WAVgiRckg7HPXsKm81dFzRpkymnccFEwsIcZGe5Ga1ANn1jzmelNTXa3L/DhLwmKb7bYjBbJhkAw==" />
+      <description>1.1.352：流程选岗位角色（老岗位角色就地改名、只超管能改、非超管只读）、选岗位窗口外部节点和空名单说明、权限角色去掉老三项、新建流程照我的权限定公司、三语扫尾、先改名提示</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r352/VBFlow-Direct-1.1.352-352.zip" length="55541572" type="application/octet-stream" sparkle:edSignature="JmhbIA5GJMAC3aBzeBoORCQFHObNBRClpf9U33miqhA5/HydIlsS08SUCYF2L+nC+EdS8Pdlp7UhKVqD6a1fBw==" />
     </item>
   </channel>
 </rss>
