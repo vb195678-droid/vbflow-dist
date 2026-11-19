@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.102",
- "build": 234,
+ "version": "1.1.103",
+ "build": 235,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47521501,
- "sha256": "617f2ac7bc1dd4978fa8f20b87205dc4a8262744d4fd2417e3a67d7d6741b030",
+ "size": 47533686,
+ "sha256": "1479177d146b6477ab53cda1f19e6db0f40290e90bba9015a97df68214562377",
  "parts": [
   {
-   "url": "r234/part-aa",
+   "url": "r235/part-aa",
    "size": 19922944,
-   "sha256": "0f232637e11be0ae10c27b952c203ee876a3c2781d8774145b9905c0a536fc80"
+   "sha256": "790f9e717316e0a930e4504df24e82bb8d55a1a412cf1c98bbe3f64b12e8d76d"
   },
   {
-   "url": "r234/part-ab",
+   "url": "r235/part-ab",
    "size": 19922944,
-   "sha256": "55d1222c932d5cf3a94e6e4973a9eaac64fd795e8fc273200e6177ab0a3cddd7"
+   "sha256": "590a682249185283eda5b2a2aed2d598938fa6b9c2741189a4b5a16bcb73c0fb"
   },
   {
-   "url": "r234/part-ac",
-   "size": 7675613,
-   "sha256": "439ed4d0413c7f32fc8f22639136b088bf3a1228d9755e992a7259a9899ec838"
+   "url": "r235/part-ac",
+   "size": 7687798,
+   "sha256": "b330e78da4a823719af517187c82ee602d332129dc6da7d897bc7cc4bfca21d9"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r234/VBFlowConsole-1.1.102.zip",
- "serverVersion": "1.1.58",
- "serverSHA256": "7c72eef52785ec40f96c4dd0fa456939e952aa76e2be421cba5d3b9e30217bb0",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r235/VBFlowConsole-1.1.103.zip",
+ "serverVersion": "1.1.59",
+ "serverSHA256": "0e7dbe9df0d04048d43d1bcf8dd64cf80a86824d87562e8ebd1a67b9804ef8c7",
  "teamID": "NJ44RP2ZZ8",
- "notes": "控制面板 1.1.102：身份变更记录（换岗、撤销等）并到一处，1 秒一对一配对回填，失败看得见、启动后自动重跑；最后一个管理员（含超级管理员）不能撤，按人设、按岗位设两条路用同一处判断；控制面板设管理员和电脑端走同一条规则；控制面板里一级叫「组织架构」、五段第一段叫「机构」；画流程选外部审批人时，外部公司改成同时取、每家最多等 3 秒，对方关机不再拖成十几秒超时。自带服务程序 1.1.58。",
- "releasedAt": "2026-11-19T15:35:59Z",
+ "notes": "控制面板 1.1.103：修控制面板里改管理员可能改错人（打开权限页后这个人换了岗位再设管理员，可能改到别人身上，现在改动由服务器当场查这个人现在的岗位再改）；修权限变更记录老历史配错，会把 1.1.102 配错的权限变更记录老历史撤回重新配对，现在只在确认是同一个人、时间对得上、没有第二种可能时才配，其余原样单独保留，原始记录不动；老记录迁移没做完时，组织里的权限变更记录仍显示全部老记录；选外部审批人时对方公司名单还在取，会提示「正在取对方公司的外部联系人名单，请稍后再打开」，不再误说成对方没有设置联系人。自带服务程序 1.1.59。",
+ "releasedAt": "2026-11-19T17:38:32Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r234/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r234/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r234/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r234/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r235/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r235/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r235/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r235/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r235/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r235/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r235/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r235/imconsole/"
  ]
 }
