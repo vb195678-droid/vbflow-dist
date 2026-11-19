@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.99",
- "build": 231,
+ "version": "1.1.100",
+ "build": 232,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47474849,
- "sha256": "12b02f9adfc6cb08e759d472eac77177e0135cfcb760f71cf872d2a2fc1322b0",
+ "size": 47490425,
+ "sha256": "b638f9187653f9b659f5dc88911261edce4002ca51c8ff50c529bd7361a90970",
  "parts": [
   {
-   "url": "r231/part-aa",
+   "url": "r232/part-aa",
    "size": 19922944,
-   "sha256": "08939f5ce78b074c3c02cd6de9853c19b860b178e64ec93030572398f2e9cf2f"
+   "sha256": "2902ea6396427796108974dca7aed757561abfa470ba2395eab5db0bf29c58c3"
   },
   {
-   "url": "r231/part-ab",
+   "url": "r232/part-ab",
    "size": 19922944,
-   "sha256": "6cdaced5ccd7015ddcbbca645aad993fe85c26b61701b2855c55f45d90114da7"
+   "sha256": "8ec9f9bf42579ae19c9aa9ab8072fa590d9a204c68e475dbf339cc8b7f54ea72"
   },
   {
-   "url": "r231/part-ac",
-   "size": 7628961,
-   "sha256": "f44b089ea262d540e488e48228336109a20ebd352ec2a38c296a1c5b943497cd"
+   "url": "r232/part-ac",
+   "size": 7644537,
+   "sha256": "d5e200ab0f3451aa27d435fbdc5289f1dcdb6b5a23de5a1b042bc2b69ea835c3"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r231/VBFlowConsole-1.1.99.zip",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r232/VBFlowConsole-1.1.100.zip",
  "serverVersion": "1.1.57",
- "serverSHA256": "b678c1ddf5b595d95f437d59ff106c07d215d80850ad987928162eaa6883939e",
+ "serverSHA256": "09e6158107264b5b08a1989392973a36fc8f22ab8b78bb2bb55a01cf1aa78c0b",
  "teamID": "NJ44RP2ZZ8",
- "notes": "子公司负责人，以及只被授了某一家子公司「流程编辑」的人，画流程时现在能选流程分类、能看到发起表单、能看这条流程的操作记录了；新建流程时会自动挂到自己所在的那家子公司。以前这几处会提示没有权限，流程画不下去。这次只放开查看，流程分类和表单的新增、修改、删除权限不变。自带服务程序 1.1.57。",
- "releasedAt": "2026-11-19T07:21:12Z",
+ "notes": "修好了点「升级」以后一直转圈、卡住不动的问题。现在点了「升级」马上有反应；还没开始换程序的时候可以点「取消」；哪一步 5 分钟没有进展，或者整轮超过 30 分钟，会自动停下来，写明卡在哪一步、数据没有动，可以点「返回」或「再试一次」。正在换程序的那一步不会被打断，做完才停。逐个升级、没升成自动换回旧版本的做法不变。自带服务程序 1.1.57。",
+ "releasedAt": "2026-11-19T08:47:01Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r231/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r231/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r231/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r231/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r231/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r231/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r231/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r231/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r232/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r232/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r232/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r232/imconsole/"
  ]
 }
