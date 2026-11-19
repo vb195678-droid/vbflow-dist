@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.97",
- "build": 229,
+ "version": "1.1.98",
+ "build": 230,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47402900,
- "sha256": "9c637ed8de5c243e1af79914064fd2c0cc02fd9490d036faf0ebee334506b69d",
+ "size": 47475426,
+ "sha256": "c5730563b21b5c2b5451c5e545ed8dd432425daeafdd3e8516b55e759f4e7888",
  "parts": [
   {
-   "url": "r229/part-aa",
+   "url": "r230/part-aa",
    "size": 19922944,
-   "sha256": "abbd19b4025848d986c1f269aef560c481387e99356f6869a1ad78da14da4c8f"
+   "sha256": "2f1edc4cf7eb5a9ccd11561fdaec972e37a29b718a233c4caa5fb57fdd16d3ae"
   },
   {
-   "url": "r229/part-ab",
+   "url": "r230/part-ab",
    "size": 19922944,
-   "sha256": "794d690816a8110ced407f9fbcf272cecc82c1ef422688fc25a6ae8136de5be1"
+   "sha256": "137e442d862d521e2636c0cf13b82c5a39732b71e655bb85b3272ef60f74c7c3"
   },
   {
-   "url": "r229/part-ac",
-   "size": 7557012,
-   "sha256": "ee9d353b8c23cd192a33c366ed22e9c4035009bd01be8fafd74ac4c219735ec0"
+   "url": "r230/part-ac",
+   "size": 7629538,
+   "sha256": "e88d93ee7a6bab7e0033bfa320526eed75057a380b27cc969fcc3e84f25904b0"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r229/VBFlowConsole-1.1.97.zip",
- "serverVersion": "1.1.55",
- "serverSHA256": "cbabde617185a517b6f5ee0ca1df31897068277b688fd8c9ce94eb7495d466f5",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r230/VBFlowConsole-1.1.98.zip",
+ "serverVersion": "1.1.56",
+ "serverSHA256": "fe398068b7bfcf90706320773abfee86dff965773ae3dfe2443d0f383d90a449",
  "teamID": "NJ44RP2ZZ8",
- "notes": "修复和改进",
- "releasedAt": "2026-11-18T12:16:42Z",
+ "notes": "画流程时能选到谁，现在只看一处：「流程选岗位角色」（就是原来的「岗位角色」），并且可以把外部公司授给岗位。子公司的人画流程，能选本子公司的岗位、自己岗位加过的外部好友，再加上授给他岗位的公司、部门、岗位和外部公司；总公司的人和超级管理员仍然能选全部。原来分开设置的「流程选人范围」「关联机构选岗位」「跨子公司选人」三项，升级时自动搬进「流程选岗位角色」，以后不再单独设置；以前直接授给个人的跨子公司选人搬不过来，会单独列出，请按岗位重新授。子公司负责人默认就是本子公司的管理员，能画本子公司的流程。指定谁能发起流程的那种角色，改叫「流程发起人角色」。选外部联系人时名单是空的，会写明为什么、去哪里设置。自带服务程序 1.1.56。",
+ "releasedAt": "2026-11-19T01:35:45Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r229/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r229/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r229/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r229/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r229/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r229/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r229/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r229/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r230/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r230/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r230/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r230/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r230/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r230/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r230/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r230/imconsole/"
  ]
 }
