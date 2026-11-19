@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.359</title>
-      <pubDate>Fri, 20 Nov 2026 01:22:00 +0800</pubDate>
-      <sparkle:version>359</sparkle:version>
-      <sparkle:shortVersionString>1.1.359</sparkle:shortVersionString>
+      <title>版本 1.1.360</title>
+      <pubDate>Fri, 20 Nov 2026 03:20:00 +0800</pubDate>
+      <sparkle:version>360</sparkle:version>
+      <sparkle:shortVersionString>1.1.360</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.359：1.1.358 的修复包：设置顶排退回 1.1.357 的做法（358 的顶排改动撤销），只留「@ 我」记名单改用真的显示着口径；其余同 1.1.358（353a、353b 急修、权限检查、定时发送 9 档、设备页说明）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r359/VBFlow-Direct-1.1.359-359.zip" length="55749590" type="application/octet-stream" sparkle:edSignature="+57YzuChjm2cRsnuCl4lvXVEZ0Pu5fMTgRqDqNxw0aT7Qi5OpEplCuSzBIWPBKjz/9Shg/NQ/iYzNWDOi7mPDw==" />
+      <description>1.1.360：修复 1.1.359：「异常」页签的流程列表补齐服务器故障清单里没解决的流程，和收件箱「流程异常 N 条」、红色数字同一份（1.1.359 发后狂测：提示说有异常、点进去却是空的）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r360/VBFlow-Direct-1.1.360-360.zip" length="55757274" type="application/octet-stream" sparkle:edSignature="hncS1GAqAJN7VF2XOiK1PI+14jMOD1Hrzjvaogw+uEalkKmjy5KfP+XayHhpEfHPUbNgc5s5jjOJSddwDNnXAg==" />
     </item>
   </channel>
 </rss>
