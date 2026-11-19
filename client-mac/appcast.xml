@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.361</title>
-      <pubDate>Fri, 20 Nov 2026 05:26:00 +0800</pubDate>
-      <sparkle:version>361</sparkle:version>
-      <sparkle:shortVersionString>1.1.361</sparkle:shortVersionString>
+      <title>版本 1.1.362</title>
+      <pubDate>Fri, 20 Nov 2026 06:13:00 +0800</pubDate>
+      <sparkle:version>362</sparkle:version>
+      <sparkle:shortVersionString>1.1.362</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.361：修复包：「异常」页签里从故障清单补出的行改为只读，只给「去处理」，不再被当成编辑中而绕开「正在用的要先停用才能删」</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r361/VBFlow-Direct-1.1.361-361.zip" length="55764460" type="application/octet-stream" sparkle:edSignature="63NniXNlovzoqmrMJR7GVcrgqZlmeeX1+emQWuR5kIUv6snDAdDQVTe0MxMoVThIvHuZIN+urqX2Ouzn88HADQ==" />
+      <description>1.1.362：收件箱「全部」页签列出已读和未读（修 1.1.360 狂测严重：全部不列读过的系统提醒、数字对不上）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r362/VBFlow-Direct-1.1.362-362.zip" length="55762332" type="application/octet-stream" sparkle:edSignature="X0PNMQLfS10QKQ6DURC5mucdDhpJKn+SsNYVdE2ox6iFD/l8IEIOFPWaxx6D2MbqBLGKLUDAEBcoakcQ1iT/CQ==" />
     </item>
   </channel>
 </rss>
