@@ -4,13 +4,13 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.363</title>
-      <pubDate>Fri, 20 Nov 2026 10:14:00 +0800</pubDate>
-      <sparkle:version>363</sparkle:version>
-      <sparkle:shortVersionString>1.1.363</sparkle:shortVersionString>
+      <title>版本 1.1.364</title>
+      <pubDate>Fri, 20 Nov 2026 12:02:00 +0800</pubDate>
+      <sparkle:version>364</sparkle:version>
+      <sparkle:shortVersionString>1.1.364</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>1.1.363：修复包：「看流程›异常」页签从故障清单补出的行，右栏服务器没给的项不再摆默认值（如「未授权」），一律写「没取到」；「节点」「改动记录」两段不再说「连不上服务器」「没开通流程」</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r363/VBFlow-Direct-1.1.363-363.zip" length="55799107" type="application/octet-stream" sparkle:edSignature="G5/zoofZI7rkqTEB6qx5FyqsseVbWx4SZfA5Ro0GD1mYasy6K/QKcdqPQCmjkKUhD4fmRotg0FMkP9R+F0JqCA==" />
+      <description>1.1.364：修复包：「现在更新」点了没反应（保留系统认本人，先拿到最前、页面马上「正在检查…」带取消、取消回原样能重点、通过进下载；安装器打开较新那份后清 busy）；收件箱点阅毕、批量待发送、作废时读状态筛选退回「全部」</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r364/VBFlow-Direct-1.1.364-364.zip" length="55806957" type="application/octet-stream" sparkle:edSignature="91llTAmv6D+c+f2PHlmwFiKoRdSlfK21sz8MWsO8/fw2o3mqUWbA8U7BBlcy4UX6LQQ42tJWWcoVpqikKjWwAA==" />
     </item>
   </channel>
 </rss>
