@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.367</title>
-      <pubDate>Sat, 21 Nov 2026 09:48:00 +0800</pubDate>
-      <sparkle:version>367</sparkle:version>
-      <sparkle:shortVersionString>1.1.367</sparkle:shortVersionString>
+      <title>版本 1.1.368</title>
+      <pubDate>Sat, 21 Nov 2026 11:16:00 +0800</pubDate>
+      <sparkle:version>368</sparkle:version>
+      <sparkle:shortVersionString>1.1.368</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <minServerVersion>1.1.57</minServerVersion>
-      <description>1.1.367：登录中可取消、认本人 60 秒时限、登录中不挡重置码；发包加商店清单关口、上海排除 ._</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r367/VBFlow-Direct-1.1.367-367.zip" length="56442134" type="application/octet-stream" sparkle:edSignature="YArRAUwZjY7RiWbrD4LR2yApVv0M2skw3Hgj8SgIUriGIHFlgL5MrXKLYN6v+az5UyDxgLNC4R7/YZXVXFtbAw==" />
+      <description>1.1.368：修复登录时点「取消」后马上重新登录，可能要再登一次的问题；登录更稳。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r368/VBFlow-Direct-1.1.368-368.zip" length="56454235" type="application/octet-stream" sparkle:edSignature="A7uDlahnKqWLFmGlF5/XcfywCQccHE6JAEweMqvaYnr5YLSXdfrDuCB63BzFSWlaN7+JOexSGf7b4omP6Dy3Bw==" />
     </item>
   </channel>
 </rss>
