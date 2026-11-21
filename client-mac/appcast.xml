@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.366</title>
-      <pubDate>Sat, 21 Nov 2026 01:18:00 +0800</pubDate>
-      <sparkle:version>366</sparkle:version>
-      <sparkle:shortVersionString>1.1.366</sparkle:shortVersionString>
+      <title>版本 1.1.367</title>
+      <pubDate>Sat, 21 Nov 2026 09:48:00 +0800</pubDate>
+      <sparkle:version>367</sparkle:version>
+      <sparkle:shortVersionString>1.1.367</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <minServerVersion>1.1.57</minServerVersion>
-      <description>1.1.366：多账号一次认本人、升级与跨版本升级、使用帮助新网页、驳回提示与登录按钮样式、若干修复</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r366/VBFlow-Direct-1.1.366-366.zip" length="56393922" type="application/octet-stream" sparkle:edSignature="zfnzd6sWYAxz73O50BSukWVmDkmlf8rLoB331dG4REuy+mvxVndiODeh3SD/7uPP8AM5yNnURfI4HqT78jHUDA==" />
+      <description>1.1.367：登录中可取消、认本人 60 秒时限、登录中不挡重置码；发包加商店清单关口、上海排除 ._</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r367/VBFlow-Direct-1.1.367-367.zip" length="56442134" type="application/octet-stream" sparkle:edSignature="YArRAUwZjY7RiWbrD4LR2yApVv0M2skw3Hgj8SgIUriGIHFlgL5MrXKLYN6v+az5UyDxgLNC4R7/YZXVXFtbAw==" />
     </item>
   </channel>
 </rss>
