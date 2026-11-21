@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.368</title>
-      <pubDate>Sat, 21 Nov 2026 11:16:00 +0800</pubDate>
-      <sparkle:version>368</sparkle:version>
-      <sparkle:shortVersionString>1.1.368</sparkle:shortVersionString>
+      <title>版本 1.1.369</title>
+      <pubDate>Sat, 21 Nov 2026 12:53:00 +0800</pubDate>
+      <sparkle:version>369</sparkle:version>
+      <sparkle:shortVersionString>1.1.369</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <minServerVersion>1.1.57</minServerVersion>
-      <description>1.1.368：修复登录时点「取消」后马上重新登录，可能要再登一次的问题；登录更稳。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r368/VBFlow-Direct-1.1.368-368.zip" length="56454235" type="application/octet-stream" sparkle:edSignature="A7uDlahnKqWLFmGlF5/XcfywCQccHE6JAEweMqvaYnr5YLSXdfrDuCB63BzFSWlaN7+JOexSGf7b4omP6Dy3Bw==" />
+      <description>1.1.369：登录时切换账号卡片显示更清楚；升级前先检查公司服务器，不会白输密码；登录更稳。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r369/VBFlow-Direct-1.1.369-369.zip" length="56508434" type="application/octet-stream" sparkle:edSignature="Xh0tuq6z0cmAXzRNiO8n82EJB7p8DxK09G2yeU/WyfpcaGb/4RHoMd8J425FzKjsb8yMyKmhFbssk7kV6ZJnBg==" />
     </item>
   </channel>
 </rss>
