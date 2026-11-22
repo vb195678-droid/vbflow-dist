@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.370</title>
-      <pubDate>Sat, 21 Nov 2026 22:58:00 +0800</pubDate>
-      <sparkle:version>370</sparkle:version>
-      <sparkle:shortVersionString>1.1.370</sparkle:shortVersionString>
+      <title>版本 1.1.371</title>
+      <pubDate>Sun, 22 Nov 2026 09:22:00 +0800</pubDate>
+      <sparkle:version>371</sparkle:version>
+      <sparkle:shortVersionString>1.1.371</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <minServerVersion>1.1.57</minServerVersion>
-      <description>1.1.370：「版本与更新」里点「现在更新」时，先确认有新版本、再查公司服务器是否够用，最后才需要验证本人；已经是最新版时不再要求验证。另一处正在等你验证时，再点只会把那个窗口拿到最前。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r370/VBFlow-Direct-1.1.370-370.zip" length="56519708" type="application/octet-stream" sparkle:edSignature="kySBMirPerh0hvxEW3EbKx3JwatTFC+xRBb9v6T+xZnXDgs4akPWVviVRGJAsi+6eLszkottvqJ3+hKse771AQ==" />
+      <description>1.1.371：设置里的组织架构、角色和流程各张表格，每一栏按最长的文字自动加宽，不再出现「…」，放不下时可以左右滑动；组织架构加了负责人、超管、管理员标签和「超管｜管理员｜内置」筛选，机构、部门、岗位可以在「废纸篓」里看到删掉的内容并恢复；删除前的确认框会写出要删的名字；画流程可以勾选节点一起删除，「结束」节点可以直接选岗位。</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r371/VBFlow-Direct-1.1.371-371.zip" length="56708720" type="application/octet-stream" sparkle:edSignature="iOc0H1YiWnRQBehp7lEDEtA2NGMQVtqMS0QM3voiJc7VmP9Ws2CdeXutYmKtHp0i2/BztrIuBv+nkND1Kog6Cg==" />
     </item>
   </channel>
 </rss>
