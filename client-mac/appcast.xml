@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.371</title>
-      <pubDate>Sun, 22 Nov 2026 09:22:00 +0800</pubDate>
-      <sparkle:version>371</sparkle:version>
-      <sparkle:shortVersionString>1.1.371</sparkle:shortVersionString>
+      <title>版本 1.1.372</title>
+      <pubDate>Sun, 22 Nov 2026 17:23:00 +0800</pubDate>
+      <sparkle:version>372</sparkle:version>
+      <sparkle:shortVersionString>1.1.372</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <minServerVersion>1.1.57</minServerVersion>
-      <description>1.1.371：设置里的组织架构、角色和流程各张表格，每一栏按最长的文字自动加宽，不再出现「…」，放不下时可以左右滑动；组织架构加了负责人、超管、管理员标签和「超管｜管理员｜内置」筛选，机构、部门、岗位可以在「废纸篓」里看到删掉的内容并恢复；删除前的确认框会写出要删的名字；画流程可以勾选节点一起删除，「结束」节点可以直接选岗位。</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r371/VBFlow-Direct-1.1.371-371.zip" length="56708720" type="application/octet-stream" sparkle:edSignature="iOc0H1YiWnRQBehp7lEDEtA2NGMQVtqMS0QM3voiJc7VmP9Ws2CdeXutYmKtHp0i2/BztrIuBv+nkND1Kog6Cg==" />
+      <description>1.1.372：电脑客户端 1.1.372 预放</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r372/VBFlow-Direct-1.1.372-372.zip" length="56773084" type="application/octet-stream" sparkle:edSignature="5QoMXPobWU61DKvGj02dWMp07T0ZSYaPdRtptKsfkR/OIY7Va3hWclu8f7nqNiRHNpvFj8yM6rgCpf4OPp3HAg==" />
     </item>
   </channel>
 </rss>
