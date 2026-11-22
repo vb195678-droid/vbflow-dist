@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.107",
- "build": 239,
+ "version": "1.1.108",
+ "build": 240,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47725988,
- "sha256": "de5d7c52b200f4b3a35cd4402ad36b798146d7db961114cb7947749fd4207f30",
+ "size": 47741054,
+ "sha256": "a9e3bd3cc56eef44c3aa541a17805e35ccb03f9c4099d4a882d81907ee5c28fb",
  "parts": [
   {
-   "url": "r239/part-aa",
+   "url": "r240/part-aa",
    "size": 19922944,
-   "sha256": "0f03a86e9162ee170efeaf313bfaa697092dcd300cfa02a281c5f6e5e599d7e2"
+   "sha256": "01b11848c05e600c62b7e626e97b4c7d19416634c6573c7eba02e73bdf22b5b1"
   },
   {
-   "url": "r239/part-ab",
+   "url": "r240/part-ab",
    "size": 19922944,
-   "sha256": "05a056c6c39fcd9b9b7f97d2b274c71556a0e415f470b5d94ef7fc08a006fc61"
+   "sha256": "e60c998b545f0b1aca672d731e41bd440316a2f2623d32a9bb7ba29501a90e8f"
   },
   {
-   "url": "r239/part-ac",
-   "size": 7880100,
-   "sha256": "6d4c52250c9abd5e7db3dc632e035436afa08c8ba8fccbc63dd8e5a9b18f777c"
+   "url": "r240/part-ac",
+   "size": 7895166,
+   "sha256": "c508ce6442da4b40fdf85ac9621341849bb36e044ff88a2eb8c19914bb02d67a"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r239/VBFlowConsole-1.1.107.zip",
- "serverVersion": "1.1.61",
- "serverSHA256": "0b8244f6387c046ea54516e1cbee383667dd1e2798421f2ed5e0775411395886",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r240/VBFlowConsole-1.1.108.zip",
+ "serverVersion": "1.1.62",
+ "serverSHA256": "b316ee89bfd39c2cbed4b6bcdc775916726e694a7e32f2908c7e90271cd98ea8",
  "teamID": "NJ44RP2ZZ8",
- "notes": "新增：版本太旧时提示先下载最新安装包，版本临近停止使用时提前 30 天起提醒；员工页「帮他重置密码」的重置码改成 4 位数字，字体加大、可复制、有「拷贝」按钮；人员详情新增「日志」，列出这个人的全部变更；待审核的申请超过 3 天没处理，页面顶上红字提示。优化：「软件更新」并入「安装和升级」；升级到一半断电或关机后更稳。自带服务程序 1.1.61。",
- "releasedAt": "2026-11-20T18:34:32Z",
+ "notes": "新增：被管理员作废的账号登录时，提示「这个账号已被管理员作废，请联系管理员」；外部好友的「解除好友、拉黑、恢复、转移」按钮由服务器统一告诉各端哪些能点；企业申请、好友申请发出后，对方马上收到提醒；服务器可以要求太旧的手机或电脑客户端先升级再操作。优化：刷脸登录换钥匙遇到网络重试时不再重复换；控制面板的「开始设置」在试用模式里不再停在第 3 步转圈。自带服务程序 1.1.62。",
+ "releasedAt": "2026-11-22T06:48:19Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r239/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r239/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r239/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r239/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r239/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r239/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r239/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r239/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r240/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r240/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r240/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r240/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r240/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r240/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r240/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r240/imconsole/"
  ]
 }
