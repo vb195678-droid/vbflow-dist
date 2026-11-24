@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.109",
- "build": 241,
+ "version": "1.1.110",
+ "build": 242,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47845739,
- "sha256": "7e8f1e3899042ff7d73f32577b20285c0998187f86eedb2355a2c2c0f22adc67",
+ "size": 47848431,
+ "sha256": "3cf5f373a4e04257719077554964464de0acca102bddc909282fe152e137c36d",
  "parts": [
   {
-   "url": "r241/part-aa",
+   "url": "r242/part-aa",
    "size": 19922944,
-   "sha256": "1e5af30de591353b135081a2d6ddfe1b612ce64065b04701b1abf9b974c9a939"
+   "sha256": "43971c205eb14198595405933fab482d17de642e8723e12b985bc34abb83b5c8"
   },
   {
-   "url": "r241/part-ab",
+   "url": "r242/part-ab",
    "size": 19922944,
-   "sha256": "51bab7e125e832aa53f45fef05424d3514392c66791b4673dee733b6743400a0"
+   "sha256": "a0a0a1a12ad10c25122e2bc9a011c42808fbb982d54417b512613330d78a3256"
   },
   {
-   "url": "r241/part-ac",
-   "size": 7999851,
-   "sha256": "f05f251b697dffa3a8eafc4f5b1f0975a37e4b7dfb2a081a51c84748d03d05f8"
+   "url": "r242/part-ac",
+   "size": 8002543,
+   "sha256": "e7c6cc01c9a8eb3de8a125814c30e4d58a1d9f3440cf2d367e961f91b5b37dff"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r241/VBFlowConsole-1.1.109.zip",
- "serverVersion": "1.1.63",
- "serverSHA256": "e398cb563e60fbcb7c38ec1a66fc943a97637150798d01c14a26396e07c9f3e5",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r242/VBFlowConsole-1.1.110.zip",
+ "serverVersion": "1.1.64",
+ "serverSHA256": "d6f6483f1940cb115f28853e265de4e8ffd145bd52aa221581b4fc188809e11b",
  "teamID": "NJ44RP2ZZ8",
- "notes": "新增：备份的「恢复钥匙包」现在带上服务器的私章和旧公钥清单，恢复时原样放回、章不变；库里已有服务器编号却找不到私章文件时，服务器不再悄悄生成一枚新章，而是停下来，在控制面板用红字写清原因和出路。企业服务器到期提醒的标红天数可设置（默认 7 天，控制面板和服务器状态用同一个数）；流程列表的页签数字由服务器按分类、类型统计，并带全部异常数；好友申请列表带「发出待回复数」，每条带到期时间和状态，过期由服务器判；视频附件对方能取到预览图、附件信息带时长和宽高，读不出来或超时时不会把空当真。管理员驳回注册时只推权限变更并断开长连接，不再误广播账号已删除。自带服务程序 1.1.63。\n使用提示：用老备份在同一台电脑恢复、且备份里没有印章时，恢复向导会提示选回原来的印章文件；要在同一个向导里点「选择印章文件…」选回原章，选好后服务器才会用原章继续。\n已知取舍：旧章找不到、而这台服务器以前签过章时，服务器整台停下（不会静默换章），控制面板出红字步骤，出路是红字里写的步骤（找回原章文件后选回）。\n没测到的（发包说明必须写明）：入口二（新增企业号›从备份恢复）真机未测；选错章被拒这一路没核实；退回路径的提示文字只有单测，没在界面上看过。\n补记（质量员 11-23）：M6 真换里，入口二（新增企业号›从备份恢复）和同机恢复（备份→恢复→私章一致）在正式 1.1.109 包上都没测到，不算通过；升级中途强关后重开能收尾并升完，但乙的升级记录缺「升级成功」那一行、升级时间页没有乙一条，这是已知缺口，归 1.1.64 修；断网、真断电真机未测；正式壳点「安装更新」弹出的系统认本人框（输密码）真人一步未测，旧版用的是一次性测试壳。",
- "releasedAt": "2026-11-22T20:20:33Z",
+ "notes": "本包在 1.1.109 基础上只带四条审计查出的高危修复，别的改动不带。服务程序 1.1.64。\n一、互联的外部联系人查询：对方传来的翻页位置是负数时，服务器不再崩溃，按从头开始处理。\n二、附件按范围下载：请求的结束位置极大时，服务器不再因数字溢出崩溃，结束位置按文件实际大小截止。\n三、数据落盘加密迁移：加密时只处理还没加密的内容，已经是密文的行不再重复处理，迁移能正常结束，不会在后台反复抢写锁；解密时打不开的行不再卡住后面的批次。\n四、互联的外部群：对方通知的成员名单里如果带有本机的人，服务器不再接受对方指定的角色（包括群主），本机人员的角色以本机记录和已接受的邀请为准。\n没测到的：入口二（新增企业号›从备份恢复）和同机恢复在正式包上没测到；断网、断电真机未测；正式壳点「安装更新」弹出的系统认本人框（输密码）真人一步未测；升级中途强关重开后乙缺「升级成功」那一行，是已知缺口，归后续版本。选错章被拒这一路没核实；退回路径的提示文字只有单测，没在界面上看过。本包四条修复在服务器单测里有红变绿测试，没有在联机的真实外部服务器上走过一遍。\n预编说明：本包的预编由 mini 重编（SQ-U1 当时连不上），SQ-U1 上的预编产物没用。",
+ "releasedAt": "2026-11-24T03:05:08Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r241/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r241/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r241/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r241/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r241/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r241/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r241/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r241/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r242/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r242/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r242/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r242/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r242/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r242/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r242/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r242/imconsole/"
  ]
 }
