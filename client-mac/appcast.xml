@@ -4,14 +4,14 @@
     <title>又田办公</title>
     <language>zh-CN</language>
     <item>
-      <title>版本 1.1.374</title>
-      <pubDate>Thu, 26 Nov 2026 14:34:00 +0800</pubDate>
-      <sparkle:version>374</sparkle:version>
-      <sparkle:shortVersionString>1.1.374</sparkle:shortVersionString>
+      <title>版本 1.1.375</title>
+      <pubDate>Thu, 26 Nov 2026 19:06:00 +0800</pubDate>
+      <sparkle:version>375</sparkle:version>
+      <sparkle:shortVersionString>1.1.375</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <minServerVersion>1.1.57</minServerVersion>
-      <description>1.1.374：审计修复一批、表格选择框统一、组织四页窄窗、设置顶排两行和角色页签编号、检查更新框修复（不含有图 19）</description>
-      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r374/VBFlow-Direct-1.1.374-374.zip" length="56837177" type="application/octet-stream" sparkle:edSignature="rOhedLu1De7yrtALVcbSUwrW5/ODZ54j6LdhutbvzN53vKNKIaZbC7+EIUz5RDClilqIKmHZC5O3G44CXV+ACw==" />
+      <description>1.1.375：大附件下载不再受 20 秒总时限（附件暂时打不开修复）</description>
+      <enclosure url="https://github.com/vb195678-droid/vbflow-dist/releases/download/mac-r375/VBFlow-Direct-1.1.375-375.zip" length="56837937" type="application/octet-stream" sparkle:edSignature="IA8T8M1tfwXJ+JXr+1i5G+95DO+OLEe/wUExoMKQDlyZiD7VvWoyWtd04MQpxQbXe7amQB8I3AZZF5Me83RfBA==" />
     </item>
   </channel>
 </rss>
