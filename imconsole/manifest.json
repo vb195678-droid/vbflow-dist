@@ -1,45 +1,45 @@
 {
  "product": "imconsole",
  "channel": "stable",
- "version": "1.1.111",
- "build": 243,
+ "version": "1.1.112",
+ "build": 245,
  "minBuild": 134,
  "minMacOS": "26.0",
- "size": 47893648,
- "sha256": "68b8f177a2cc58e660790d3f20f40a10c3712b41aed640fa1ec725b5b01978f2",
+ "size": 47960204,
+ "sha256": "aab181e81269f40168c8030c5020113fbd7e8a9f5eb14e93781f8c1b192a5375",
  "parts": [
   {
-   "url": "r243/part-aa",
+   "url": "r245/part-aa",
    "size": 19922944,
-   "sha256": "5c2035d49249aab36e32fb43f65140d3d32a08b01971e237e32b192eab6c18ed"
+   "sha256": "fba0d335213ecfd0cc051c6797e2377ea7b3a980620682755c9eaead8c7a1285"
   },
   {
-   "url": "r243/part-ab",
+   "url": "r245/part-ab",
    "size": 19922944,
-   "sha256": "54e89b9dfc1381da2c7d37e033e30efce8143aa2bf460b8d6915f5386c10c852"
+   "sha256": "29de1f8235a51d44cfa3875aa590f502ca6d398d52fbfba3d5053c0e036041d6"
   },
   {
-   "url": "r243/part-ac",
-   "size": 8047760,
-   "sha256": "bf42276b1624da30ab5c8441be79fc814951e369efa2aa3db1f2fb09b77ce07e"
+   "url": "r245/part-ac",
+   "size": 8114316,
+   "sha256": "3d721a4cf5cdcd42c8f9d9b306eed32794b363731083d3e80ff38bbbece2ceae"
   }
  ],
- "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r243/VBFlowConsole-1.1.111.zip",
- "serverVersion": "1.1.65",
- "serverSHA256": "3b3c2c6e078bb3e375bf819fa232c2ccff0d56d0d6035da9ef2c32c1572cab93",
+ "fullURL": "https://github.com/vb195678-droid/vbflow-dist/releases/download/imconsole-r245/VBFlowConsole-1.1.112.zip",
+ "serverVersion": "1.1.66",
+ "serverSHA256": "4810862c9ce2b5aadb2006bfcbb0f2e70b2e0d86cb3b091f6cf5209be040f41b",
  "teamID": "NJ44RP2ZZ8",
- "notes": "本包在 1.1.110 基础上带审计查出的中等缺陷修复（三组）和几处使用上的小改进，服务程序 1.1.65。\n一、中等缺陷修复：服务器端和控制面板一批审计查出的中等问题（扫码登录等待、牵线接口、改密码、注销账号按次数或来源限速，状态文件读坏不再当空表，撤回或阅后销毁时清掉对方的附件缓存，彻底删除删到一半时列表照样提示「删除未完成，请重试」，读不到组织信息时不再清空员工页等），都有修前红、修后绿的测试。\n二、员工在外面连不进来时，控制面板会自动重试，不用人去点。\n三、联网设置 › 保底连接里「又田口令」那一行：我们的中转还在测的时候显示「正在测…」，不再提前写「正常」。\n四、设置 › 连接与域名 › 中转机 › 重新配置：中转机配好了、但最后一步没能把隧道指过去时，报红字「中转机配好了，但……没能把隧道指过去」，不再写「配好了」。\n没测到的：第四条那一态（重新配置时隧道没指过去的红字）真机未测，只有单测（四种情况：找不到启动文件、文件里没有要改的地址、成功、重新加载没成），因为要先用 root 密码真登上一台中转机才走得到。第三条「正在测」是在测试机上用假前台造出「付费中转开着、测没测通还没结果」这一态点到的，真服务器自己什么时候会这样回没在联机环境里看过。第二条自动重试和第一条各修复只有单测和离屏页面对比，没在联机的真实外部环境里走过一遍。\n1.1.110 起就没测到、本包仍没测到的：入口二（新增企业号›从备份恢复）和同机恢复在正式包上没测到；断网、断电真机未测；正式壳点「安装更新」弹出的系统认本人框（输密码）真人一步未测；升级中途强关重开后乙缺「升级成功」那一行，是已知缺口，归后续版本。选错章被拒这一路没核实；退回路径的提示文字只有单测，没在界面上看过。1.1.110 那四条高危修复在服务器单测里有红变绿测试，仍没有在联机的真实外部服务器上走过一遍。\n已知老问题：两本使用说明和 docs 差 3 个字符（老红），归下一包。\n不带的：直连引擎按实例那一条（043）这一包摘出，不编进去，归下一包。",
- "releasedAt": "2026-11-25T08:35:57Z",
+ "notes": "本包在 1.1.111 基础上改报警、备份老用户判法、开机到最前和后台升级助手，服务程序 1.1.66。\n一、报警：同一原因不重复开窗；管理台没开着时，报警用一个单独的小窗（不在程序坞多出图标，760x620 可以拉大），摆在最前面但不抢键盘，正在打字的地方不受影响；管理台开着时报警直接显示在管理台里。报警和「已恢复」通知的声音换成系统默认通知声（1.1.111 是 Basso、Glass），跟着系统勿扰和本 App 在系统设置里的声音开关走；「已恢复」通知标题改为「又田服务器」；备份提醒和「还没设每天开始时间」通知不出声。\n二、「还没设每天开始时间」只发通知、不弹报警窗：同一台第一次发一条，之后每 7 天一次。\n三、备份「老用户照旧 03:00」：所有又田企业号统一判一次，只认已经装着每天备份任务的为老用户。1.1.55～1.1.111 期间被旧判法写成每天 03:00 的新台照旧保留 03:00，不追回、不改；要改时间请在备份页自己设。\n四、又田服务器打开时到最前面（访达双击、程序坞、命令行、登录项、⌘Tab 都一样）；后台进程不再在程序坞多出图标；用安装盘升级后程序坞不再多出一个图标；单独报警窗开着时打开管理台，管理台会到最前；点通知能把没开着的管理台叫起来。\n五、附件库自检不再反复写硬盘；打洞日志同一句 10 分钟只记一次。\n六、后台升级助手被系统拦住时自己修好（每天最多 3 次、每次隔一小时）；换壳收尾补了检查脚本。\n没测到的：以最终包上的检查结果为准，在发包记录里逐条照实写；要真人做的那一下（输密码、系统允许框、耳朵听通知声）没做到的写「真机未测」。\n1.1.110 起就没测到、本包仍没测到的：入口二（新增企业号›从备份恢复）和同机恢复在正式包上没测到；断网、断电真机未测；正式壳点「安装更新」弹出的系统认本人框（输密码）真人一步未测。\n本包最终包上也没测到：用安装盘升级后服务程序要认本人才升，那一下没输，服务程序自动升级没走完（真机未测）；登录项只用命令行模拟，系统真登录项（注销再登录）真机未测。\n已知老问题：两本使用说明和 docs 差 3 个字符（老红），归下一包。冻结清单 CP-锁-01、CP-列-01 的文字和 1.1.111 现状对不上，另查，不是本包改的。",
+ "releasedAt": "2026-11-26T12:03:47Z",
  "rollout": 100,
  "mirrors": [
   "https://47.117.8.76/vbflow-dist/imconsole/",
-  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r243/imconsole/",
-  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r243/imconsole/",
-  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r243/imconsole/",
-  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r243/imconsole/",
-  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r243/imconsole/",
-  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r243/imconsole/",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r243/imconsole/",
-  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r243/imconsole/"
+  "https://fastly.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r245/imconsole/",
+  "https://cdn.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r245/imconsole/",
+  "https://testingcf.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r245/imconsole/",
+  "https://gcore.jsdelivr.net/gh/vb195678-droid/vbflow-dist@imconsole-r245/imconsole/",
+  "https://cdn.jsdmirror.com/gh/vb195678-droid/vbflow-dist@imconsole-r245/imconsole/",
+  "https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r245/imconsole/",
+  "https://gh-proxy.com/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r245/imconsole/",
+  "https://ghfast.top/https://raw.githubusercontent.com/vb195678-droid/vbflow-dist/imconsole-r245/imconsole/"
  ]
 }
